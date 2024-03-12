@@ -1,0 +1,36 @@
+- name: Add a line to a file
+  become: yes
+  lineinfile:
+    path: /home/ubuntu/project/CCC--COMP90024-2023-/Backend/.envdb_api
+    line: DBurl = '{{groups['backend'][0]}}:{{couchdb_port}}'
+    insertafter: EOF
+
+- name: Add a line to a file
+  become: yes
+  lineinfile:
+    path: /home/ubuntu/project/CCC--COMP90024-2023-/Backend/.envdb_api
+    line: DBurl2 = '{{groups['masternode'][0]}}:{{couchdb_port}}'
+    insertafter: EOF
+- name: Add a line to a file
+  become: yes
+  lineinfile:
+    path: /home/ubuntu/project/CCC--COMP90024-2023-/Backend/.envdb_api
+    line: DBurl3 = '{{groups['crawler'][0]}}:{{couchdb_port}}'
+    insertafter: EOF
+- name: Add a line to a file
+  become: yes
+  lineinfile:
+    path: /home/ubuntu/project/CCC--COMP90024-2023-/Backend/.envdb_api
+    line: DBurl4 = '{{groups['frontend'][0]}}:{{couchdb_port}}'
+    insertafter: EOF
+
+- name: Build docker image
+  become: yes
+  command: 'docker build -t flask_server .'
+  args:  
+    chdir: /home/ubuntu/project/CCC--COMP90024-2023-/Backend/
+
+- name: Run docker image
+  become: yes
+  command: docker run -p 5000:5000 -d flask_server
+  

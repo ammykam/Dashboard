@@ -1,0 +1,16 @@
+- name: Add a line to a file
+  become: yes
+  lineinfile:
+    path: /home/ubuntu/project/CCC--COMP90024-2023-/comp90024_frontend/.env
+    line: "REACT_APP_BACKEND = http://{{groups['backend'][0]}}:5000"
+    insertafter: EOF
+
+- name: Build docker image
+  become: yes
+  command: 'docker build -t react_ui .'
+  args:  
+    chdir: /home/ubuntu/project/CCC--COMP90024-2023-/comp90024_frontend 
+
+- name: Run docker image
+  become: yes
+  command: docker run -itd -p 3000:3000 -d react_ui

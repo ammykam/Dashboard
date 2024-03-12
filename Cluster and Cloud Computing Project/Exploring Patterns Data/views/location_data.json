@@ -1,0 +1,19 @@
+{
+  "_id": "_design/location",
+  "_rev": "12-6c8db7db509cbff94e547368ff4079d5",
+  "views": {
+    "coordinates": {
+      "map": "function (doc) {\n  emit([doc.places, doc.lat, doc.lon], 1);\n}",
+      "reduce": "_count"
+    },
+    "overall_score": {
+      "reduce": "_sum",
+      "map": "function (doc) {\n  emit([doc.places, doc.sentiment], 1);\n}"
+    },
+    "sentiment_overall": {
+      "reduce": "_sum",
+      "map": "function (doc) {\n  emit(doc.sentiment, 1);\n}"
+    }
+  },
+  "language": "javascript"
+}

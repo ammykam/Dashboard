@@ -1,0 +1,11 @@
+{
+  "_id": "_design/sentiment_gp",
+  "_rev": "1-016f8e1bd9835993b425c3df219249d9",
+  "views": {
+    "sentiment_gp": {
+      "reduce": "_sum",
+      "map": "function (doc) {\n  emit(doc.sentiment, 1);\n}"
+    }
+  },
+  "language": "javascript"
+}

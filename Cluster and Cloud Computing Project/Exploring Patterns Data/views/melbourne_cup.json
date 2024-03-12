@@ -1,0 +1,11 @@
+{
+  "_id": "_design/melbcup",
+  "_rev": "1-15457c5b629cfab6d9db55c6c5604162",
+  "views": {
+    "melbcup": {
+      "reduce": "_sum",
+      "map": "function (doc) {\n  emit(doc.sentiment, 1);\n}"
+    }
+  },
+  "language": "javascript"
+}

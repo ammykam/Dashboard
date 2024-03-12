@@ -1,0 +1,15 @@
+{
+    "_id": "abffaf792f81afa2206430b551b25072",
+    "_rev": "1-799f2be2cad5210e8db3b9eee471dade",
+    "views": {
+      "month_on_month": {
+        "reduce": "_sum",
+        "map": "function(doc) {\r\n  var d = new Date(doc.created_at);\r\n  var year = d.getFullYear(); // Get the year\r\n  var month = d.getMonth() + 1; // Get the month (0-11), add 1 to match 1-12 range\r\n\r\n  emit({ year: year, month: month }, 1);\r\n}"
+      },
+      "day_of_month": {
+        "reduce": "_sum",
+        "map": "function(doc) {\r\n  var d = new Date(doc.created_at);\r\n  var month = d.getMonth() +1; // Get Month\r\n  var day = d.getDate() +1; // Get Day\r\n  emit({ month: month, day: day }, 1);\r\n}"
+      }
+    },
+    "language": "javascript"
+  }

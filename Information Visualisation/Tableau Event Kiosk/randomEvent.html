@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RandomEvent</title>
+</head>
+
+
+<style>
+body {
+    background-color: black;
+    color: white; /* Set text color to white for better visibility on a black background */
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+button {
+    width: 40%;
+    font-size: 16px;
+    padding: 10px; 
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #FFE809;
+}
+
+#container {
+  min-width: 200px;
+  max-width: 600px;
+  height: 350px;
+  margin: 0 auto;
+}
+
+</style>
+
+
+<body>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+
+<figure class="wheel-figure">
+    <div id="container"></div>
+  <div class='controls'>
+    <br></br>
+    <button id="play">Random Event</button>
+  </div>
+</figure>  
+</body>
+</html>
+
+
+<script>
+Highcharts.setOptions({
+    colors: ['#FFB6C1', '#C1FFC1', '#FFFF99', '#FFDAB9', '#B0C4DE']
+});
+
+let chart;
+
+window.addEventListener('DOMContentLoaded', () => {
+    const button = document.getElementById('play');
+    let t; // animation
+
+    button.addEventListener('click', e => {
+        if (t) {
+            clearInterval(t);
+        }
+        button.disabled = true;
+
+        chart.setTitle( {
+            text:  'The Event is coming for you...'
+        });
+
+        let diff = 25 + Math.random() * 10,
+            startAngle = chart.series[0].options.startAngle;
+
+        const animationSpeed = 15;
+        t = setInterval(() => { // Animation loop  
+            
+            startAngle += diff;
+            if (startAngle > 360) {
+                startAngle -= 360;
+            }
+            diff *= 0.98;
+            chart.series[0].update({ startAngle });
+            
+            if (diff < 0.01) {
+                const winner = findWinner(chart.series[0].data);
+                chart.setTitle({
+                    text:  'Your selected event is ' +
+                    chart.series[0].data[winner].name +'!'
+                });
+                clearInterval(t);
+                button.disabled = false;
+            }
+        }, animationSpeed);
+    });
+
+    let triangle;
+    chart = Highcharts.chart('container', {
+         tooltip: false,
+         chart: {
+            backgroundColor: 'black',
+            animation: false,
+            marginTop: 35,
+            events: {
+                resize: function () {   
+                    triangle.destroy();
+                    triangle = chart.renderer.path([
+                        ['M', chart.chartWidth / 2 - 10, chart.plotTop - 5],
+                        ['L', chart.chartWidth / 2 + 10, chart.plotTop - 5],
+                        ['L', chart.chartWidth / 2, chart.plotTop + 10],
+                        ['Z']
+                    ])
+                    .attr({
+                        fill: 'white'
+                    })
+                    .add();
+                }  
+            }
+        },
+
+        title: {
+            text: 'Where to go with Random Events!',
+            style: {
+                    color: 'white' // Set the title text color to white
+                }
+        },
+        series: [{
+            type: 'pie',
+            size: '70%',
+            dataLabels: {
+                distance: -20
+            },
+            data: [
+                ['Melbourne Fringe Festival', 1],
+                ['THE LUME Melbourne', 1],
+                ['Arriba Melbourne Mexican Festival', 1],
+                ['Oktoberfest at Hofbräuhaus', 1],
+                ['African Music and Cultural Festival', 1]
+            ],
+            startAngle: 360 * Math.random()
+        }]
+
+    });
+
+    triangle = chart.renderer.path([
+            ['M', chart.chartWidth / 2 - 10, chart.plotTop +30],
+            ['L', chart.chartWidth / 2 + 10, chart.plotTop +30],
+            ['L', chart.chartWidth / 2, chart.plotTop + 50],
+            ['Z']
+        ])
+        .attr({
+            fill: 'white'
+        })
+        .add();
+});
+
+const radToDeg = r => r * 180 / Math.PI;
+
+const findWinner = (data) => {
+    const sliceSize = 360 / data.length;
+    const winThreshold = 360 - sliceSize;
+    let sliceBeginning; // This marks the beginning of a slice.
+
+    for (let i in data) {
+        sliceBeginning = radToDeg(data[i].shapeArgs.start) + 90;
+
+        if (sliceBeginning > 360) {
+            sliceBeginning -= 360;
+        }
+        if (sliceBeginning > winThreshold) {
+            return i;
+        }
+    }
+    return -1;
+}
+</script>

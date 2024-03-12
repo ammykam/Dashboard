@@ -1,0 +1,10 @@
+{
+  "_id": "_design/sentiment",
+  "_rev": "10-254682736c2308c8034378c1bc3d7f51",
+  "views": {
+    "sentiment": {
+      "map": "function(doc) {emit(doc.sentiment, 1);}",
+      "reduce": "_sum"
+    }
+  }
+}

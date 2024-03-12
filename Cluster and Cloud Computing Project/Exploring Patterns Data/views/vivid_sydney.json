@@ -1,0 +1,11 @@
+{
+  "_id": "_design/sentiment_vivid",
+  "_rev": "1-8216542f509e3ca787730e57c3cd4f40",
+  "views": {
+    "vivid_sydney": {
+      "reduce": "_sum",
+      "map": "function (doc) {\n  emit(doc.sentiment, 1);\n}"
+    }
+  },
+  "language": "javascript"
+}

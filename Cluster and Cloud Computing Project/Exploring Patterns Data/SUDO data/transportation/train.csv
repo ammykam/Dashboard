@@ -1,0 +1,221 @@
+STOP_ID, ROUTES_USING_STOP, LONGITUDE, TICKETZONE, LATITUDE, STOP_NAME, OBJECTID
+"20038","Craigieburn",144.919161,"1",-37.765707,"Moonee Ponds Railway Station (Moonee Ponds)",204
+"20015","Mernda",144.997056,"1",-37.764101,"Croxton Railway Station (Northcote)",186
+"19967","Upfield",144.960684,"1",-37.761242,"Anstey Railway Station (Brunswick)",143
+"20003","Sunbury",144.811348,"2",-37.760067,"Ginifer Railway Station (St Albans)",174
+"20037","Craigieburn",144.916198,"1",-37.756012,"Essendon Railway Station (Essendon)",203
+"20014","Mernda",144.998572,"1",-37.755052,"Thornbury Railway Station (Thornbury)",185
+"19966","Upfield",144.961823,"1",-37.754485,"Moreland Railway Station (Coburg)",142
+"20036","Craigieburn",144.920939,"1",-37.74721,"Glenbervie Railway Station (Essendon)",202
+"20013","Mernda",145.000155,"1",-37.745562,"Bell Railway Station (Preston)",184
+"20002","Sunbury",144.80005,"2",-37.744861,"St Albans Railway Station (St Albans)",173
+"20035","Craigieburn",144.927316,"1",-37.743591,"Strathmore Railway Station (Strathmore)",201
+"19965","Upfield",144.963336,"1",-37.742345,"Coburg Railway Station (Coburg)",141
+"20012","Mernda",145.000522,"1,2",-37.738674,"Preston Railway Station (Preston)",183
+"19964","Upfield",144.962841,"1,2",-37.733523,"Batman Railway Station (Coburg North)",140
+"20034","Craigieburn",144.928196,"1,2",-37.730756,"Pascoe Vale Railway Station (Pascoe Vale)",200
+"20001","Sunbury",144.793738,"2",-37.729279,"Keilor Plains Railway Station (St Albans)",172
+"20011","Mernda",145.002773,"1,2",-37.728403,"Regent Railway Station (Reservoir)",182
+"19963","Upfield",144.961314,"1,2",-37.720934,"Merlynston Railway Station (Coburg North)",139
+"20033","Craigieburn",144.921519,"1,2",-37.71795,"Oak Park Railway Station (Oak Park)",199
+"20010","Mernda",145.006996,"1,2",-37.716885,"Reservoir Railway Station (Reservoir)",181
+"19962","Upfield",144.960545,"1,2",-37.714621,"Fawkner Railway Station (Fawkner)",138
+"20009","Mernda",145.009517,"2",-37.707898,"Ruthven Railway Station (Reservoir)",180
+"20032","Craigieburn",144.91722,"1,2",-37.704536,"Glenroy Railway Station (Glenroy)",198
+"20000","Sunbury",144.77418,"2",-37.701129,"Watergardens Railway Station (Sydenham)",171
+"19961","Upfield",144.958874,"2",-37.700678,"Gowrie Railway Station (Glenroy)",137
+"20031","Craigieburn",144.915851,"2",-37.695131,"Jacana Railway Station (Glenroy)",197
+"20008","Mernda",145.011884,"2",-37.69487,"Keon Park Railway Station (Thomastown)",179
+"20030","Craigieburn",144.919613,"2",-37.683049,"Broadmeadows Railway Station (Broadmeadows)",196
+"20007","Mernda",145.014279,"2",-37.680338,"Thomastown Railway Station (Thomastown)",178
+"19960","Upfield",144.94674,"2",-37.666078,"Upfield Railway Station (Coolaroo)",136
+"20006","Mernda",145.017193,"2",-37.665851,"Lalor Railway Station (Lalor)",177
+"44817","Craigieburn",144.926056,"2",-37.661003,"Coolaroo Railway Station (Coolaroo)",212
+"20005","Mernda",145.031068,"2",-37.652187,"Epping Railway Station (Epping)",176
+"40220","Craigieburn",144.935404,"2",-37.638231,"Roxburgh Park Railway Station (Roxburgh Park)",210
+"15353","Sunbury",144.719922,"2",-37.627017,"Diggers Rest Railway Station (Diggers Rest)",2
+"40221","Craigieburn",144.94332,"2",-37.601817,"Craigieburn Railway Station (Craigieburn)",211
+"15351","Sunbury",144.727319,"2",-37.579091,"Sunbury Railway Station (Sunbury)",1
+"19893","Lilydale,Belgrave",145.081224,"1,2",-37.824485,"Canterbury Railway Station (Canterbury)",69
+"19894","Lilydale,Belgrave",145.088648,"1,2",-37.8243,"Chatham Railway Station (Surrey Hills)",70
+"19895","Lilydale,Belgrave",145.098775,"1,2",-37.824148,"Surrey Hills Railway Station (Surrey Hills)",71
+"19908","Belgrave,Cranbourne,Frankston,Glen Waverley,Lilydale,Pakenham,Sandringham,Alamein",144.990164,"1",-37.824074,"Richmond Railway Station (Richmond)",84
+"19903","Belgrave,Lilydale,Alamein",145.045844,"1",-37.822398,"Auburn Railway Station (Hawthorn East)",79
+"19905","Belgrave,Lilydale,Alamein",145.022899,"1",-37.821826,"Hawthorn Railway Station (Hawthorn)",81
+"19904","Belgrave,Lilydale,Alamein",145.036439,"1",-37.821467,"Glenferrie Railway Station (Hawthorn)",80
+"19897","Lilydale,Belgrave",145.140703,"2",-37.82078,"Laburnum Railway Station (Blackburn)",73
+"19899","Lilydale,Belgrave",145.175237,"2",-37.820428,"Nunawading Railway Station (Nunawading)",75
+"19898","Lilydale,Belgrave",145.150014,"2",-37.820071,"Blackburn Railway Station (Blackburn)",74
+"19896","Lilydale,Belgrave",145.10553,"1,2",-37.819427,"Mont Albert Railway Station (Mont Albert)",72
+"20042","Lilydale,Belgrave",145.121429,"2",-37.819222,"Box Hill Railway Station (Box Hill)",208
+"19901","Lilydale,Belgrave",145.21355,"2",-37.818835,"Heatherdale Railway Station (Ringwood)",77
+"19900","Lilydale,Belgrave",145.192892,"2",-37.818087,"Mitcham Railway Station (Mitcham)",76
+"19979","Mernda,Hurstbridge",144.984098,"1",-37.816527,"Jolimont-MCG Railway Station (East Melbourne)",155
+"19902","Lilydale,Belgrave",145.229474,"2",-37.81566,"Ringwood Railway Station (Ringwood)",78
+"19978","Mernda,Hurstbridge",144.991423,"1",-37.814949,"West Richmond Railway Station (Richmond)",154
+"19879","Lilydale",145.250191,"2",-37.811968,"Ringwood East Railway Station (Ringwood East)",55
+"19843","Belgrave,Craigieburn,Cranbourne,Flemington,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sunbury,Upfield,Alamein",144.972911,"1",-37.811054,"Parliament Railway Station (Melbourne City)",19
+"19977","Mernda,Hurstbridge",144.9925,"1",-37.810398,"North Richmond Railway Station (Richmond)",153
+"19976","Mernda,Hurstbridge",144.99375,"1",-37.804526,"Collingwood Railway Station (Abbotsford)",152
+"19975","Mernda,Hurstbridge",144.994451,"1",-37.799158,"Victoria Park Railway Station (Abbotsford)",151
+"19878","Lilydale",145.280598,"2",-37.795437,"Croydon Railway Station (Croydon)",54
+"19974","Mernda,Hurstbridge",144.995417,"1",-37.788657,"Clifton Hill Railway Station (Clifton Hill)",150
+"19877","Lilydale",145.312402,"2",-37.784749,"Mooroolbark Railway Station (Mooroolbark)",53
+"20019","Mernda",144.992407,"1",-37.783217,"Rushall Railway Station (Fitzroy North)",189
+"19928","Hurstbridge",144.999233,"1",-37.780621,"Westgarth Railway Station (Northcote)",104
+"19929","Hurstbridge",145.008242,"1",-37.779187,"Dennis Railway Station (Northcote)",105
+"19930","Hurstbridge",145.016905,"1",-37.779171,"Fairfield Railway Station (Fairfield)",106
+"19931","Hurstbridge",145.031255,"1",-37.778394,"Alphington Railway Station (Alphington)",107
+"20017","Mernda",144.992972,"1",-37.777847,"Merri Railway Station (Northcote)",188
+"19932","Hurstbridge",145.038476,"1",-37.774963,"Darebin Railway Station (Ivanhoe)",108
+"19933","Hurstbridge",145.045425,"1,2",-37.768897,"Ivanhoe Railway Station (Ivanhoe)",109
+"19934","Hurstbridge",145.053943,"1,2",-37.763586,"Eaglemont Railway Station (Eaglemont)",110
+"19935","Hurstbridge",145.060686,"1,2",-37.757073,"Heidelberg Railway Station (Heidelberg)",111
+"19876","Lilydale",145.34771,"2",-37.755518,"Lilydale Railway Station (Lilydale)",52
+"19936","Hurstbridge",145.06614,"2",-37.742879,"Rosanna Railway Station (Rosanna)",112
+"19983","Hurstbridge",145.069143,"2",-37.726012,"Macleod Railway Station (Macleod)",156
+"19986","Hurstbridge",145.121516,"2",-37.715296,"Montmorency Railway Station (Montmorency)",159
+"19987","Hurstbridge",145.147822,"2",-37.71355,"Eltham Railway Station (Eltham)",160
+"19984","Hurstbridge",145.083793,"2",-37.710958,"Watsonia Railway Station (Watsonia)",157
+"19985","Hurstbridge",145.108247,"2",-37.703954,"Greensborough Railway Station (Greensborough)",158
+"19988","Hurstbridge",145.158506,"2",-37.673297,"Diamond Creek Railway Station (Diamond Creek)",161
+"19989","Hurstbridge",145.181615,"2",-37.663968,"Wattle Glen Railway Station (Wattle Glen)",162
+"45795","Mernda",145.067032,"2",-37.649159,"South Morang Railway Station (South Morang)",215
+"52159","Mernda",145.092144,"2",-37.644061,"Middle Gorge Railway Station (South Morang)",218
+"19990","Hurstbridge",145.192017,"2",-37.639398,"Hurstbridge Railway Station (Hurstbridge)",163
+"52160","Mernda",145.097396,"2",-37.622995,"Hawkstowe Railway Station (South Morang)",219
+"52161","Mernda",145.100885,"2",-37.602548,"Mernda Railway Station (Mernda)",220
+"19921","Werribee",144.661118,"2",-37.899378,"Werribee Railway Station (Werribee)",97
+"19922","Werribee",144.700955,"2",-37.883276,"Hoppers Crossing Railway Station (Hoppers Crossing)",98
+"46468","Werribee",144.747445,"2",-37.869865,"Williams Landing Railway Station (Williams Landing)",216
+"19927","Werribee",144.840958,"1",-37.867842,"Seaholme Railway Station (Seaholme)",103
+"19991","Williamstown",144.905323,"1",-37.867753,"Williamstown Railway Station (Williamstown)",164
+"19926","Werribee",144.829645,"1,2",-37.867148,"Altona Railway Station (Altona)",102
+"19924","Werribee",144.760809,"2",-37.866606,"Aircraft Railway Station (Laverton)",100
+"19925","Werribee",144.813494,"1,2",-37.865163,"Westona Railway Station (Altona)",101
+"19992","Williamstown",144.894484,"1",-37.863982,"Williamstown Beach Railway Station (Williamstown)",165
+"19923","Werribee",144.772617,"1,2",-37.863694,"Laverton Railway Station (Laverton)",99
+"19993","Williamstown",144.889069,"1",-37.857333,"North Williamstown Railway Station (Williamstown)",166
+"19994","Williamstown,Werribee",144.8836,"1",-37.842718,"Newport Railway Station (Newport)",167
+"19995","Williamstown,Werribee",144.885933,"1",-37.830639,"Spotswood Railway Station (Spotswood)",168
+"19854","Belgrave,Craigieburn,Cranbourne,Flemington,Frankston,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sandringham,Sunbury,Upfield,Werribee,Williamstown,Alamein",144.966964,"1",-37.818305,"Flinders Street Railway Station (Melbourne City)",30
+"22180","Belgrave,Craigieburn,Cranbourne,Flemington,Frankston,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sandringham,Sunbury,Upfield,Werribee,Williamstown,Alamein",144.951411,"1",-37.817936,"Southern Cross Railway Station (Melbourne City)",209
+"19996","Williamstown,Werribee",144.889934,"1",-37.81585,"Yarraville Railway Station (Yarraville)",169
+"19841","Belgrave,Craigieburn,Cranbourne,Flemington,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sunbury,Upfield,Alamein",144.955654,"1",-37.811981,"Flagstaff Railway Station (Melbourne City)",17
+"19842","Belgrave,Craigieburn,Cranbourne,Flemington,Glen Waverley,Hurstbridge,Lilydale,Mernda,Pakenham,Sunbury,Upfield,Alamein",144.962594,"1",-37.809939,"Melbourne Central Railway Station (Melbourne City)",18
+"19997","Williamstown,Werribee",144.895672,"1",-37.809005,"Seddon Railway Station (Seddon)",170
+"19973","Flemington,Sunbury,Upfield,Werribee,Williamstown,Craigieburn",144.94257,"1",-37.807419,"North Melbourne Railway Station (West Melbourne)",149
+"20024","Sunbury",144.891472,"1",-37.802505,"Middle Footscray Railway Station (Footscray)",193
+"20023","Sunbury",144.883985,"1",-37.801803,"West Footscray Railway Station (West Footscray)",192
+"20025","Werribee,Williamstown,Sunbury",144.903199,"1",-37.801083,"Footscray Railway Station (Footscray)",194
+"20026","Williamstown,Werribee",144.925469,"1",-37.799531,"South Kensington Railway Station (Kensington)",195
+"20022","Sunbury",144.862945,"1",-37.799251,"Tottenham Railway Station (West Footscray)",191
+"19972","Upfield",144.936166,"1",-37.794267,"Macaulay Railway Station (North Melbourne)",148
+"20041","Craigieburn",144.930524,"1",-37.79378,"Kensington Railway Station (Kensington)",207
+"20021","Sunbury",144.832878,"1,2",-37.788536,"Sunshine Railway Station (Sunshine)",190
+"19971","Upfield",144.939323,"1",-37.78814,"Flemington Bridge Railway Station (North Melbourne)",147
+"20040","Craigieburn",144.928978,"1",-37.787328,"Newmarket Railway Station (Flemington)",206
+"19970","Upfield",144.952301,"1",-37.781193,"Royal Park Railway Station (Parkville)",146
+"20004","Sunbury",144.824704,"1,2",-37.777653,"Albion Railway Station (Sunshine North)",175
+"20039","Craigieburn",144.921821,"1",-37.775306,"Ascot Vale Railway Station (Ascot Vale)",205
+"19969","Upfield",144.958717,"1",-37.774987,"Jewell Railway Station (Brunswick)",145
+"20016","Mernda",144.995277,"1",-37.769865,"Northcote Railway Station (Northcote)",187
+"19968","Upfield",144.959587,"1",-37.767721,"Brunswick Railway Station (Brunswick)",144
+"19844","Belgrave",145.355291,"2",-37.909102,"Belgrave Railway Station (Belgrave)",20
+"19845","Belgrave",145.342995,"2",-37.908118,"Tecoma Railway Station (Tecoma)",21
+"19952","Sandringham",145.002605,"1,2",-37.904887,"North Brighton Railway Station (Brighton)",128
+"19846","Belgrave",145.331333,"2",-37.903691,"Upwey Railway Station (Upwey)",22
+"19941","Frankston",145.039613,"1,2",-37.903212,"Ormond Railway Station (Ormond)",117
+"19917","Pakenham,Cranbourne",145.088308,"1,2",-37.900372,"Oakleigh Railway Station (Oakleigh)",93
+"19953","Sandringham",145.004168,"1",-37.896695,"Gardenvale Railway Station (Brighton)",129
+"19918","Pakenham,Cranbourne",145.077635,"1,2",-37.894881,"Hughesdale Railway Station (Hughesdale)",94
+"19867","Belgrave",145.30753,"2",-37.892672,"Upper Ferntree Gully Railway Station (Upper Ferntree Gully)",43
+"19919","Pakenham,Cranbourne",145.067375,"1",-37.890198,"Murrumbeena Railway Station (Murrumbeena)",95
+"19942","Frankston",145.042223,"1",-37.889719,"Glenhuntly Railway Station (Glen Huntly)",118
+"19920","Pakenham,Cranbourne",145.058575,"1",-37.886241,"Carnegie Railway Station (Carnegie)",96
+"19954","Sandringham",145.000898,"1",-37.884753,"Elsternwick Railway Station (Elsternwick)",130
+"19868","Belgrave",145.295251,"2",-37.881698,"Ferntree Gully Railway Station (Ferntree Gully)",44
+"19873","Glen Waverley",145.162058,"2",-37.879504,"Glen Waverley Railway Station (Glen Waverley)",49
+"19943","Frankston,Pakenham,Cranbourne",145.042525,"1",-37.877459,"Caulfield Railway Station (Caulfield East)",119
+"19838","Glen Waverley",145.069393,"1,2",-37.87693,"East Malvern Railway Station (Malvern East)",14
+"19874","Glen Waverley",145.14978,"2",-37.87623,"Syndal Railway Station (Glen Waverley)",50
+"19955","Sandringham",144.995237,"1",-37.875906,"Ripponlea Railway Station (Ripponlea)",131
+"19875","Glen Waverley",145.128056,"2",-37.875255,"Mount Waverley Railway Station (Mount Waverley)",51
+"19839","Glen Waverley",145.090662,"1,2",-37.874402,"Holmesglen Railway Station (Malvern East)",15
+"19840","Glen Waverley",145.11209,"2",-37.873603,"Jordanville Railway Station (Mount Waverley)",16
+"19956","Sandringham",144.993512,"1",-37.869488,"Balaclava Railway Station (Balaclava)",132
+"19837","Glen Waverley",145.062951,"1,2",-37.868957,"Darling Railway Station (Malvern East)",13
+"19847","Alamein",145.079656,"1",-37.86832,"Alamein Railway Station (Ashburton)",23
+"19944","Frankston",145.029294,"1",-37.866253,"Malvern Railway Station (Malvern)",120
+"19848","Alamein",145.081344,"1",-37.861968,"Ashburton Railway Station (Ashburton)",24
+"19869","Belgrave",145.284385,"2",-37.860452,"Boronia Railway Station (Boronia)",45
+"19835","Glen Waverley",145.058225,"1",-37.859308,"Glen Iris Railway Station (Glen Iris)",11
+"19945","Frankston",145.019326,"1",-37.856452,"Armadale Railway Station (Armadale)",121
+"19957","Sandringham",144.992035,"1",-37.856053,"Windsor Railway Station (Windsor)",133
+"19912","Glen Waverley",145.051655,"1",-37.853279,"Gardiner Railway Station (Glen Iris)",88
+"19849","Alamein",145.080511,"1",-37.851563,"Burwood Railway Station (Glen Iris)",25
+"19946","Frankston",145.013909,"1",-37.850774,"Toorak Railway Station (Armadale)",122
+"19958","Sandringham",144.98986,"1",-37.849518,"Prahran Railway Station (Prahran)",134
+"19911","Glen Waverley",145.041734,"1",-37.849366,"Tooronga Railway Station (Malvern)",87
+"19947","Frankston",145.002142,"1",-37.844591,"Hawksburn Railway Station (South Yarra)",123
+"19850","Alamein",145.07556,"1",-37.843985,"Hartwell Railway Station (Camberwell)",26
+"19870","Belgrave",145.268136,"2",-37.84173,"Bayswater Railway Station (Bayswater)",46
+"19910","Glen Waverley",145.033552,"1",-37.839929,"Kooyong Railway Station (Kooyong)",86
+"19959","Frankston,Pakenham,Sandringham,Cranbourne",144.992342,"1",-37.838449,"South Yarra Railway Station (South Yarra)",135
+"19851","Alamein",145.070298,"1",-37.835716,"Willison Railway Station (Camberwell)",27
+"19909","Glen Waverley",145.022635,"1",-37.834672,"Heyington Railway Station (Toorak)",85
+"19852","Alamein",145.069646,"1",-37.831505,"Riversdale Railway Station (Camberwell)",28
+"19871","Belgrave",145.244555,"2",-37.828322,"Heathmont Railway Station (Heathmont)",47
+"19906","Belgrave,Glen Waverley,Lilydale,Alamein",145.007555,"1",-37.82756,"Burnley Railway Station (Burnley)",82
+"19853","Belgrave,Lilydale,Alamein",145.058697,"1",-37.826567,"Camberwell Railway Station (Camberwell)",29
+"19907","Belgrave,Glen Waverley,Lilydale,Alamein",144.997066,"1",-37.8264,"East Richmond Railway Station (Richmond)",83
+"19892","Lilydale,Belgrave",145.06819,"1",-37.825894,"East Camberwell Railway Station (Camberwell)",68
+"19827","Stony Point",145.221837,"2",-38.374235,"Stony Point Railway Station (Crib Point)",3
+"19828","Stony Point",145.204043,"2",-38.366123,"Crib Point Railway Station (Crib Point)",4
+"19829","Stony Point",145.189602,"2",-38.354033,"Morradoo Railway Station (Crib Point)",5
+"19830","Stony Point",145.178027,"2",-38.33739,"Bittern Railway Station (Bittern)",6
+"19831","Stony Point",145.18598,"2",-38.305659,"Hastings Railway Station (Hastings)",7
+"19832","Stony Point",145.186401,"2",-38.259815,"Tyabb Railway Station (Tyabb)",8
+"19833","Stony Point",145.176245,"2",-38.225342,"Somerville Railway Station (Somerville)",9
+"19834","Stony Point",145.160526,"2",-38.194043,"Baxter Railway Station (Baxter)",10
+"19836","Stony Point",145.139534,"2",-38.152034,"Leawarra Railway Station (Frankston)",12
+"19855","Stony Point,Frankston",145.126162,"2",-38.14299,"Frankston Railway Station (Frankston)",31
+"19856","Frankston",145.135295,"2",-38.121742,"Kananook Railway Station (Seaford)",32
+"19857","Frankston",145.12823,"2",-38.104021,"Seaford Railway Station (Seaford)",33
+"19886","Cranbourne",145.280599,"2",-38.099537,"Cranbourne Railway Station (Cranbourne)",62
+"19880","Pakenham",145.486379,"2",-38.080614,"Pakenham Railway Station (Pakenham)",56
+"19887","Cranbourne",145.263511,"2",-38.079,"Merinda Park Railway Station (Cranbourne North)",63
+"19858","Frankston",145.122833,"2",-38.076504,"Carrum Railway Station (Carrum)",34
+"45794","Pakenham",145.437791,"2",-38.07129,"Cardinia Road Railway Station (Pakenham)",214
+"19881","Pakenham",145.410987,"2",-38.066146,"Officer Railway Station (Officer)",57
+"19859","Frankston",145.11968,"2",-38.062945,"Bonbeach Railway Station (Bonbeach)",35
+"45793","Cranbourne",145.249275,"2",-38.057341,"Lynbrook Railway Station (Lynbrook)",213
+"19860","Frankston",145.116041,"2",-38.051955,"Chelsea Railway Station (Chelsea)",36
+"19882","Pakenham",145.366074,"2",-38.050831,"Beaconsfield Railway Station (Beaconsfield)",58
+"19883","Pakenham",145.345726,"2",-38.040408,"Berwick Railway Station (Berwick)",59
+"19861","Frankston",145.108536,"2",-38.038056,"Edithvale Railway Station (Edithvale)",37
+"19884","Pakenham",145.303969,"2",-38.027809,"Narre Warren Railway Station (Narre Warren)",60
+"19862","Frankston",145.10215,"2",-38.02722,"Aspendale Railway Station (Aspendale)",38
+"19885","Pakenham",145.269777,"2",-38.01774,"Hallam Railway Station (Hallam)",61
+"19863","Frankston",145.087659,"2",-38.006583,"Mordialloc Railway Station (Mordialloc)",39
+"19864","Frankston",145.076327,"2",-37.993079,"Parkdale Railway Station (Parkdale)",40
+"19888","Pakenham,Cranbourne",145.209725,"2",-37.989968,"Dandenong Railway Station (Dandenong)",64
+"19865","Frankston",145.065166,"2",-37.981865,"Mentone Railway Station (Mentone)",41
+"19889","Pakenham,Cranbourne",145.1916,"2",-37.978255,"Yarraman Railway Station (Noble Park)",65
+"19866","Frankston",145.054558,"2",-37.96665,"Cheltenham Railway Station (Cheltenham)",42
+"19890","Pakenham,Cranbourne",145.176325,"2",-37.966628,"Noble Park Railway Station (Noble Park)",66
+"52095","Frankston",145.049121,"2",-37.958756,"Southland Railway Station (Cheltenham)",217
+"19891","Pakenham,Cranbourne",145.162826,"2",-37.956505,"Sandown Park Railway Station (Springvale)",67
+"19948","Sandringham",145.004561,"2",-37.95033,"Sandringham Railway Station (Sandringham)",124
+"19913","Pakenham,Cranbourne",145.153452,"2",-37.949509,"Springvale Railway Station (Springvale)",89
+"19872","Frankston",145.041872,"2",-37.948425,"Highett Railway Station (Highett)",48
+"19914","Pakenham,Cranbourne",145.138833,"2",-37.938491,"Westall Railway Station (Clayton South)",90
+"19949","Sandringham",145.001471,"2",-37.937977,"Hampton Railway Station (Hampton)",125
+"19937","Frankston",145.036738,"2",-37.934353,"Moorabbin Railway Station (Moorabbin)",113
+"19950","Sandringham",144.989154,"1,2",-37.926484,"Brighton Beach Railway Station (Brighton)",126
+"19938","Frankston",145.03547,"2",-37.925149,"Patterson Railway Station (Bentleigh)",114
+"19915","Pakenham,Cranbourne",145.120534,"2",-37.924683,"Clayton Railway Station (Clayton)",91
+"19939","Frankston",145.036995,"1,2",-37.917425,"Bentleigh Railway Station (Bentleigh)",115
+"19951","Sandringham",144.996299,"1,2",-37.915134,"Middle Brighton Railway Station (Brighton)",127
+"19916","Pakenham,Cranbourne",145.102364,"1,2",-37.911017,"Huntingdale Railway Station (Oakleigh)",92
+"19940","Frankston",145.038299,"1,2",-37.910309,"McKinnon Railway Station (Mckinnon)",116

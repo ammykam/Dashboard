@@ -1,0 +1,11 @@
+{
+  "_id": "_design/lgbtq",
+  "_rev": "1-bf9dbc363631e2cf16f3537d994a0fa6",
+  "views": {
+    "lgbtq_view": {
+      "reduce": "_sum",
+      "map": "function (doc) {\n  emit(doc.sentiment, 1);\n}"
+    }
+  },
+  "language": "javascript"
+}

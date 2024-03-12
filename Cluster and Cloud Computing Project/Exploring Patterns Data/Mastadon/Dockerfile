@@ -1,0 +1,6 @@
+FROM python:latest
+RUN apt-get update && apt-get install -y curl
+RUN curl -O https://files.pythonhosted.org/packages/08/9b/1e3a058da4ce91bb1ebe4a025d56e9cd774461f924ea2a87c2049ad2ac98/Mastodon.py-1.8.0-py2.py3-none-any.whl
+COPY . .
+RUN pip3 install -r requirements.txt
+CMD ["python3", "Update_crime_toot.py"]

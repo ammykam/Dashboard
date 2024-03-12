@@ -1,0 +1,10 @@
+{
+  "_id": "_design/population",
+  "_rev": "1-86e9b6f08b931ae0bbf97cf2aec07365",
+  "views": {
+    "no_location": {
+      "map": "function (doc) {\n  emit(doc.properties, 1);\n}"
+    }
+  },
+  "language": "javascript"
+}

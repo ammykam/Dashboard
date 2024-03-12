@@ -1,0 +1,1666 @@
+STOP_ID, ROUTES_USING_STOP, LONGITUDE, TICKETZONE, LATITUDE, STOP_NAME, OBJECTID
+"18514","82",144.918257,"1",-37.772026,"36-Bayview Tce/Maribyrnong Rd (Moonee Ponds)",796
+"18515","82",144.916322,"1",-37.771812,"37-Union Rd/Maribyrnong Rd (Moonee Ponds)",797
+"17938","82,57",144.915997,"1",-37.771644,"37-Union Rd/Maribyrnong Rd (Moonee Ponds)",347
+"18519","57",144.91607,"1",-37.77187,"37-Maribyrnong Rd/Union Rd (Ascot Vale)",4
+"17945","57",144.915943,"1",-37.773571,"36-St Leonards Rd/Union Rd (Ascot Vale)",353
+"18520","57",144.91578,"1",-37.773703,"36-St Leonards Rd/Union Rd (Ascot Vale)",5
+"18516","82,57",144.912757,"1",-37.771415,"38-Ferguson St/Maribyrnong Rd (Ascot Vale)",1
+"17937","82,57",144.91233,"1",-37.771236,"38-Hotham St/Maribyrnong Rd (Moonee Ponds)",346
+"17946","57",144.91556,"1",-37.775889,"35-Bloomfield Rd/Union Rd (Ascot Vale)",354
+"18521","57",144.915395,"1",-37.776103,"35-Munro St/Union Rd (Ascot Vale)",6
+"17936","82,57",144.909003,"1",-37.770862,"39-Bowen St/Maribyrnong Rd (Moonee Ponds)",345
+"18517","82,57",144.90918,"1",-37.771027,"39-Bowen St/Maribyrnong Rd (Moonee Ponds)",2
+"17947","57",144.915225,"1",-37.778533,"34-Burrowes St/Union Rd (Ascot Vale)",355
+"18522","57",144.914949,"1",-37.778627,"34-Burrowes St/Union Rd (Ascot Vale)",7
+"18518","82,57",144.905672,"1",-37.770631,"40-Epsom Rd/Maribyrnong Rd (Ascot Vale)",3
+"17935","82,57",144.905121,"1",-37.770432,"40-Epsom Rd/Maribyrnong Rd (Moonee Ponds)",344
+"17948","57",144.914787,"1",-37.780355,"33-Melbourne Showgrounds/Union Rd (Ascot Vale)",356
+"17949","57",144.916712,"1",-37.782587,"32-Sandown Rd/Epsom Rd (Ascot Vale)",357
+"18524","57",144.916675,"1",-37.782668,"32-Sandown Rd/Epsom Rd (Ascot Vale)",8
+"18485","82,57",144.902571,"1",-37.770297,"41-Maribyrnong Park/Maribyrnong Rd (Ascot Vale)",611
+"992","82,57",144.902055,"1",-37.77008,"41-Maribyrnong Park/Maribyrnong Rd (Ascot Vale)",1500
+"18486","82,57",144.899087,"1",-37.769829,"42-Clyde St/Raleigh Rd (Maribyrnong)",612
+"1083","82,57",144.898841,"1",-37.769699,"42-Clyde St/Raleigh Rd (Maribyrnong)",157
+"18487","82,57",144.896122,"1",-37.769506,"43-Van Ness Ave/Raleigh Rd (Maribyrnong)",613
+"4945","82,57",144.895673,"1",-37.769318,"43-Van Ness Ave/Raleigh Rd (Maribyrnong)",1653
+"18488","82,57",144.892184,"1",-37.769057,"44-Warrs Rd/Raleigh Rd (Maribyrnong)",614
+"13995","82,57",144.891985,"1",-37.768891,"44-Barb St/Raleigh Rd (Maribyrnong)",164
+"18489","82,57",144.889548,"1",-37.768739,"45-Maribyrnong Community Centre/Raleigh Rd (Maribyrnong)",615
+"15559","82,57",144.888938,"1",-37.768629,"45-Randall St/Raleigh Rd (Maribyrnong)",168
+"18490","82,57",144.887157,"1",-37.769003,"46-Rosamond Rd/Raleigh Rd (Maribyrnong)",616
+"17917","82,57",144.886729,"1",-37.768887,"46-Rosamond Rd/Raleigh Rd (Maribyrnong)",326
+"18491","82,57",144.883319,"1",-37.769403,"48-Wests Rd/Raleigh Rd (Maribyrnong)",617
+"17918","82",144.882813,"1",-37.769637,"48-Raleigh Rd/Wests Rd (Maribyrnong)",327
+"22320","57",144.882425,"1",-37.769315,"48-Wests Rd/Cordite Ave (Maribyrnong)",1403
+"18497","82",144.89124,"1",-37.779917,"54-Gordon St/River St (Maribyrnong)",623
+"17924","82",144.890931,"1",-37.780002,"54-Gordon St/River St (Maribyrnong)",333
+"17944","57",144.877977,"1",-37.768856,"49-Central Park Ave/Cordite Ave (Maribyrnong)",352
+"17921","82",144.885571,"1",-37.77604,"51-Williamson Rd/Rosamond Rd (Maidstone)",330
+"17919","82",144.882181,"1",-37.773104,"49-Highpoint Shopping Centre/Wests Rd (Maribyrnong)",328
+"18494","82",144.885643,"1",-37.776293,"51-Williamson Rd/Rosamond Rd (Maidstone)",620
+"18492","82",144.882266,"1",-37.773286,"49-Highpoint Shopping Centre/Wests Rd (Maribyrnong)",618
+"18498","82",144.891348,"1",-37.782118,"55-Lyric St/Gordon St (Maribyrnong)",624
+"17925","82",144.891151,"1",-37.782241,"55-Lyric St/Gordon St (Maribyrnong)",334
+"18496","82",144.888094,"1",-37.779545,"53-Maribyrnong College/River St (Maribyrnong)",622
+"17923","82",144.887786,"1",-37.779594,"53-Maribyrnong College/River St (Maribyrnong)",332
+"18493","82",144.881992,"1",-37.77493,"50-Williamson Rd/Wests Rd (Maribyrnong)",619
+"17920","82",144.882143,"1",-37.775212,"50-Wests Rd/Williamson Rd (Maribyrnong)",329
+"18495","82",144.885206,"1",-37.778502,"52-River St/Rosamond Rd (Maribyrnong)",621
+"17922","82",144.88575,"1",-37.779332,"52-Rosamond Rd/River St (Maribyrnong)",331
+"18080","58",144.945708,"1",-37.7548,"39-Mattingley Cres/Melville Rd (Brunswick West)",419
+"18559","58",144.94555,"1",-37.754779,"39-McGregor Ave/Melville Rd (Brunswick West)",40
+"18560","58",144.945655,"1",-37.753429,"40-Moreland Rd/Melville Rd (Brunswick West)",41
+"18081","58",144.945901,"1",-37.753163,"40-Moreland Rd/Melville Rd (Brunswick West)",420
+"19376","59",144.915894,"1",-37.752663,"42-Grice Cres/Mt Alexander Rd (Essendon)",936
+"19658","59",144.915649,"1",-37.752496,"42-Shamrock St/Mt Alexander Rd (Essendon)",1084
+"19659","59",144.914361,"1",-37.750662,"43-Thistle St/Mt Alexander Rd (Essendon)",1085
+"19467","59",144.914226,"1",-37.750227,"43-Brewster St/Mt Alexander Rd (Essendon)",1017
+"18561","58",144.946354,"1",-37.749512,"41-Woodlands Ave/Melville Rd (Pascoe Vale South)",42
+"18082","58",144.946552,"1",-37.749317,"41-Woodlands Ave/Melville Rd (Pascoe Vale South)",421
+"19660","59",144.912803,"1",-37.748355,"44-Thorn St/Mt Alexander Rd (Essendon)",1086
+"19468","59",144.912754,"1",-37.748101,"44-Thorn St/Mt Alexander Rd (Essendon)",1018
+"18562","58",144.944334,"1",-37.746611,"42-Reynard St/Melville Rd (Pascoe Vale South)",43
+"19469","59",144.91163,"1",-37.746486,"45-Glass St/Mt Alexander Rd (Essendon)",1019
+"18083","58",144.944556,"1",-37.746399,"42-Reynard St/Melville Rd (Pascoe Vale South)",422
+"19661","59",144.911463,"1",-37.746384,"45-Leake St/Mt Alexander Rd (Essendon)",1087
+"19662","59",144.910351,"1",-37.74477,"46-Lincoln Rd/Mt Alexander Rd (Essendon)",1088
+"19663","59",144.909097,"1",-37.744162,"47-Mt Alexander Rd/Keilor Rd (Essendon)",1089
+"18563","58",144.944767,"1",-37.744122,"43-Princes Tce/Melville Rd (Pascoe Vale South)",44
+"19470","59",144.908944,"1",-37.743952,"47-Mt Alexander Rd/Keilor Rd (Essendon)",1020
+"18084","58",144.944999,"1",-37.743928,"43-Princes Tce/Melville Rd (Pascoe Vale South)",423
+"19664","59",144.905696,"1",-37.742821,"48-Service St/Keilor Rd (Essendon)",1090
+"19471","59",144.905768,"1",-37.742688,"48-Service St/Keilor Rd (Essendon North)",1021
+"18564","58",144.945133,"1",-37.741966,"44-Brearley Pde/Melville Rd (Pascoe Vale South)",45
+"19665","59",144.90297,"1",-37.741683,"49-Essendon North Primary School/Keilor Rd (Essendon North)",1091
+"18085","58",144.945404,"1",-37.741592,"44-Brearley Pde/Melville Rd (Pascoe Vale South)",424
+"19472","59",144.902885,"1",-37.741501,"49-Essendon North PS/Keilor Rd (Essendon North)",1022
+"19666","59",144.899415,"1",-37.740204,"50-Cooper St/Keilor Rd (Essendon)",1092
+"18086","58",144.945592,"1",-37.740117,"45-Bell St/Melville Rd (Pascoe Vale South)",425
+"19473","59",144.899351,"1",-37.740032,"50-Cooper St/Keilor Rd (Essendon North)",1023
+"19667","59",144.895926,"1",-37.738772,"51-Bradshaw St/Keilor Rd (Essendon)",1093
+"21196","59",144.895829,"1",-37.738599,"51-Bradshaw St/Keilor Rd (Essendon)",1384
+"20774","59",144.892547,"1",-37.737477,"52-Hoffmans Rd/Keilor Rd (Essendon)",1297
+"22305","59",144.89235,"1",-37.737231,"52-Treadwell Rd/Keilor Rd (Niddrie)",1401
+"19669","59",144.890168,"1",-37.736552,"53A-Matthews Ave/Keilor Rd (Essendon)",1094
+"19475","59",144.889365,"1",-37.735258,"53-Keilor Rd/Matthews Ave (Niddrie)",1024
+"19670","59",144.889316,"1",-37.734959,"53-Keilor Rd/Matthews Ave (Niddrie)",1095
+"19671","59",144.889696,"1",-37.732371,"54-Fullarton Rd/Matthews Ave (Airport West)",1096
+"19477","59",144.889833,"1",-37.732355,"54-Fullarton Rd/Matthews Ave (Niddrie)",1025
+"19672","59",144.890128,"1",-37.729963,"55-Cameron St/Matthews Ave (Airport West)",1097
+"19478","59",144.890254,"1",-37.729912,"55-Cameron St/Matthews Ave (Airport West)",1026
+"19479","59",144.890668,"1",-37.727324,"56-Earl St/Matthews Ave (Airport West)",1027
+"19673","59",144.890603,"1",-37.727205,"56-Earl St/Matthews Ave (Airport West)",1098
+"19674","59",144.891286,"1",-37.723117,"57-Hawker St/Matthews Ave (Airport West)",1099
+"19480","59",144.89139,"1",-37.723065,"57-Hawker St/Matthews Ave (Airport West)",1028
+"19675","59",144.891975,"1",-37.718416,"58-Marshall Rd/Matthews Ave (Airport West)",1100
+"19481","59",144.892079,"1",-37.718373,"58-Marshall Rd/Matthews Ave (Airport West)",1029
+"19482","59",144.890562,"1",-37.71384,"59-Airport West/Matthews Ave (Airport West)",1030
+"18079","58",144.945385,"1",-37.756623,"38-Jacobs Reserve/Melville Rd (Brunswick West)",418
+"18558","58",144.945154,"1",-37.756764,"38-Jacobs Reserve/Melville Rd (Brunswick West)",39
+"18078","58",144.944991,"1",-37.758563,"37-Albion St/Melville Rd (Brunswick West)",417
+"18557","58",144.944771,"1",-37.75874,"37-Albion St/Melville Rd (Brunswick West)",38
+"18077","58",144.944384,"1",-37.76204,"36-Hope St/Melville Rd (Brunswick West)",416
+"18556","58",144.944154,"1",-37.762162,"36-Hope St/Melville Rd (Brunswick West)",37
+"18076","58",144.94389,"1",-37.764708,"35-Victoria St/Melville Rd (Brunswick West)",415
+"18555","58",144.94368,"1",-37.764912,"35-Victoria St/Melville Rd (Brunswick West)",36
+"18075","58",144.943319,"1",-37.767311,"34-Smith St/Melville Rd (Brunswick)",414
+"18554","58",144.943095,"1",-37.767614,"34-Smith St/Melville Rd (Brunswick West)",35
+"19274","59",144.925817,"1",-37.755812,"38-Pascoe Vale Rd/Fletcher St (Essendon)",855
+"19626","59",144.926036,"1",-37.756113,"38-Fletcher St/Pascoe Vale Rd (Essendon)",1080
+"20775","59",144.926461,"1",-37.757932,"37-Buckley St/Pascoe Vale Rd (Essendon)",1298
+"19625","59",144.92635,"1",-37.758255,"37-Buckley St/Pascoe Vale Rd (Moonee Ponds)",1079
+"19627","59",144.923164,"1",-37.755693,"39-Hoddle St/Fletcher St (Essendon)",1081
+"19275","59",144.922762,"1",-37.75547,"39-Hoddle St/Fletcher St (Essendon)",856
+"19272","59",144.926286,"1",-37.75974,"36-Salisbury St/Pascoe Vale Rd (Moonee Ponds)",854
+"19624","59",144.926078,"1",-37.759863,"36-Murray St/Pascoe Vale Rd (Moonee Ponds)",1078
+"19628","59",144.920958,"1",-37.755456,"40-Nicholson St/Fletcher St (Essendon)",1082
+"19276","59",144.920205,"1",-37.755172,"40-Nicholson St/Fletcher St (Essendon)",857
+"19277","59",144.917601,"1",-37.754928,"41-Fletcher St/Napier St (Essendon)",858
+"19657","59",144.917387,"1",-37.754879,"41-Fletcher St/Napier St (Essendon)",1083
+"19271","59",144.925811,"1",-37.762526,"35-Queens Park/Pascoe Vale Rd (Moonee Ponds)",853
+"19623","59",144.92559,"1",-37.762702,"35-Queens Park/Pascoe Vale Rd (Moonee Ponds)",1077
+"19609","59",144.925361,"1",-37.764005,"34-Moonee Valley Civic Centre/Pascoe Vale Rd (Moonee Ponds)",1076
+"19270","59",144.925455,"1",-37.764313,"34-Moonee Valley Civic Centre/Pascoe Vale Rd (Moonee Ponds)",852
+"19608","82,59",144.92481,"1",-37.766653,"32-Moonee Ponds Junction/Pascoe Vale Rd (Moonee Ponds)",1075
+"19269","82,59",144.924916,"1",-37.766935,"32-Moonee Ponds Junction/Pascoe Vale Rd (Moonee Ponds)",851
+"19268","59",144.926233,"1",-37.770599,"31-Montgomery St/Mt Alexander Rd (Moonee Ponds)",850
+"19606","59",144.926071,"1",-37.770686,"31-Montgomery St/Mt Alexander Rd (Moonee Ponds)",1074
+"18511","82",144.924443,"1",-37.770053,"33-Chaucer St/Ascot Vale Rd (Moonee Ponds)",633
+"17942","82",144.924284,"1",-37.770051,"33-Chaucer St/Ascot Vale Rd (Moonee Ponds)",351
+"19267","59",144.926908,"1",-37.772431,"30-Ormond Rd/Mt Alexander Rd (Moonee Ponds)",849
+"19605","59",144.926949,"1",-37.773008,"30-Maribyrnong Rd/Mt Alexander Rd (Ascot Vale)",1073
+"19266","59",144.928535,"1",-37.775542,"29-Warrick St/Mt Alexander Rd (Ascot Vale)",848
+"19604","59",144.928473,"1",-37.775748,"29-Warrick St/Mt Alexander Rd (Ascot Vale)",1072
+"19265","59",144.929833,"1",-37.777457,"28-Middle St/Mt Alexander Rd (Ascot Vale)",847
+"18512","82",144.924024,"1",-37.772452,"34-Maribyrnong Rd/Ascot Vale Rd (Moonee Ponds)",794
+"19603","59",144.92977,"1",-37.777699,"28-Middle St/Mt Alexander Rd (Ascot Vale)",1071
+"17941","82",144.923705,"1",-37.772474,"34-Ascot Vale Rd/Maribyrnong Rd (Moonee Ponds)",350
+"19264","59",144.93122,"1",-37.779437,"27-Essendon Tram Depot/Mt Alexander Rd (Ascot Vale)",846
+"19602","59",144.931312,"1",-37.779808,"27-Essendon Tram Depot/Mt Alexander Rd (Ascot Vale)",1070
+"19263","59",144.932626,"1",-37.78112,"26-Wellington St/Mt Alexander Rd (Flemington)",845
+"19262","59",144.933941,"1",-37.78244,"25-Mount Alexander College/Mt Alexander Rd (Flemington)",844
+"19601","59",144.932663,"1",-37.781436,"26-Wellington St/Mt Alexander Rd (Flemington)",1069
+"19600","59",144.933869,"1",-37.782565,"25-Mount Alexander College/Mt Alexander Rd (Travancore)",1068
+"17940","82",144.921135,"1",-37.772212,"35-Moore St/Maribyrnong Rd (Moonee Ponds)",349
+"18513","82",144.921234,"1",-37.77234,"35-Moore St/Maribyrnong Rd (Moonee Ponds)",795
+"17939","82",144.918295,"1",-37.771891,"36-86 Maribyrnong Rd (Moonee Ponds)",348
+"17961","57",144.947096,"1",-37.794106,"19-Abbotsford St Interchange/Abbotsford St (North Melbourne)",368
+"18536","57",144.947163,"1",-37.793729,"19-Abbotsford St Interchange/Abbotsford St (North Melbourne)",18
+"18064","58",144.949751,"1",-37.788016,"24-Elliott Ave/Royal Park (Parkville)",404
+"18544","58",144.949619,"1",-37.787878,"24-Elliott Ave/Royal Park (Parkville)",25
+"18065","58",144.948848,"1",-37.784539,"25-State Netball Hockey Centre/Royal Park (Parkville)",405
+"18545","58",144.94867,"1",-37.784383,"25-State Netball Hockey Centre/Royal Park (Parkville)",26
+"19595","59,57",144.94346,"1",-37.790474,"20-Melrose St/Flemington Rd (North Melbourne)",1064
+"17959","59,57",144.943485,"1",-37.790394,"20-Melrose St/Flemington Rd (North Melbourne)",367
+"19259","59",144.940932,"1",-37.788276,"22-Flemington Bridge Station/Flemington Rd (North Melbourne)",841
+"18533","57",144.940145,"1",-37.789209,"22-Boundary Rd/Racecourse Rd (North Melbourne)",17
+"19597","59",144.940609,"1",-37.788054,"22-Flemington Bridge Station/Flemington Rd (North Melbourne)",1065
+"17958","57",144.939852,"1",-37.789131,"22-Boundary Rd/Racecourse Rd (North Melbourne)",366
+"19260","59",144.939055,"1",-37.785927,"23-Flemington Community Centre/Mt Alexander Rd (Flemington)",842
+"19598","59",144.938853,"1",-37.785843,"23-Flemington Community Centre/Mt Alexander Rd (Flemington)",1066
+"17957","57",144.936581,"1",-37.788768,"23-Stubbs St/Racecourse Rd (Flemington)",365
+"18532","57",144.93548,"1",-37.788749,"23-Stubbs St/Racecourse Rd (Flemington)",16
+"19599","59",144.937173,"1",-37.784218,"24-Mooltan St/Mt Alexander Rd (Flemington)",1067
+"19261","59",144.936999,"1",-37.783936,"24-Mooltan St/Mt Alexander Rd (Flemington)",843
+"18531","57",144.933522,"1",-37.788507,"24-Collett St/Racecourse Rd (Kensington)",15
+"17956","57",144.93349,"1",-37.788443,"24-Victoria St/Racecourse Rd (Flemington)",364
+"17955","57",144.931235,"1",-37.788241,"25-Wellington St/Racecourse Rd (Flemington)",363
+"18530","57",144.93046,"1",-37.788354,"25-Wellington St/Racecourse Rd (Flemington)",14
+"18529","57",144.92839,"1",-37.788074,"26-Newmarket Plaza/Racecourse Rd (Kensington)",13
+"17954","57",144.928154,"1",-37.787971,"26-Newmarket Plaza/Racecourse Rd (Flemington)",362
+"18528","57",144.925345,"1",-37.787741,"28-Smithfield Rd/Racecourse Rd (Flemington)",12
+"17953","57",144.92495,"1",-37.787626,"28-Smithfield Rd/Racecourse Rd (Flemington)",361
+"17952","57",144.922006,"1",-37.787349,"29-Flemington Racecourse/Racecourse Rd (Flemington)",360
+"18527","57",144.921889,"1",-37.787446,"29-Flemington Racecourse/Racecourse Rd (Flemington)",11
+"17951","57",144.919987,"1",-37.786043,"30-Flemington Racecourse/Epsom Rd (Ascot Vale)",359
+"18526","57",144.919786,"1",-37.785913,"30-Flemington Racecourse/Epsom Rd (Flemington)",10
+"18525","57",144.918204,"1",-37.784425,"31-Racing Victoria/400 Epsom Rd (Flemington)",9
+"17950","57",144.918125,"1",-37.784018,"31-Racing Victoria/161 Epsom Rd (Ascot Vale)",358
+"17934","82",144.90092,"1",-37.801367,"64-Footscray Station/Leeds St (Footscray)",343
+"17933","82",144.901058,"1",-37.800081,"63-Footscray Market/Leeds St (Footscray)",342
+"18509","82",144.900917,"1",-37.799853,"63-Leeds St/Hopkins St (Footscray)",632
+"17932","82",144.899736,"1",-37.799841,"62-Nicholson St/Hopkins St (Footscray)",341
+"18508","82",144.899412,"1",-37.799276,"62-Nicholson St/Droop St (Footscray)",631
+"17931","82",144.897131,"1",-37.796793,"61-Geelong Rd/Droop St (Footscray)",340
+"18507","82",144.896764,"1",-37.796138,"61-Geelong Rd/Droop St (Footscray)",630
+"17930","82",144.895516,"1",-37.79489,"60-Tiernan St/Droop St (Footscray)",339
+"18506","82",144.895489,"1",-37.794619,"60-Tiernan St/Droop St (Footscray)",629
+"17929","82",144.893571,"1",-37.792584,"59-Droop St/Ballarat Rd (Footscray)",338
+"18505","82",144.893511,"1",-37.792313,"59-Droop St/Ballarat Rd (Footscray)",628
+"18501","82",144.889723,"1",-37.790551,"58-Ballarat Rd/Gordon St (Footscray)",627
+"17928","82",144.889554,"1",-37.790476,"58-Ballarat Rd/Gordon St (Footscray)",337
+"18500","82",144.890068,"1",-37.7888,"57-Titch St/Gordon St (Footscray)",626
+"17927","82",144.889924,"1",-37.788644,"57-Titch St/Gordon St (Footscray)",336
+"18499","82",144.890873,"1",-37.784444,"56-Edgewater Square/Gordon St (Maribyrnong)",625
+"17926","82",144.890599,"1",-37.784898,"56-Edgewater Square/Gordon St (Maribyrnong)",335
+"19349","6,1",144.971122,"1",-37.775553,"121-Weston St/Lygon St (Brunswick East)",911
+"18713","6,1",144.970971,"1",-37.775667,"121-Weston St/Lygon St (Brunswick East)",141
+"19350","6,1",144.971614,"1",-37.772515,"122-Glenlyon Rd/Lygon St (Brunswick East)",912
+"18714","6,1",144.971415,"1",-37.772737,"122-Glenlyon Rd/Lygon St (Brunswick East)",142
+"19351","6,1",144.972112,"1",-37.769649,"123-Albert St/Lygon St (Brunswick East)",913
+"18715","6,1",144.97195,"1",-37.769781,"123-Albert St/Lygon St (Brunswick East)",143
+"19352","6,1",144.972416,"1",-37.768077,"124-Victoria St/Lygon St (Brunswick East)",914
+"18716","6,1",144.972231,"1",-37.7682,"124-Victoria St/Lygon St (Brunswick East)",144
+"19353","6,1",144.972722,"1",-37.766442,"125-Blyth St/Lygon St (Brunswick East)",915
+"18717","6,1",144.972512,"1",-37.766664,"125-Blyth St/Lygon St (Brunswick East)",145
+"19354","6,1",144.973087,"1",-37.764295,"126-Stewart St/Lygon St (Brunswick East)",916
+"18718","6,1",144.972902,"1",-37.764427,"126-Stewart St/Lygon St (Brunswick East)",146
+"19355","6,1",144.974061,"1",-37.761887,"127-Albion St/Holmes St (Brunswick East)",917
+"18719","6,1",144.973265,"1",-37.762369,"127-Albion St/Lygon St (Brunswick East)",147
+"17329","19",144.959838,"1",-37.781684,"17-Ievers St/Royal Pde (Parkville)",258
+"16730","19",144.95964,"1",-37.781888,"17-Ievers St/Royal Pde (Parkville)",189
+"17328","19",144.960152,"1",-37.779383,"18-Princes Park/Royal Pde (Parkville)",257
+"16729","19",144.959936,"1",-37.779379,"18-Princes Park/Royal Pde (Parkville)",188
+"17327","19",144.960392,"1",-37.777647,"19-Brunswick Rd/Sydney Rd (Brunswick)",256
+"16728","19",144.960269,"1",-37.777591,"19-Brunswick Rd/Sydney Rd (Brunswick)",187
+"21962","19",144.960929,"1",-37.774656,"20-Barkly Square/Sydney Rd (Brunswick)",1390
+"16727","19",144.960742,"1",-37.774842,"20-Barkly Square/115 Sydney Rd (Brunswick)",186
+"17325","19",144.961473,"1",-37.771367,"21-Glenlyon Rd/Sydney Rd (Brunswick)",255
+"16726","19",144.961261,"1",-37.771643,"21-Brunswick Town Hall/Sydney Rd (Brunswick)",185
+"17324","19",144.961919,"1",-37.768761,"22-Albert St/Sydney Rd (Brunswick)",254
+"16725","19",144.961721,"1",-37.768947,"22-Albert St/Sydney Rd (Brunswick)",184
+"17323","19",144.962229,"1",-37.766982,"23-Victoria St/Sydney Rd (Brunswick)",253
+"16724","19",144.962032,"1",-37.767141,"23-Victoria St/Sydney Rd (Brunswick)",183
+"17322","19",144.962512,"1",-37.765356,"24-Blyth St/Sydney Rd (Brunswick)",252
+"16723","19",144.962302,"1",-37.765578,"24-Brunswick Baptist Church/Sydney Rd (Brunswick)",182
+"17321","19",144.962904,"1",-37.763083,"25-Stewart St/Sydney Rd (Brunswick)",251
+"16722","19",144.962695,"1",-37.763232,"25-Stewart St/Sydney Rd (Brunswick)",181
+"16721","19",144.963087,"1",-37.760959,"26-Albion St/Sydney Rd (Brunswick)",180
+"18067","58",144.95136,"1",-37.780753,"27-Royal Park Station/Royal Park (Parkville)",407
+"18547","58",144.950925,"1",-37.780872,"27-Royal Park Station/Royal Park (Parkville)",28
+"18066","58",144.949219,"1",-37.782617,"26-Melbourne Zoo/Royal Park (Parkville)",406
+"18546","58",144.949282,"1",-37.782375,"26-Melbourne Zoo/Royal Park (Parkville)",27
+"18068","58",144.949969,"1",-37.777241,"28-Park St/Royal Park (Parkville)",408
+"18548","58",144.94949,"1",-37.776917,"28-Park St/Royal Park (Parkville)",29
+"18069","58",144.948915,"1",-37.775538,"29-Brunswick Rd/Grantham St (Brunswick West)",409
+"18549","58",144.948748,"1",-37.775814,"29-Brunswick Rd/Royal Park (Parkville)",30
+"18071","58",144.949525,"1",-37.772367,"30-Union Square Shopping Centre/Grantham St (Brunswick West)",410
+"18550","58",144.949315,"1",-37.772562,"30-Union Square Shopping Centre/Grantham St (Brunswick West)",31
+"18551","58",144.949741,"1",-37.770298,"31-Dawson St/Grantham St (Brunswick West)",32
+"18072","58",144.949532,"1",-37.770051,"31-Grantham St/Dawson St (Brunswick West)",411
+"18552","58",144.947356,"1",-37.769923,"32-Foden St/Dawson St (Brunswick)",33
+"18073","58",144.947382,"1",-37.769789,"32-Foden St/Dawson St (Brunswick)",412
+"18553","58",144.944425,"1",-37.769593,"33-Daly St/Dawson St (Brunswick)",34
+"18074","58",144.944169,"1",-37.769399,"33-South Daly St/Dawson St (Brunswick West)",413
+"17866","59,19",144.957464,"1",-37.801947,"9-Pelham St/Elizabeth St (Melbourne City)",291
+"20492","58",144.956441,"1",-37.803623,"11-Queensberry St/Peel St (North Melbourne)",1199
+"20493","58",144.956393,"1",-37.803307,"11-Queensberry St/Peel St (North Melbourne)",1200
+"20491","58",144.956805,"1",-37.801548,"12-Flemington Rd/Peel St (North Melbourne)",1198
+"20490","58",144.95673,"1",-37.801384,"12-Flemington Rd/Peel St (North Melbourne)",1197
+"17868","19",144.957665,"1",-37.79958,"10-Royal Melbourne Hospital/Royal Pde (Parkville)",293
+"17867","19",144.957441,"1",-37.799901,"10-Royal Melbourne Hospital/Royal Pde (Melbourne City)",292
+"17858","57",144.953908,"1",-37.805688,"9-William St/Victoria St (Melbourne City)",284
+"17335","19",144.957854,"1",-37.798105,"11-University of Melbourne/Royal Pde (Parkville)",264
+"16736","19",144.957656,"1",-37.798273,"11-University of Melbourne/Royal Pde (Parkville)",195
+"17863","57",144.953502,"1",-37.805564,"9-Howard St/Victoria St (Melbourne City)",289
+"17334","19",144.958173,"1",-37.795561,"12-Morrah St/Royal Pde (Parkville)",263
+"16735","19",144.957944,"1",-37.795656,"12-Morrah St/Royal Pde (Parkville)",194
+"17859","57",144.952391,"1",-37.805517,"10-Chetwynd St/Victoria St (Melbourne City)",285
+"19591","59,58",144.955205,"1",-37.799826,"14-Royal Melbourne Hospital/Flemington Rd (North Melbourne)",1061
+"17862","57",144.95203,"1",-37.805403,"10-Chetwynd St/Victoria St (Melbourne City)",288
+"19253","59,58",144.954886,"1",-37.799478,"14-Royal Melbourne Hospital/Flemington Rd (Parkville)",838
+"17333","19",144.958544,"1",-37.792422,"13-Gatehouse St/Royal Pde (Parkville)",262
+"16734","19",144.95831,"1",-37.792679,"13-Gatehouse St/Royal Pde (Parkville)",193
+"17332","19",144.958879,"1",-37.789715,"14-Cemetery Road West/Royal Pde (Parkville)",261
+"16733","19",144.958644,"1",-37.790017,"14-Macarthur Rd/Royal Pde (Parkville)",192
+"17331","19",144.959129,"1",-37.787674,"15-Leonard St/Royal Pde (Parkville)",260
+"16732","19",144.958894,"1",-37.787931,"15-Leonard St/Royal Pde (Parkville)",191
+"17860","57",144.949446,"1",-37.805196,"11-Errol St/Victoria St (Melbourne City)",286
+"17861","57",144.949339,"1",-37.804959,"11-Victoria St/Errol St (North Melbourne)",287
+"19590","57",144.949535,"1",-37.803224,"12-North Melbourne Town Hall/Errol St (North Melbourne)",1060
+"17330","19",144.959509,"1",-37.784589,"16-Walker St/Royal Pde (Parkville)",259
+"19699","59,58",144.952394,"1",-37.797587,"15-Murphy St/Flemington Rd (North Melbourne)",1116
+"16731","19",144.959274,"1",-37.784856,"16-Visy Park/Royal Pde (Parkville)",190
+"19251","57",144.949405,"1",-37.802987,"12-North Melbourne Town Hall/Queensberry St (North Melbourne)",837
+"20482","59,58",144.952385,"1",-37.797488,"15-Murphy St/Flemington Rd (North Melbourne)",1196
+"19589","57",144.948362,"1",-37.802942,"13-Curzon St/Queensberry St (North Melbourne)",1059
+"19592","59,58",144.95136,"1",-37.796758,"16-Harker St/Flemington Rd (North Melbourne)",1062
+"19250","57",144.947944,"1",-37.802826,"13-Curzon St/Queensberry St (North Melbourne)",836
+"19254","59,58",144.951052,"1",-37.796419,"16-Harker St/Flemington Rd (Parkville)",839
+"18541","57",144.945802,"1",-37.802663,"14-Abbotsford St/Queensberry St (North Melbourne)",23
+"18061","57",144.945628,"1",-37.80239,"14-Queensberry St/Abbotsford St (North Melbourne)",402
+"18060","57",144.945849,"1",-37.800997,"15-Arden St/Abbotsford St (North Melbourne)",401
+"18540","57",144.945835,"1",-37.800672,"15-Arden St/Abbotsford St (North Melbourne)",22
+"18059","57",144.946344,"1",-37.798284,"16-Haines St/Abbotsford St (North Melbourne)",400
+"19256","59,58",144.948363,"1",-37.794282,"19-Royal Childrens Hospital/Flemington Rd (North Melbourne)",840
+"18539","57",144.946319,"1",-37.797968,"16-Haines St/Abbotsford St (North Melbourne)",21
+"19594","59,58",144.94806,"1",-37.794141,"19-Royal Childrens Hospital/Flemington Rd (North Melbourne)",1063
+"18538","57",144.946535,"1",-37.796719,"17-Canning St/Abbotsford St (North Melbourne)",20
+"18063","58",144.949397,"1",-37.79138,"23-Royal Park/Royal Park (Parkville)",403
+"18058","57",144.946694,"1",-37.796307,"17-Molesworth St/Abbotsford St (North Melbourne)",399
+"18543","58",144.949294,"1",-37.791414,"23-Royal Park/Royal Park (Parkville)",24
+"18537","57",144.946803,"1",-37.795246,"18-Erskine St/Abbotsford St (North Melbourne)",19
+"18057","57",144.946947,"1",-37.79496,"18-Chapman St/Abbotsford St (North Melbourne)",398
+"18186","12,96,109",144.955265,"1",-37.821554,"124-Batman Park/Spencer St (Melbourne City)",459
+"18199","58",144.95825,"1",-37.815874,"5-Bourke St/William St (Melbourne City)",467
+"21232","70,75,35",144.955381,"1",-37.821051,"1-Spencer St/Flinders St (Melbourne City)",1386
+"18210","58",144.95816,"1",-37.81544,"5-Bourke St/William St (Melbourne City)",484
+"17885","96,86",144.957914,"1",-37.815706,"3-William St/Bourke St (Melbourne City)",303
+"17597","96,86",144.957625,"1",-37.815882,"3-William St/Bourke St (Melbourne City)",269
+"17906","11,12,48,109",144.955183,"1",-37.818741,"1-Spencer St/Collins St (Melbourne City)",320
+"17905","11,12,48,109",144.955055,"1",-37.818847,"1-Spencer St/Collins St (Melbourne City)",319
+"18056","70,75,35",144.953608,"1",-37.821471,"D6-Flinders Street West/Flinders St (Docklands)",397
+"19722","109",144.948766,"1",-37.830191,"126-Montague St/Light Rail (South Melbourne)",1137
+"18179","70,75,35",144.953215,"1",-37.821726,"D6-Victoria Police Centre/Flinders St (Southbank)",452
+"19370","109",144.948469,"1",-37.83024,"126-Montague St/Light Rail (South Melbourne)",932
+"18187","96",144.954092,"1",-37.818767,"122-Southern Cross Railway Station/Spencer St (Melbourne City)",460
+"18194","96",144.953718,"1",-37.818319,"122-Southern Cross Railway Station/Spencer St (Melbourne City)",464
+"18208","58",144.956799,"1",-37.812461,"7-Flagstaff Railway Station/William St (Melbourne City)",483
+"43477","48,11",144.952596,"1",-37.819471,"D14-Southern Cross Station/Collins St (Docklands)",1578
+"17849","96,86",144.953997,"1",-37.816846,"1-Spencer St/Bourke St (Melbourne City)",277
+"18055","70,75,35",144.951213,"1",-37.821835,"D5-South Wharf/Wurundjeri Way (Docklands)",396
+"18033","35,30",144.956718,"1",-37.811711,"3-William St/La Trobe St (Melbourne City)",376
+"18201","58",144.956517,"1",-37.811996,"7-Flagstaff Railway Station/William St (Melbourne City)",476
+"43472","48,11",144.952215,"1",-37.819681,"D14-Southern Cross Station/Collins St (Docklands)",1573
+"18180","70,75,35",144.950913,"1",-37.822001,"D5-South Wharf/Wurundjeri Way (Docklands)",453
+"17848","96,86",144.953514,"1",-37.817063,"1-Spencer St/Bourke St (Melbourne City)",276
+"18043","35,30",144.956136,"1",-37.811791,"3-William St/La Trobe St (Melbourne City)",384
+"43476","48,11",144.950477,"1",-37.820074,"D15-Batman's Hill/Collins St (Docklands)",1577
+"43473","48,11",144.950131,"1",-37.820266,"D15-Batman's Hill/Collins St (Docklands)",1574
+"18202","58",144.955454,"1",-37.809743,"8-Franklin St/William St (Melbourne City)",477
+"18189","86",144.952381,"1",-37.815313,"120-Lonsdale St/Spencer St (Melbourne City)",461
+"18207","58",144.955474,"1",-37.809428,"8-Franklin St/Peel St (Melbourne City)",482
+"18042","35,30",144.953732,"1",-37.81248,"2-King St/La Trobe St (Melbourne City)",383
+"18192","86",144.952311,"1",-37.81496,"120-Lonsdale St/Spencer St (Melbourne City)",463
+"43480","48,11",144.948138,"1",-37.820862,"D16-Harbour Esp/Collins St (Docklands)",1579
+"43475","48,11",144.948038,"1",-37.820797,"D16-Harbour Esp/Collins St (Docklands)",1576
+"18181","70,75,35",144.947501,"1",-37.821725,"D4-Docklands Park/Harbour Esp (Docklands)",454
+"18054","70,75,35",144.94761,"1",-37.821466,"D4-Docklands Park/Harbour Esp (Docklands)",395
+"18035","35,30",144.95176,"1",-37.813112,"1-Spencer St/La Trobe St (Melbourne City)",377
+"18190","86",144.951502,"1",-37.813405,"119-La Trobe St/Spencer St (Melbourne City)",462
+"18041","35,86,30",144.951201,"1",-37.813211,"119-Spencer St/La Trobe St (Melbourne City)",382
+"43474","48,11",144.945416,"1",-37.821527,"D17-Merchant St/Collins St (Docklands)",1575
+"18053","70,75,35",144.946246,"1",-37.817819,"D3-Stadium Precinct/Harbour Esp (Docklands)",394
+"18182","70,75,35",144.94596,"1",-37.817463,"D3-Stadium Precinct/Harbour Esp (Docklands)",455
+"20981","35,86,30",144.946745,"1",-37.814566,"D1-Stadium Precinct/La Trobe St (Docklands)",1310
+"18040","35,86,30",144.946404,"1",-37.814578,"D1-Stadium Precinct/La Trobe St (Docklands)",381
+"47493","48,11",144.942039,"1",-37.820801,"D18-Bourke St/Collins St (Docklands)",1652
+"18052","35,70,75,86,30",144.944901,"1",-37.814705,"D2-Central Pier/Harbour Esp (Docklands)",393
+"18183","35,70,75,86,30",144.944584,"1",-37.814249,"D2-CentralPier/Harbour Esp (Docklands)",456
+"18039","70,86,35",144.941509,"1",-37.813312,"D10-NewQuay Prom/Docklands Dr (Docklands)",380
+"18037","70,86,35",144.940508,"1",-37.813781,"D10-New Quay Prom/Docklands Dr (Docklands)",378
+"18038","70,86,35",144.938754,"1",-37.814345,"D11-Waterfront City/Docklands Dr (Docklands)",379
+"17320","19",144.963309,"1",-37.760738,"26-Albion St/Sydney Rd (Brunswick)",250
+"18720","6,1",144.974334,"1",-37.759387,"128-Mitchell St/Holmes St (Brunswick East)",148
+"19356","6,1",144.974519,"1",-37.759264,"128-Mitchell St/Holmes St (Brunswick East)",918
+"4160","11",144.993256,"1",-37.758954,"32-Normanby Ave/St Georges Rd (Thornbury)",1523
+"4470","11",144.993508,"1",-37.758462,"32-Normanby Ave/St Georges Rd (Thornbury)",1609
+"16720","19",144.963639,"1",-37.757815,"27-Brunswick Tram Depot/Sydney Rd (Brunswick)",179
+"17319","19",144.963876,"1",-37.757422,"27-Brunswick Tram Depot/Sydney Rd (Brunswick)",249
+"18721","6,1",144.974754,"1",-37.75688,"129-Moreland Rd/Holmes St (Brunswick)",149
+"19358","6",144.974626,"1",-37.756571,"129-Moreland Rd/Holmes St (Brunswick)",920
+"19357","1",144.974979,"1",-37.756541,"129-Moreland Rd/Nicholson St (Coburg)",919
+"18722","6",144.970153,"1",-37.756206,"130-Barrow St/Moreland Rd (Coburg)",150
+"19359","6",144.969975,"1",-37.756058,"130-Barrow St/Moreland Rd (Coburg)",921
+"18723","6",144.96652,"1",-37.75581,"131-De Carle St/Moreland Rd (Coburg)",151
+"19360","6",144.966354,"1",-37.755663,"131-De Carle St/Moreland Rd (Coburg)",922
+"16719","19",144.964016,"1",-37.75564,"28-Moreland Rd/Sydney Rd (Brunswick)",178
+"18724","6",144.964279,"1",-37.755564,"132-Sydney Rd/Moreland Rd (Coburg)",152
+"19361","6",144.963854,"1",-37.75534,"132-Sydney Rd/Moreland Rd (Coburg)",923
+"17318","19",144.964252,"1",-37.755311,"28-Moreland Rd/Sydney Rd (Coburg)",248
+"19362","6",144.962119,"1",-37.755292,"133-Moreland Station/Cameron St (Coburg)",924
+"18725","6",144.962381,"1",-37.75526,"133-Moreland Station/Moreland Rd (Coburg)",153
+"18726","1",144.975945,"1",-37.753566,"130-The Avenue/Nicholson St (Coburg)",154
+"17317","19",144.964551,"1",-37.753505,"29-Moore St/Sydney Rd (Coburg)",247
+"21961","19",144.964415,"1",-37.753502,"29-Moore St/Sydney Rd (Coburg)",1389
+"19363","1",144.976189,"1",-37.753372,"130-The Avenue/Nicholson St (Coburg)",925
+"16717","19",144.964636,"1",-37.752073,"30-The Avenue/Sydney Rd (Coburg)",176
+"17316","19",144.964846,"1",-37.751861,"30-The Avenue/Sydney Rd (Coburg)",246
+"18727","1",144.976505,"1",-37.75134,"131-Rennie St/Nicholson St (Coburg)",634
+"19364","1",144.976679,"1",-37.751217,"131-Rennie St/Nicholson St (Coburg)",926
+"18728","1",144.976841,"1",-37.749418,"132-Crozier St/Nicholson St (Coburg)",635
+"19365","1",144.97699,"1",-37.749393,"132-Crozier St/Nicholson St (Coburg)",927
+"16716","19",144.965204,"1",-37.74874,"31-Reynard St/Sydney Rd (Coburg)",175
+"17315","19",144.96545,"1",-37.748474,"31-Edward St/Sydney Rd (Coburg)",245
+"18729","1",144.97731,"1",-37.746371,"133-Harding St/Nicholson St (Coburg)",636
+"19366","1",144.977523,"1",-37.746059,"133-Harding St/Nicholson St (Coburg)",928
+"16715","19",144.965838,"1",-37.745065,"32-Munro St/Sydney Rd (Coburg)",174
+"17314","19",144.966058,"1",-37.744888,"32-Harding St/Sydney Rd (Coburg)",244
+"19367","1",144.977887,"1",-37.744371,"134-Merribell Ave/Nicholson St (Coburg)",929
+"18730","1",144.977728,"1",-37.744359,"134-Merribell Ave/Nicholson St (Coburg)",637
+"16714","19",144.966148,"1",-37.743259,"33-Coburg Market/Sydney Rd (Coburg)",173
+"17313","19",144.966356,"1",-37.743136,"33-Coburg Market/Sydney Rd (Coburg)",243
+"16713","19",144.96647,"1",-37.741471,"34-Bell St/Sydney Rd (Coburg)",172
+"17312","19",144.96666,"1",-37.741159,"34-Bell St/Sydney Rd (Coburg)",242
+"17311","19",144.96693,"1",-37.737505,"35-St Pauls Catholic Church/Sydney Rd (Coburg)",241
+"2113","19",144.966056,"1",-37.73584,"36-Rogers St/Sydney Rd (Coburg)",1383
+"17310","19",144.966076,"1",-37.735534,"36-Rogers St/Sydney Rd (Coburg)",240
+"1784","19",144.965321,"1",-37.734097,"37-Gaffney St/Sydney Rd (Coburg)",275
+"17309","19",144.965407,"1",-37.733856,"37-Gaffney St/Sydney Rd (Coburg North)",239
+"17308","19",144.964627,"1",-37.732112,"38-Carr St/Sydney Rd (Coburg North)",238
+"1292","19",144.964266,"1",-37.731619,"38-Renown St/Sydney Rd (Coburg)",162
+"4173","11",144.991359,"1",-37.730056,"46-McNamara St/Gilbert Rd (Preston)",1536
+"4510","86",145.006528,"1",-37.745337,"45-Bell St/Plenty Rd (Preston)",1648
+"4201","86",145.005994,"1",-37.74576,"45-Bell St/Plenty Rd (Preston)",1561
+"4483","11",144.991059,"1",-37.732764,"45-Jacka St/Gilbert Rd (Preston)",1622
+"4172","11",144.990848,"1",-37.732994,"45-Jacka St/Gilbert Rd (Preston)",1535
+"4511","86",145.00542,"1",-37.746877,"44-Osborne Gr/Plenty Rd (Preston)",1649
+"4202","86",145.00512,"1",-37.747061,"44-Seymour St/Plenty Rd (Preston)",1562
+"4482","11",144.990737,"1",-37.734606,"44-Cooper St/Gilbert Rd (Preston)",1621
+"4171","11",144.990591,"1",-37.73454,"44-Cooper St/Gilbert Rd (Preston)",1534
+"4481","11",144.990414,"1",-37.736466,"43-Murray Rd/Gilbert Rd (Preston)",1620
+"4512","86",145.004095,"1",-37.748882,"43-Raglan St/Plenty Rd (Preston)",1650
+"4170","11",144.990214,"1",-37.736715,"43-Murray Rd/Gilbert Rd (Preston)",1533
+"4203","86",145.003701,"1",-37.749182,"43-Raglan St/Plenty Rd (Preston)",1563
+"4480","11",144.99003,"1",-37.73891,"42-Cramer St/Gilbert Rd (Preston)",1619
+"4169","11",144.989832,"1",-37.739096,"42-Cramer St/Gilbert Rd (Preston)",1532
+"6103","86",145.002002,"1",-37.751983,"42-Dundas St/Plenty Rd (Preston)",1450
+"4479","11",144.989714,"1",-37.74096,"41-Bruce St/Gilbert Rd (Preston)",1618
+"4168","11",144.9895,"1",-37.741316,"41-Bruce St/Gilbert Rd (Preston)",1531
+"4204","86",145.001536,"1",-37.752462,"42-Miller St/High St (Thornbury)",1564
+"4205","86",145.001235,"1",-37.754358,"41-Blythe St/High St (Thornbury)",1565
+"4478","11",144.989247,"1",-37.743538,"40-Bell St/Gilbert Rd (Preston)",1617
+"6104","86",145.001366,"1",-37.75455,"41-Collins St/High St (Thornbury)",1451
+"4167","11",144.989028,"1",-37.744075,"40-Bell St/Gilbert Rd (Preston)",1530
+"4477","11",144.988963,"1",-37.745624,"39-Latona Ave/Gilbert Rd (Preston)",1616
+"6105","86",145.001047,"1",-37.756698,"40-Mansfield St/High St (Thornbury)",1452
+"4166","11",144.988804,"1",-37.745639,"39-Latona Ave/Gilbert Rd (Preston)",1529
+"4206","86",145.000831,"1",-37.756721,"40-Mansfield St/High St (Thornbury)",1566
+"4474","11",144.994793,"1",-37.751644,"35-St Georges Rd/Miller St (Preston)",1613
+"4162","11",144.994885,"1",-37.752033,"34-Miller St/St Georges Rd (Preston)",1525
+"4472","11",144.994924,"1",-37.752268,"34-Miller St/St Georges Rd (Preston)",1611
+"6106","86",145.000741,"1",-37.75836,"39-Gooch St/High St (Thornbury)",1453
+"6032","86",145.000549,"1",-37.758321,"39-Ballantyne St/High St (Thornbury)",1657
+"4476","11",144.988541,"1",-37.74823,"38-Oakover Rd/Gilbert Rd (Preston)",1615
+"4165","11",144.988375,"1",-37.748083,"38-Oakover Rd/Gilbert Rd (Preston)",1528
+"6107","86",145.000553,"1",-37.759447,"38-Clarendon St/High St (Thornbury)",1454
+"4163","11",144.991314,"1",-37.751441,"36-Bracken Ave/Miller St (Thornbury)",1526
+"20980","86",145.000321,"1",-37.759651,"38-Normanby Ave/High St (Thornbury)",1309
+"4473","11",144.990944,"1",-37.751263,"36-Devon St/Miller St (Preston)",1612
+"4471","11",144.994188,"1",-37.755121,"33-Hutton St/St Georges Rd (Thornbury)",1610
+"17306","19",144.96365,"1",-37.72758,"40-North Coburg Terminus/Sydney Rd (Coburg North)",236
+"4161","11",144.993931,"1",-37.755414,"33-Hutton St/St Georges Rd (Thornbury)",1524
+"6108","86",145.000255,"1",-37.761236,"37-Woolton Ave/High St (Thornbury)",1455
+"4164","11",144.988042,"1",-37.750312,"37-Miller St/Gilbert Rd (Preston)",1527
+"4475","11",144.988125,"1",-37.750602,"37-Miller St/Gilbert Rd (Preston)",1614
+"6034","86",145.000043,"1",-37.761529,"37-Woolton Ave/High St (Thornbury)",1658
+"17307","19",144.963859,"1",-37.729891,"39-Mercy College/Sydney Rd (Coburg North)",237
+"19368","1",144.978132,"1",-37.742861,"135-Bell St/Nicholson St (Coburg)",930
+"6109","86",144.999954,"1",-37.76315,"36-Darebin Rd/High St (Thornbury)",1456
+"378","19",144.963753,"1",-37.730439,"39-Mercy College/Sydney Rd (Coburg North)",1410
+"4130","12",144.960132,"1",-37.844069,"133-Canterbury Rd/Mills St (Middle Park)",1259
+"4441","12",144.959099,"1",-37.845664,"134-Carter St/Mills St (Middle Park)",1582
+"4131","12",144.958874,"1",-37.845597,"134-Carter St/Mills St (Middle Park)",1260
+"4334","12",144.961455,"1",-37.840577,"131-Melbourne Sports & Aquatic Centre/Albert Rd (Albert Park)",1572
+"4442","12",144.957806,"1",-37.847227,"135-Richardson St/Mills St (Middle Park)",1583
+"4128","12",144.961111,"1",-37.840688,"131-Melbourne Sports & Aquatic Centre/Albert Rd (Albert Park)",1257
+"4132","12",144.957403,"1",-37.84741,"135-Richardson St/Mills St (Middle Park)",1261
+"4133","12",144.956077,"1",-37.849739,"136-Mills St/Danks St (Middle Park)",1262
+"19306","1",144.964349,"1",-37.834508,"23-Moray St/Park St (South Melbourne)",877
+"4126","12",144.962582,"1",-37.837614,"130a-Raglan St/Clarendon St (South Melbourne)",1255
+"4443","12",144.956077,"1",-37.849324,"136-Danks St/Mills St (Middle Park)",1584
+"19305","1",144.965186,"1",-37.832171,"22-Dorcas St/Eastern Rd (South Melbourne)",876
+"18482","1",144.96385,"1",-37.834472,"23-Moray St/Park St (South Melbourne)",608
+"4384","12",144.959522,"1",-37.842283,"132-Canterbury Rd/Albert Rd (Albert Park)",1580
+"18481","1",144.964957,"1",-37.83223,"22-Dorcas St/Eastern Rd (South Melbourne)",607
+"4129","12",144.959347,"1",-37.842451,"132-Kerferd Rd/Canterbury Rd (Albert Park)",1258
+"18222","58",144.965375,"1",-37.831074,"118-Sturt St/Kings Way (Southbank)",492
+"19307","1",144.961944,"1",-37.835223,"24-Clarendon St/Park St (South Melbourne)",878
+"4084","12",144.961585,"1",-37.835434,"129-Park St/Clarendon St (South Melbourne)",1413
+"4332","12",144.961665,"1",-37.835029,"129-Park St/Clarendon St (South Melbourne)",1570
+"20498","96",144.958749,"1",-37.840233,"128-Albert Park Station/Light Rail (South Melbourne)",1205
+"18483","1",144.961308,"1",-37.835203,"24-Clarendon St/Park St (South Melbourne)",609
+"20499","96",144.958571,"1",-37.840076,"128-Albert Park Station/Light Rail (South Melbourne)",1206
+"4039","12",144.960535,"1",-37.833153,"128-Dorcas St/Clarendon St (South Melbourne)",1412
+"18484","1",144.958912,"1",-37.835946,"25-Cecil St/Park St (South Melbourne)",610
+"4331","12",144.960613,"1",-37.832794,"128-Dorcas St/Clarendon St (South Melbourne)",1569
+"19308","1",144.958566,"1",-37.836138,"25-Cecil St/Park St (South Melbourne)",879
+"19311","1",144.955721,"1",-37.840423,"28-Bridport St/Montague St (Albert Park)",882
+"18659","1",144.955384,"1",-37.840679,"28-Montague St/Bridport St (Albert Park)",123
+"19309","1",144.956973,"1",-37.836642,"26-Ferrars St/Park St (South Melbourne)",880
+"4124","12",144.959526,"1",-37.830982,"127-York St/Clarendon St (South Melbourne)",1253
+"18573","1",144.956405,"1",-37.836632,"26-Ferrars St/Park St (South Melbourne)",52
+"4323","12",144.959594,"1",-37.830605,"127-York St/Clarendon St (South Melbourne)",1567
+"19312","1",144.953367,"1",-37.841725,"29-Bridport St/Victoria Ave (Albert Park)",883
+"18660","1",144.953337,"1",-37.841563,"29-Bridport St/Victoria Ave (Albert Park)",124
+"19313","1",144.951685,"1",-37.843787,"30-Richardson St/Victoria Ave (Albert Park)",884
+"18661","1",144.951283,"1",-37.843942,"30-Richardson St/Victoria Ave (Albert Park)",125
+"19314","1",144.950016,"1",-37.845767,"31-Graham St/Victoria Ave (Albert Park)",885
+"19310","1",144.954466,"1",-37.837329,"27-Montague St/Park St (South Melbourne)",881
+"18662","1",144.949826,"1",-37.845674,"31-Graham St/Victoria Ave (Albert Park)",126
+"18658","1",144.954176,"1",-37.837522,"27-Park St/Montague St (South Melbourne)",122
+"18663","1",144.948729,"1",-37.847124,"32-Beaconsfield Pde/Victoria Ave (Albert Park)",127
+"20496","96",144.95549,"1",-37.833156,"127-South Melbourne Station/Light Rail (South Melbourne)",1203
+"20497","96",144.955289,"1",-37.833035,"127-South Melbourne Station/Light Rail (South Melbourne)",1204
+"19371","109",144.94349,"1",-37.833208,"127-North Port Station/Light Rail (Port Melbourne)",933
+"19723","109",144.943336,"1",-37.833431,"127-North Port Station/Light Rail (Port Melbourne)",1138
+"19724","109",144.937463,"1",-37.837032,"128-Graham St/Light Rail (Port Melbourne)",1139
+"19372","109",144.93719,"1",-37.837054,"128-Graham St/Light Rail (Port Melbourne)",934
+"19725","109",144.932813,"1",-37.840789,"129-Beacon Cove/Light Rail (Port Melbourne)",1140
+"6118","86",144.996728,"1",-37.780876,"27-Westgarth St/High St (Northcote)",1463
+"6044","86",144.996848,"1",-37.780247,"27-Westgarth St/High St (Northcote)",1425
+"6115","86",144.997442,"1",-37.777166,"30-Clarke St/High St (Northcote)",1462
+"6041","86",144.997534,"1",-37.77669,"30-Clarke St/High St (Northcote)",1665
+"6114","86",144.99792,"1",-37.775002,"31-Northcote Town Hall/High St (Northcote)",1461
+"6040","86",144.997837,"1",-37.774712,"31-Northcote Town Hall/High St (Northcote)",1664
+"6113","86",144.998665,"1",-37.771392,"32-Mitchell St/High St (Northcote)",1460
+"6039","86",144.998569,"1",-37.771138,"32-Mitchell St/High St (Northcote)",1663
+"6112","86",144.999178,"1",-37.769193,"33-Separation St/High St (Northcote)",1459
+"6038","86",144.9989,"1",-37.769413,"33-Arthurton Rd/High St (Northcote)",1662
+"6111","86",144.999281,"1",-37.767473,"34-McCutcheon St/High St (Northcote)",1458
+"6037","86",144.999096,"1",-37.767614,"34-Bent St/High St (Northcote)",1661
+"6110","86",144.999526,"1",-37.765558,"35-Dennis St/High St (Northcote)",1457
+"6036","86",144.99926,"1",-37.765734,"35-Dennis St/High St (Northcote)",1660
+"6035","86",144.999688,"1",-37.763326,"36-Darebin Rd/High St (Thornbury)",1659
+"4463","11",144.989862,"1",-37.775739,"26-Clarke St/St Georges Rd (Northcote)",1603
+"4154","11",144.989755,"1",-37.775926,"26-Clarke St/St Georges Rd (Northcote)",1517
+"4462","11",144.988553,"1",-37.777952,"25-Miller St/St Georges Rd (Fitzroy North)",1602
+"4153","11",144.988301,"1",-37.778019,"25-Miller St/St Georges Rd (Fitzroy North)",1516
+"4464","11",144.990293,"1",-37.773665,"27-Westbourne Gr/St Georges Rd (Northcote)",1604
+"4461","11",144.986888,"1",-37.779879,"24-Holden St/St Georges Rd (Fitzroy North)",1601
+"4155","11",144.990152,"1",-37.773815,"27-Westbourne Gr/St Georges Rd (Northcote)",1518
+"4152","11",144.98652,"1",-37.780071,"24-Holden St/St Georges Rd (Fitzroy North)",1515
+"4460","11",144.985294,"1",-37.781735,"23-Park St/St Georges Rd (Fitzroy North)",1600
+"4465","11",144.990727,"1",-37.771473,"28-Sumner Ave/St Georges Rd (Northcote)",1605
+"4151","11",144.985277,"1",-37.781509,"23-Park St/St Georges Rd (Fitzroy North)",1514
+"4156","11",144.990633,"1",-37.771571,"28-Sumner Ave/St Georges Rd (Northcote)",1519
+"4466","11",144.9916,"1",-37.768145,"29-Arthurton Rd/St Georges Rd (Northcote)",1606
+"4157","11",144.991237,"1",-37.768553,"29-Arthurton Rd/St Georges Rd (Northcote)",1520
+"4468","11",144.992157,"1",-37.765198,"30-Gladstone Ave/St Georges Rd (Northcote)",1607
+"4158","11",144.99195,"1",-37.765294,"30-Gladstone Ave/St Georges Rd (Northcote)",1521
+"4469","11",144.992567,"1",-37.762628,"31-Gadd St/St Georges Rd (Northcote)",1608
+"4159","11",144.992594,"1",-37.762448,"31-Bird Ave/St Georges Rd (Northcote)",1522
+"6141","96",144.977625,"1",-37.782739,"18-Scotchmer St/Nicholson St (Carlton North)",1484
+"6068","96",144.978167,"1",-37.779937,"19-Holden St/Nicholson St (Fitzroy North)",1446
+"6142","96",144.978229,"1",-37.779334,"19-Brunswick Rd/Nicholson St (Fitzroy)",1485
+"6069","96",144.978673,"1",-37.776782,"20-Miller St/Nicholson St (Fitzroy North)",1447
+"6143","96",144.978627,"1",-37.776781,"20-Miller St/Nicholson St (Brunswick East)",1486
+"6144","96",144.979085,"1",-37.77414,"21-Glenlyon Rd/Nicholson St (Brunswick East)",1487
+"6070","96",144.979282,"1",-37.773188,"21-Glenlyon Rd/Nicholson St (Fitzroy North)",1448
+"6071","96",144.979834,"1",-37.770422,"22-Albert St/Nicholson St (Brunswick East)",1449
+"6145","96",144.979736,"1",-37.770258,"22-Albert St/Nicholson St (Brunswick East)",1488
+"6147","96",144.980302,"1",-37.766969,"23-Blyth St/Nicholson St (Brunswick East)",1489
+"18795","6,1",144.970074,"1",-37.781924,"118-Pigdon St/Lygon St (Carlton North)",657
+"19346","6,1",144.970232,"1",-37.781539,"118-Pigdon St/Lygon St (Carlton North)",908
+"19347","6,1",144.970493,"1",-37.779886,"119-Park St/Lygon St (Carlton North)",909
+"18711","6,1",144.970471,"1",-37.779417,"119-Park St/Lygon St (Carlton North)",139
+"18712","6,1",144.970634,"1",-37.778455,"120-Brunswick Rd/Lygon St (Brunswick)",140
+"19348","6,1",144.97078,"1",-37.778115,"120-Brunswick Rd/Lygon St (Brunswick)",910
+"6130","86",144.983095,"1",-37.806236,"15-Gertrude St/Smith St (Fitzroy)",1475
+"6056","86",144.982663,"1",-37.806256,"15-Smith St/Gertrude St (Fitzroy)",1436
+"6129","86",144.983348,"1",-37.804862,"16-Peel St/Smith St (Collingwood)",1474
+"6131","86",144.979805,"1",-37.80609,"14-Napier St/Gertrude St (Fitzroy)",1476
+"6057","86",144.979287,"1",-37.80591,"14-Napier St/Gertrude St (Fitzroy)",1437
+"18051","11,12,30,109",144.976452,"1",-37.808231,"12-St Vincents Plaza/Victoria Pde (Fitzroy)",392
+"6132","86",144.977381,"1",-37.805823,"13-Brunswick St/Gertrude St (Fitzroy)",1477
+"4450","11",144.977319,"1",-37.805597,"13-Gertrude St/Brunswick St (Fitzroy)",1591
+"4141","11",144.977119,"1",-37.805855,"13-Gertrude St/Brunswick St (Fitzroy)",1504
+"6058","86",144.977057,"1",-37.805655,"13-Brunswick St/Gertrude St (Fitzroy)",1438
+"4451","11",144.977807,"1",-37.802703,"14-King William St/Brunswick St (Fitzroy)",1592
+"4142","11",144.977611,"1",-37.802835,"14-Hanover St/Brunswick St (Fitzroy)",1505
+"4452","11",144.978184,"1",-37.800538,"15-St David St/Brunswick St (Fitzroy)",1593
+"4143","11",144.978039,"1",-37.800445,"15-Bell St/Brunswick St (Fitzroy)",1506
+"18009","30",144.973562,"1",-37.808019,"10-Nicholson St/Victoria Pde (East Melbourne)",370
+"18050","35,30",144.97284,"1",-37.807836,"10-Nicholson St/Victoria Pde (Carlton)",391
+"17878","96,86",144.973601,"1",-37.805758,"11-Melbourne Museum/Nicholson St (Fitzroy)",300
+"17894","96,86",144.973546,"1",-37.805676,"11-Melbourne Museum/Nicholson St (Fitzroy)",311
+"6059","96",144.97424,"1",-37.801894,"12-Moor St/Nicholson St (Fitzroy)",1439
+"18010","35,30",144.970972,"1",-37.807614,"9-La Trobe St/Victoria St (Melbourne City)",371
+"6133","96",144.974237,"1",-37.801587,"12-Moor St/Nicholson St (Fitzroy)",1478
+"18049","35,30",144.970266,"1",-37.807656,"9-Victoria St/La Trobe St (Melbourne City)",390
+"6061","96",144.974813,"1",-37.798407,"13-Johnston St/Nicholson St (Fitzroy)",1440
+"6135","96",144.974948,"1",-37.797616,"13-Johnston St/Nicholson St (Carlton)",1479
+"18011","35,30",144.969027,"1",-37.808103,"8-Exhibition St/La Trobe St (Melbourne City)",372
+"18048","35,30",144.968537,"1",-37.808185,"8-Exhibition St/La Trobe St (Melbourne City)",389
+"19494","16,3/3a,5,6,64,67,72,1",144.96329,"1",-37.808139,"7-RMIT University/Swanston St (Melbourne City)",1034
+"19691","16,3/3a,5,6,64,67,72,1",144.962868,"1",-37.807799,"7-RMIT University/Swanston St (Melbourne City)",1110
+"19492","16,3/3a,5,6,64,67,72,1",144.963108,"1",-37.805694,"4-Queensberry St/Swanston St (Carlton)",1033
+"19693","16,3/3a,5,6,64,67,72,1",144.963112,"1",-37.805135,"4-Queensberry St/Swanston St (Carlton)",1111
+"18789","6,1",144.967159,"1",-37.797113,"112-Lygon St/Elgin St (Carlton)",651
+"19694","16,3/3a,5,6,64,67,72,1",144.963555,"1",-37.802629,"3-Lincoln Square/Swanston St (Carlton)",1112
+"19491","16,3/3a,5,6,64,67,72,1",144.963687,"1",-37.80237,"3-Lincoln Square/Swanston St (Carlton)",1032
+"19341","6,1",144.968127,"1",-37.794138,"113-Lytton St/Lygon St (Carlton)",903
+"18790","6,1",144.968025,"1",-37.794127,"113-Lytton St/Lygon St (Carlton)",652
+"19340","6,1",144.966355,"1",-37.797027,"112-Lygon St/Elgin St (Carlton)",902
+"18791","6,1",144.968269,"1",-37.792689,"114-Princes St/Lygon St (Carlton North)",653
+"19342","6,1",144.968466,"1",-37.792125,"114-Princes St/Lygon St (Carlton North)",904
+"19489","16,3/3a,5,6,64,67,72,1",144.964192,"1",-37.799305,"1-Melbourne University/Swanston St (Carlton)",1031
+"17871","57,59,19",144.959849,"1",-37.80689,"7-Queen Victoria Market/Elizabeth St (Melbourne City)",295
+"19696","16,3/3a,5,6,64,67,72,1",144.964241,"1",-37.798766,"1-Melbourne University/Swanston St (Carlton)",1113
+"17856","57,59,19",144.959574,"1",-37.806561,"7-Queen Victoria Market/Elizabeth St (Melbourne City)",282
+"18205","58",144.955779,"1",-37.807442,"9-Queen Victoria Market/Peel St (North Melbourne)",480
+"18206","58",144.955751,"1",-37.807216,"9-Queen Victoria Market/39 Peel St (North Melbourne)",481
+"17857","57",144.956218,"1",-37.805935,"8-Peel St/Victoria St (Melbourne City)",283
+"18204","58",144.956077,"1",-37.805698,"10-Victoria St/Peel St (West Melbourne)",479
+"18203","58",144.956029,"1",-37.805391,"10-Victoria St/Peel St (West Melbourne)",478
+"17864","57",144.955744,"1",-37.80581,"8-Peel St/Victoria St (Melbourne City)",290
+"17869","59,19",144.957663,"1",-37.802148,"9-Pelham St/Elizabeth St (Melbourne City)",294
+"19504","3/3a,5,6,64,67,72,16",144.971369,"1",-37.828799,"19-Shrine of Remembrance/St Kilda Rd (Melbourne City)",1041
+"19679","3/3a,5,6,64,67,72,16",144.971229,"1",-37.828931,"19-Shrine of Remembrance/St Kilda Rd (Melbourne City)",1103
+"19681","3/3a,5,6,64,67,72,16",144.970801,"1",-37.824634,"17-Grant St-Police Memorial/St Kilda Rd (Southbank)",1104
+"19502","3/3a,5,6,64,67,72,16",144.970473,"1",-37.824169,"17-Grant St-Police Memorial/St Kilda Rd (Southbank)",1040
+"18232","1",144.96539,"1",-37.830119,"20-Kings Way/Sturt St (Southbank)",501
+"18224","1",144.965334,"1",-37.830091,"20-Kings Way/Sturt St (Southbank)",494
+"18218","58",144.965004,"1",-37.830536,"118-Sturt St/Kings Way (Southbank)",489
+"18231","1",144.966057,"1",-37.828184,"19-Miles St/Sturt St (Southbank)",500
+"18225","1",144.965755,"1",-37.828431,"19-Miles St/Sturt St (Southbank)",495
+"18230","1",144.966664,"1",-37.825924,"18-Grant St/Sturt St (Southbank)",499
+"18226","1",144.966634,"1",-37.825779,"18-Grant St/Sturt St (Southbank)",496
+"18229","1",144.96718,"1",-37.824094,"17-Arts Precinct/Sturt St (Southbank)",498
+"18227","1",144.967256,"1",-37.823816,"17-Arts Precinct/Sturt St (Southbank)",497
+"18217","58",144.964075,"1",-37.82961,"117-York St/Kings Way (South Melbourne)",488
+"18223","58",144.963906,"1",-37.829571,"117-York St/Kings Way (South Melbourne)",493
+"22612","58",144.960803,"1",-37.8263,"116-City Rd/Kings Way (Southbank)",1407
+"18233","58",144.960577,"1",-37.82626,"116-City Rd/Kings Way (Southbank)",502
+"17877","57,59,19",144.96484,"1",-37.817899,"1-Flinders Street Railway Station/Elizabeth St (Melbourne City)",299
+"18089","70,75,35",144.964626,"1",-37.818238,"4-Elizabeth St/Flinders St (Melbourne City)",427
+"17850","57,59,19",144.964765,"1",-37.817717,"1-Flinders Street Railway Station/Elizabeth St (Melbourne City)",278
+"18176","70,75,35",144.96428,"1",-37.818412,"4-Elizabeth St/Flinders St (Melbourne City)",450
+"4324","12",144.958346,"1",-37.82806,"126-City Rd/Clarendon St (South Melbourne)",1568
+"18215","58",144.961225,"1",-37.822117,"115-Casino/Southbank/Queens Bridge St (Southbank)",487
+"18450","58",144.961225,"1",-37.821711,"115-Casino East/Queens Bridge St (Southbank)",587
+"4125","12",144.957869,"1",-37.827223,"126-City Rd/Clarendon St (South Melbourne)",1254
+"18087","70,75,35",144.961797,"1",-37.819063,"3-Market St/Flinders St (Melbourne City)",426
+"18214","58",144.96124,"1",-37.819513,"1-Flinders St/Queens Bridge St (Melbourne City)",486
+"18178","70,75,35",144.961279,"1",-37.819306,"3-Market St/Flinders St (Melbourne City)",451
+"18465","58",144.961106,"1",-37.819429,"1-Flinders St/Queens Bridge St (Melbourne City)",601
+"18466","58",144.960698,"1",-37.818539,"2-Flinders Lane/Market St (Melbourne City)",602
+"18184","12,96,109",144.956684,"1",-37.825688,"125-Clarendon St/Whiteman St (Southbank)",457
+"20494","96",144.954442,"1",-37.829551,"126-City Rd/Light Rail (South Melbourne)",1201
+"19304","12,96,109",144.956208,"1",-37.826076,"125-Port Junction/79 Whiteman St (Southbank)",875
+"20495","96",144.954372,"1",-37.829189,"126-City Rd/Light Rail (South Melbourne)",1202
+"18467","58",144.959776,"1",-37.81864,"3-William St/Flinders Lane (Melbourne City)",603
+"17908","11,12,48,109",144.959913,"1",-37.817372,"3-William St/Collins St (Melbourne City)",321
+"21234","70,75,35",144.958213,"1",-37.820109,"2-Melbourne Aquarium/Flinders St (Melbourne City)",1388
+"18197","12,96,109",144.95631,"1",-37.823591,"124A-Casino/MCEC/Clarendon St (Southbank)",466
+"17903","11,12,48,109",144.959429,"1",-37.817607,"3-William St/Collins St (Melbourne City)",318
+"19369","12,109",144.953988,"1",-37.827453,"125A-Southbank Tram Depot/Light Rail (South Melbourne)",931
+"21233","70,75,35",144.957821,"1",-37.82031,"2-Melbourne Aquarium/Flinders St (Melbourne City)",1387
+"18469","58",144.959173,"1",-37.817819,"4-Collins St/William St (Melbourne City)",605
+"19721","12,109",144.953709,"1",-37.827691,"125A-Southbank Tram Depot/Light Rail (South Melbourne)",1136
+"18185","12,96,109",144.956057,"1",-37.823289,"124A-Casino/MCEC/Clarendon St (Southbank)",458
+"18211","58",144.959092,"1",-37.817457,"4-Collins St/William St (Melbourne City)",485
+"17886","96,86",144.960054,"1",-37.815122,"4-Queen St/Bourke St (Melbourne City)",304
+"17596","96,86",144.959835,"1",-37.815253,"4-Queen St/Bourke St (Melbourne City)",268
+"18196","12,96,109",144.955406,"1",-37.821773,"124-Batman Park/Spencer St (Melbourne City)",465
+"21231","70,75,35",144.955853,"1",-37.820834,"1-Spencer St/Flinders St (Melbourne City)",1385
+"6045","86",144.996167,"1",-37.78357,"26-Walker St/High St (Northcote)",1426
+"6119","86",144.996181,"1",-37.783894,"26-Walker St/High St (Northcote)",1464
+"6046","86",144.994521,"1",-37.78565,"25-Clifton Hill Interchange/Queens Pde (Clifton Hill)",1427
+"6120","86",144.993992,"1",-37.786317,"25-Clifton Hill Interchange/Queens Pde (Clifton Hill)",1465
+"6047","86",144.991416,"1",-37.788364,"24-Michael St/Queens Pde (Clifton Hill)",1428
+"22559","11",144.984027,"1",-37.783218,"22-Scotchmer St/St Georges Rd (Fitzroy North)",1404
+"6121","86",144.990265,"1",-37.788939,"24-Gold St/Queens Pde (Fitzroy North)",1466
+"4150","11",144.983647,"1",-37.78341,"22-Scotchmer St/St Georges Rd (Fitzroy North)",1513
+"6048","86",144.988751,"1",-37.789481,"23-Wellington St/Queens Pde (Clifton Hill)",1429
+"6122","86",144.988347,"1",-37.789735,"23-Wellington St/Queens Pde (Clifton Hill)",1467
+"4458","11",144.982152,"1",-37.785385,"21-Alfred Cres/St Georges Rd (Fitzroy North)",1599
+"4149","11",144.981912,"1",-37.785426,"21-Alfred Cres/St Georges Rd (Fitzroy North)",1512
+"6049","86",144.986351,"1",-37.790467,"22-Smith St/Queens Pde (Clifton Hill)",1430
+"6123","86",144.98621,"1",-37.790636,"22-Smith St/Queens Pde (Clifton Hill)",1468
+"6067","96",144.977604,"1",-37.783072,"18-Scotchmer St/Nicholson St (Fitzroy North)",1445
+"6140","96",144.977148,"1",-37.785254,"17-Reid St/Nicholson St (Carlton North)",1483
+"4457","11",144.980293,"1",-37.788174,"20-Fitzroy Bowls Club/Brunswick St (Fitzroy North)",1598
+"6066","96",144.977138,"1",-37.785587,"17-Reid St/Nicholson St (Fitzroy North)",1444
+"4148","11",144.980096,"1",-37.788297,"20-Fitzroy Bowls Club/Brunswick St (Fitzroy North)",1511
+"6124","86",144.985278,"1",-37.793621,"21-Alexandra Pde/Smith St (Clifton Hill)",1469
+"6050","86",144.985025,"1",-37.794158,"21-Alexandra Pde/Smith St (Fitzroy)",1431
+"4456","11",144.979888,"1",-37.790537,"19-Newry St/Brunswick St (Fitzroy North)",1597
+"4147","11",144.979665,"1",-37.790803,"19-Newry St/Brunswick St (Fitzroy North)",1510
+"6138","96",144.976548,"1",-37.788515,"16-Freeman St/Nicholson St (Fitzroy North)",1482
+"6064","96",144.976539,"1",-37.788812,"16-Freeman St/Nicholson St (Fitzroy North)",1443
+"6125","86",144.984751,"1",-37.796694,"20-Keele St/Smith St (Fitzroy)",1470
+"6051","86",144.984567,"1",-37.796781,"20-Rose St/Smith St (Collingwood)",1432
+"19345","6,1",144.969822,"1",-37.784083,"117-Richardson St/Lygon St (Carlton North)",907
+"18794","6,1",144.969732,"1",-37.784036,"117-Richardson St/Lygon St (Carlton North)",656
+"4455","11",144.979459,"1",-37.792927,"18-Alexandra Pde/Brunswick St (Fitzroy North)",1596
+"4146","11",144.97919,"1",-37.793625,"18-Alexandra Pde/Brunswick St (Fitzroy)",1509
+"6126","86",144.984375,"1",-37.798842,"19-Johnston St/Smith St (Fitzroy)",1471
+"6052","86",144.984164,"1",-37.799081,"19-Johnston St/Smith St (Fitzroy)",1433
+"6137","96",144.975938,"1",-37.791722,"15-Alexandra Pde/Nicholson St (Carlton)",1481
+"6063","96",144.97593,"1",-37.792019,"15-Alexandra Pde/Nicholson St (Fitzroy North)",1442
+"4454","11",144.979038,"1",-37.795461,"17-Leicester St/Brunswick St (Fitzroy)",1595
+"4145","11",144.978852,"1",-37.795629,"17-Leicester St/Brunswick St (Fitzroy)",1508
+"19344","6,1",144.969305,"1",-37.787201,"116-Fenwick St/Lygon St (Carlton North)",906
+"18793","6,1",144.969186,"1",-37.78737,"116-Fenwick St/Lygon St (Carlton North)",655
+"6127","86",144.983965,"1",-37.801394,"18-Hodgson St/Smith St (Fitzroy)",1472
+"6053","86",144.983744,"1",-37.801579,"18-Hodgson St/Smith St (Fitzroy)",1434
+"19343","6,1",144.968952,"1",-37.789285,"115-Melbourne Cemetery/Lygon St (Carlton North)",905
+"6062","96",144.975387,"1",-37.795254,"14-Rose St/Nicholson St (Fitzroy)",1441
+"4453","11",144.97859,"1",-37.798166,"16-Johnston St/Brunswick St (Fitzroy)",1594
+"6136","96",144.975319,"1",-37.795244,"14-Rose St/Nicholson St (Carlton)",1480
+"18792","6,1",144.968797,"1",-37.78958,"115-Melbourne Cemetery/Lygon St (Carlton North)",654
+"4144","11",144.978364,"1",-37.798531,"16-Johnston St/Brunswick St (Fitzroy)",1507
+"6128","86",144.983613,"1",-37.803461,"17-Charles St/Smith St (Fitzroy)",1473
+"6054","86",144.983382,"1",-37.80361,"17-Charles St/Smith St (Fitzroy)",1435
+"18116","70",144.98353,"1",-37.822384,"7C-MCG Gates 4-7/John Cain Arena (Melbourne City)",443
+"17914","11,12,48,109",144.973482,"1",-37.813416,"8-Spring St/Collins St (Melbourne City)",324
+"18161","70",144.982798,"1",-37.822137,"7C-MCG Gates 4-7/John Cain Arena (Melbourne City)",446
+"17898","11,12,48,109",144.973285,"1",-37.813557,"8-Spring St/Collins St (Melbourne City)",315
+"18092","75,35",144.974612,"1",-37.815319,"8-Spring St/Flinders St (Melbourne City)",430
+"18108","70",144.97913,"1",-37.819587,"7B-Rod Laver Arena/MCG Gates 1-3 (Melbourne City)",442
+"18172","70",144.978421,"1",-37.819349,"7B-Rod Laver Arena/MCG Gates 1-3 (Melbourne City)",447
+"18105","75,35",144.974174,"1",-37.815537,"8-Spring St/Flinders St (Melbourne City)",441
+"18047","35,30",144.966098,"1",-37.808909,"7-Russell St/La Trobe St (Melbourne City)",388
+"22903","70",144.976204,"1",-37.818167,"7A-William Barak Bridge/Melbourne Park (Melbourne City)",1408
+"22904","70",144.975825,"1",-37.818323,"7A-William Barak Bridge/Melbourne Park (Melbourne City)",1409
+"17889","96,86",144.969169,"1",-37.812468,"7-Russell St/Bourke St (Melbourne City)",307
+"22152","11,12,48,109",144.970712,"1",-37.814215,"7-Exhibition St/Collins St (Melbourne City)",1399
+"22153","11,12,48,109",144.970514,"1",-37.814383,"7-Exhibition St/Collins St (Melbourne City)",1400
+"17591","96,86",144.968354,"1",-37.812769,"7-Russell St/Bourke St (Melbourne City)",265
+"18030","35,30",144.964081,"1",-37.80955,"6-Swanston St/La Trobe St (Melbourne City)",373
+"19689","16,3/3a,5,6,64,67,72,1",144.96389,"1",-37.809889,"8-Melbourne Central Station/Swanston St (Melbourne City)",1109
+"18046","35,30",144.963465,"1",-37.809647,"6-Swanston St/La Trobe St (Melbourne City)",387
+"19495","16,3/3a,5,6,64,67,72,1",144.964274,"1",-37.810382,"8-Melbourne Central Station/Swanston St (Melbourne City)",1035
+"18091","70,75,35",144.9705,"1",-37.816564,"6-Russell St/Flinders St (Melbourne City)",429
+"18174","70,75,35",144.970168,"1",-37.816657,"6-Russell St/Flinders St (Melbourne City)",448
+"17888","96,86",144.966376,"1",-37.813266,"6-Swanston St/Bourke St (Melbourne City)",306
+"19687","16,3/3a,5,6,64,67,72,1",144.965185,"1",-37.812759,"10-Bourke Street Mall/Swanston St (Melbourne City)",1108
+"17593","96,86",144.965904,"1",-37.813484,"6-Swanston St/Bourke St (Melbourne City)",266
+"19497","16,3/3a,5,6,64,67,72,1",144.965582,"1",-37.813199,"10-Bourke Street Mall/Swanston St (Melbourne City)",1036
+"18031","35,30",144.961596,"1",-37.810291,"5-Elizabeth St/La Trobe St (Melbourne City)",374
+"17854","57,59,19",144.961429,"1",-37.810558,"5-Melbourne Central Station/Elizabeth St (Melbourne City)",281
+"18045","35,30",144.961117,"1",-37.810355,"5-Elizabeth St/La Trobe St (Melbourne City)",386
+"17873","57,59,19",144.961778,"1",-37.811105,"5-Melbourne Central Station/Elizabeth St (Melbourne City)",296
+"19686","16,3/3a,5,6,64,67,72,1",144.966569,"1",-37.81573,"11-City Square/Swanston St (Melbourne City)",1107
+"17911","11,12,48,109",144.96628,"1",-37.815518,"6-Melbourne Town Hall/Collins St (Melbourne City)",323
+"19498","16,3/3a,5,6,64,67,72,1",144.967017,"1",-37.816378,"11-City Square/Swanston St (Melbourne City)",1037
+"17901","11,12,48,109",144.965957,"1",-37.815674,"6-Melbourne Town Hall/Collins St (Melbourne City)",316
+"17887","96,86",144.963685,"1",-37.814031,"5-Elizabeth St/Bourke St (Melbourne City)",305
+"17852","57,59,19",144.962758,"1",-37.813447,"3-Bourke Street Mall/Elizabeth St (Melbourne City)",280
+"17594","96,86",144.96351,"1",-37.814217,"5-Elizabeth St/Bourke St (Melbourne City)",267
+"18090","70,75,35",144.967132,"1",-37.81756,"5-Swanston St/Flinders St (Melbourne City)",428
+"19685","16,3/3a,5,6,64,67,72,1",144.967675,"1",-37.818065,"13-Federation Square/Swanston St (Melbourne City)",1106
+"17875","57,59,19",144.963128,"1",-37.814039,"3-Bourke Street Mall/Elizabeth St (Melbourne City)",297
+"19499","16,3/3a,5,6,64,67,72,1",144.967982,"1",-37.818476,"13-Federation Square/Swanston St (Melbourne City)",1038
+"18032","35,30",144.959122,"1",-37.811005,"4-Queen St/La Trobe St (Melbourne City)",375
+"18175","70,75,35",144.966491,"1",-37.817756,"5-Swanston St/Flinders St (Melbourne City)",449
+"17851","57,59,19",144.963669,"1",-37.815428,"2-Collins St/Elizabeth St (Melbourne City)",279
+"18044","35,30",144.958712,"1",-37.811061,"4-Queen St/La Trobe St (Melbourne City)",385
+"17876","57,59,19",144.963996,"1",-37.815929,"2-Collins St/Elizabeth St (Melbourne City)",298
+"17910","11,12,48,109",144.963864,"1",-37.816206,"5-Elizabeth St/Collins St (Melbourne City)",322
+"19684","16,3/3a,5,6,64,67,72,1",144.969239,"1",-37.821517,"14-Arts Precinct/St Kilda Rd (Southbank)",1105
+"19500","16,3/3a,5,6,64,67,72,1",144.969514,"1",-37.821846,"14-Arts Precinct/St Kilda Rd (Southbank)",1039
+"17902","11,12,48,109",144.963404,"1",-37.816423,"5-Elizabeth St/Collins St (Melbourne City)",317
+"4174","86",145.069502,"1,2",-37.678984,"71-RMIT/Plenty Rd (Bundoora)",1537
+"4175","86",145.06902,"1,2",-37.681356,"70-Clements Dr/Plenty Rd (Bundoora)",1538
+"4485","86",145.068927,"1,2",-37.682318,"70-Janefield Dr/Plenty Rd (Bundoora)",1624
+"4176","86",145.066659,"1,2",-37.688022,"69-Taunton Dr/Plenty Rd (Bundoora)",1539
+"4486","86",145.066678,"1,2",-37.688157,"69-Taunton Dr/Plenty Rd (Bundoora)",1625
+"4177","86",145.063139,"1,2",-37.691686,"68-Greenhills Rd/Plenty Rd (Bundoora)",1540
+"4487","86",145.063019,"1,2",-37.691927,"68-Greenhills Rd/Plenty Rd (Bundoora)",1626
+"4178","86",145.059576,"1,2",-37.695674,"67-Bundoora Square SC/Plenty Rd (Bundoora)",1541
+"4488","86",145.059581,"1,2",-37.695908,"67-Bundoora Square SC/Plenty Rd (Bundoora)",1627
+"4179","86",145.058847,"1,2",-37.69796,"66-Settlement Rd/Plenty Rd (Bundoora)",1542
+"4489","86",145.058816,"1,2",-37.698266,"66-Settlement Rd/Plenty Rd (Bundoora)",1628
+"4490","86",145.058345,"1,2",-37.699817,"65-Grimshaw St/Plenty Rd (Bundoora)",1629
+"4180","86",145.058178,"1,2",-37.700121,"65-Grimshaw St/Plenty Rd (Bundoora)",1543
+"4181","86",145.055964,"1,2",-37.703671,"64-Mount Cooper Dr/Plenty Rd (Bundoora)",1544
+"4491","86",145.055856,"1,2",-37.703904,"64-Mount Cooper Dr/Plenty Rd (Bundoora)",1630
+"4182","86",145.052192,"1,2",-37.707385,"63-Greenwood Dr/Plenty Rd (Bundoora)",1545
+"4492","86",145.05163,"1,2",-37.70807,"63-Greenwood Dr/Plenty Rd (Bundoora)",1631
+"4493","86",145.049103,"1,2",-37.710551,"62-Metropolitan Fire Brigade/Plenty Rd (Bundoora)",1632
+"4183","86",145.048968,"1,2",-37.710531,"62-Metropolitan Fire Brigade/Plenty Rd (Bundoora)",1546
+"4185","86",145.046353,"1,2",-37.712488,"61-Bundoora Park/Plenty Rd (Bundoora)",1547
+"4494","86",145.04562,"1,2",-37.713152,"61-Bundoora Park/Plenty Rd (Bundoora)",1633
+"4186","86",145.043254,"1,2",-37.716447,"60-La Trobe University/Plenty Rd (Bundoora)",1548
+"4495","86",145.042764,"1,2",-37.717367,"60-La Trobe University/Plenty Rd (Bundoora)",1634
+"4496","86",145.039759,"1,2",-37.719039,"59-Preston Cemetery/Plenty Rd (Kingsbury)",1635
+"4187","86",145.039625,"1,2",-37.718982,"59-Preston Cemetery/Plenty Rd (Kingsbury)",1549
+"4497","86",145.036964,"1,2",-37.720064,"58-Browning St/Plenty Rd (Kingsbury)",1636
+"4188","86",145.036841,"1,2",-37.720008,"58-Browning St/Plenty Rd (Kingsbury)",1550
+"4498","86",145.030316,"1,2",-37.722639,"57-Reservoir District Secondary College/Plenty Rd (Reservoir)",1637
+"4189","86",145.030065,"1,2",-37.722689,"57-Reservoir District Secondary College/Plenty Rd (Reservoir)",1551
+"4190","86",145.027852,"1,2",-37.723986,"56-Loddon Ave/Plenty Rd (Reservoir)",1552
+"4499","86",145.027032,"1,2",-37.724522,"56-Loddon Ave/Plenty Rd (Reservoir)",1638
+"4191","86",145.022957,"1,2",-37.725436,"55-Boldrewood Pde/Plenty Rd (Reservoir)",1553
+"4500","86",145.022806,"1,2",-37.725568,"55-Albert St/Plenty Rd (Reservoir)",1639
+"4192","86",145.020014,"1,2",-37.727333,"54-Wilkinson St/Plenty Rd (Reservoir)",1554
+"4501","86",145.019675,"1,2",-37.727706,"54-Wilkinson St/Plenty Rd (Reservoir)",1640
+"4502","86",145.017515,"1,2",-37.72912,"53-Ethel Gr/Plenty Rd (Reservoir)",1641
+"4193","86",145.017208,"1,2",-37.729133,"53-Ethel Gr/Plenty Rd (Reservoir)",1555
+"4503","86",145.014765,"1,2",-37.730994,"52-Tyler St/Plenty Rd (Preston)",1642
+"4504","86",145.013825,"1",-37.734321,"51-Wood St/Plenty Rd (Preston)",1643
+"4195","86",145.013548,"1",-37.73447,"51-Wood St/Plenty Rd (Preston)",1556
+"4505","86",145.012565,"1",-37.736868,"50-Sylvester Gr/Plenty Rd (Preston)",1644
+"4196","86",145.012418,"1",-37.736839,"50-Sylvester Gr/Plenty Rd (Preston)",1557
+"4506","86",145.011676,"1",-37.73871,"49-Murray Rd/Plenty Rd (Preston)",1645
+"4197","86",145.011365,"1",-37.738894,"49-Murray Rd/Plenty Rd (Preston)",1558
+"4507","86",145.010089,"1",-37.740774,"48-Gower St/Plenty Rd (Preston)",1646
+"4198","86",145.009591,"1",-37.741153,"48-Gower St/Plenty Rd (Preston)",1559
+"4508","86",145.008444,"1",-37.742882,"47-David St/Plenty Rd (Preston)",1647
+"4199","86",145.007958,"1",-37.743207,"47-David St/Plenty Rd (Preston)",1560
+"4484","11",144.991587,"1",-37.729186,"47-West Preston/Gilbert Rd (Preston)",1623
+"19571","3/3a,5,6,64,67,16",144.980541,"1",-37.849918,"27-Lorne St/St Kilda Rd (Melbourne City)",1054
+"19563","3/3a,5,6,64,67,16",144.980554,"1",-37.849864,"27-High St/St Kilda Rd (South Melbourne)",1048
+"4135","12",144.974453,"1",-37.860988,"143-Fitzroy St/Park St (St Kilda)",1264
+"18700","58",144.986741,"1",-37.838417,"125-Punt Rd/Toorak Rd (South Yarra)",129
+"20512","3/3a,96,16",144.973413,"1",-37.862051,"135-Acland St/Fitzroy St (St Kilda)",1219
+"19323","58",144.986269,"1",-37.83821,"125-Punt Rd/Toorak Rd (South Yarra)",887
+"19133","72",144.982313,"1",-37.845361,"26-Alfred Hospital/Commercial Rd (Prahran)",833
+"20513","3/3a,96,16",144.973005,"1",-37.862414,"135-Jacka Bvd/Fitzroy St (St Kilda)",1220
+"18899","72",144.982225,"1",-37.845278,"26-Alfred Hospital/Commercial Rd (South Yarra)",658
+"19572","3/3a,5,6,64,67,16",144.979755,"1",-37.847895,"26-Beatrice St/St Kilda Rd (Melbourne City)",1055
+"4136","12",144.97319,"1",-37.859794,"142-Mary St/Park St (St Kilda West)",1265
+"19562","3/3a,5,6,64,67,16",144.979719,"1",-37.847552,"26-Moubray St/St Kilda Rd (South Melbourne)",1047
+"4445","12",144.973074,"1",-37.859477,"142-Mary St/Park St (St Kilda West)",1586
+"18699","58",144.984565,"1",-37.83819,"124-Walsh St/Toorak Rd (South Yarra)",128
+"19322","58",144.984536,"1",-37.838028,"124-Walsh St/Toorak Rd (South Yarra)",886
+"19561","3/3a,5,6,64,67,72,16",144.978631,"1",-37.844523,"25-Commercial Rd/St Kilda Rd (South Melbourne)",1046
+"19573","3/3a,5,6,64,67,72,16",144.978339,"1",-37.844013,"25-Commercial Rd/St Kilda Rd (Melbourne City)",1056
+"4137","12",144.970787,"1",-37.857491,"141-Deakin St/Park St (St Kilda West)",1266
+"4446","12",144.9705,"1",-37.85718,"141-Cowderoy St/Park St (St Kilda West)",1587
+"52113","58",144.981047,"1",-37.837634,"123-Fawkner Park/Toorak Rd (South Yarra)",1656
+"52112","58",144.980706,"1",-37.83762,"123-Fawkner Park/Toorak Rd (South Yarra)",1655
+"20505","96",144.971167,"1",-37.853983,"131-Fraser St/Light Rail (Middle Park)",1212
+"20504","96",144.971026,"1",-37.853764,"131-Fraser St/Light Rail (Middle Park)",1211
+"19574","3/3a,5,6,64,67,72,16",144.977419,"1",-37.841483,"24-Leopold St/St Kilda Rd (Melbourne City)",1057
+"19560","3/3a,5,6,64,67,72,16",144.977405,"1",-37.841159,"24-Leopold St/St Kilda Rd (South Melbourne)",1045
+"19575","3/3a,5,6,64,67,72,16",144.976615,"1",-37.839298,"23-Arthur St/St Kilda Rd (Melbourne City)",1058
+"4138","12",144.967425,"1",-37.855757,"140-Fraser St/Park St (St Kilda West)",1501
+"19539","3/3a,5,6,64,67,72,16",144.97657,"1",-37.838855,"23-Arthur St/St Kilda Rd (Melbourne City)",1044
+"4447","12",144.967127,"1",-37.855427,"140-Fraser St/Patterson St (Middle Park)",1588
+"4139","12",144.965587,"1",-37.854788,"139-Langridge St/Patterson St (Middle Park)",1502
+"4448","12",144.965301,"1",-37.854468,"139-Langridge St/Patterson St (Middle Park)",1589
+"49999","58",144.97536,"1",-37.835752,"22-Toorak Rd/St Kilda Rd (Melbourne City)",1654
+"19528","3/3a,5,6,64,67,72,16",144.975348,"1",-37.835761,"22-Toorak Rd/St Kilda Rd (Melbourne City)",1043
+"19676","3/3a,5,58,6,64,67,72,16",144.975038,"1",-37.835476,"22-Toorak Rd/St Kilda Rd (Melbourne City)",1101
+"20502","96",144.965684,"1",-37.849626,"130-Middle Park Station/Light Rail (Middle Park)",1209
+"20503","96",144.965401,"1",-37.849585,"130-Middle Park Station/Light Rail (Middle Park)",1210
+"4140","12",144.962452,"1",-37.853075,"138-Armstrong St/Danks St (Middle Park)",1503
+"4449","12",144.962167,"1",-37.852701,"138-Armstrong St/Danks St (Middle Park)",1590
+"19678","3/3a,5,6,64,67,72,16",144.971654,"1",-37.832057,"20-Park Street/St Kilda Rd (Melbourne City)",1102
+"19505","3/3a,5,6,64,67,72,16",144.971385,"1",-37.831521,"20-Park Street/St Kilda Rd (Melbourne City)",1042
+"18221","58",144.969802,"1",-37.83289,"119-Wells St/Park St (South Melbourne)",491
+"18219","58",144.969816,"1",-37.8328,"119-Wells St/Park St (South Melbourne)",490
+"4134","12",144.959181,"1",-37.851361,"137-Harold St/Danks St (Middle Park)",1263
+"4444","12",144.958872,"1",-37.851013,"137-Harold St/Danks St (Middle Park)",1585
+"20501","96",144.961672,"1",-37.845483,"129-Melbourne Sports and Aquatic Centre/Light Rail (Middle Park)",1208
+"20500","96",144.961667,"1",-37.845267,"129-Melbourne Sports and Aquatic Centre/Light Rail (Middle Park)",1207
+"4333","12",144.963364,"1",-37.838943,"130-Albert Rd/Clarendon St (South Melbourne)",1571
+"4127","12",144.962871,"1",-37.83952,"130-Clarendon St/Albert Rd (South Melbourne)",1256
+"4440","12",144.960063,"1",-37.8445,"133-Canterbury Rd/Mills St (Middle Park)",1581
+"21966","12,109",145.000797,"1",-37.810648,"21-Church St/Victoria St (Richmond)",1393
+"19383","12,109",145.000517,"1",-37.81049,"21-Church St/Victoria St (Abbotsford)",941
+"18591","78",145.000624,"1",-37.810726,"65-Victoria St/Church St (Richmond)",66
+"19087","78",145.000424,"1",-37.812254,"64-Baker St/Church St (Richmond)",1420
+"18592","78",145.000165,"1",-37.812592,"64-Elizabeth St/Church St (Richmond)",67
+"19733","12,109",144.996198,"1",-37.810173,"20-Lennox St/Victoria St (Richmond)",1146
+"19382","12,109",144.99576,"1",-37.809994,"20-Lennox St/Victoria St (Abbotsford)",940
+"19088","78",145.000039,"1",-37.81433,"63-Kent St/Church St (Richmond)",1421
+"18593","78",144.99988,"1",-37.814318,"63-Tweedie Pl/Church St (Richmond)",68
+"19381","12,109",144.992962,"1",-37.809694,"19-North Richmond Railway Station/Victoria St (Abbotsford)",939
+"19732","12,109",144.992551,"1",-37.809786,"19-North Richmond Railway Station/Victoria St (Richmond)",1145
+"19379","12,109",144.990644,"1",-37.809727,"18-Hoddle St/Victoria Pde (Collingwood)",938
+"19731","12,109",144.990415,"1",-37.809795,"18-Hoddle St/Victoria Pde (Collingwood)",1144
+"19719","75,48",144.996639,"1",-37.818219,"17-Waltham St/Bridge Rd (Richmond)",1135
+"19708","75,48",144.996499,"1",-37.818361,"17-Bosisto St/Bridge Rd (Richmond)",1124
+"19377","12,109",144.986136,"1",-37.809271,"16-Wellington St/Victoria Pde (Collingwood)",937
+"19729","12,109",144.985738,"1",-37.809292,"16-Wellington St/Victoria Pde (East Melbourne)",1143
+"19706","75,48",144.993808,"1",-37.817909,"15-Epworth Hospital/Bridge Rd (Richmond)",1123
+"19734","75,48",144.993577,"1",-37.818023,"15-Epworth Hospital/Bridge Rd (Richmond)",1147
+"22100","12,109",144.982908,"1",-37.808919,"15-Smith St/Victoria Pde (Fitzroy)",1394
+"19728","12,109",144.982215,"1",-37.808925,"15-Smith St/Victoria Pde (East Melbourne)",1142
+"18099","75,48",144.990217,"1",-37.817533,"14-Punt Rd/Bridge Rd (Richmond)",436
+"18098","75,48",144.989675,"1",-37.817388,"14-Punt Rd/Wellington Pde (Melbourne City)",435
+"19726","12,109",144.978806,"1",-37.808551,"13-Lansdowne St/Victoria Pde (East Melbourne)",1141
+"19374","12,109",144.978344,"1",-37.808435,"13-Lansdowne St/Victoria Pde (Fitzroy)",935
+"18097","75,48",144.986983,"1",-37.81654,"13-Simpson St/Wellington Pde (East Melbourne)",434
+"18100","75,48",144.98697,"1",-37.816603,"13-Simpson St/Wellington Pde (East Melbourne)",437
+"17895","11,12,30,109",144.976133,"1",-37.80828,"12-St Vincents Plaza/Victoria Pde (East Melbourne)",312
+"18095","75,48",144.984819,"1",-37.816341,"11-Jolimont Station-MCG/Wellington Pde (East Melbourne)",433
+"18102","75,48",144.983992,"1",-37.816246,"11-Jolimont Station-MCG/Wellington Pde (East Melbourne)",438
+"19279","70",144.993484,"1",-37.82524,"9-Lennox St/Swan St (Richmond)",860
+"19465","70",144.993284,"1",-37.825092,"9-Lennox St/Swan St (Richmond)",1015
+"17896","11,12,109",144.975728,"1",-37.80939,"11-Albert St/Gisborne St (East Melbourne)",313
+"18006","11,12,109",144.975606,"1",-37.809695,"11-Albert St/Gisborne St (East Melbourne)",369
+"17892","86,96,35",144.972899,"1",-37.809423,"10-Albert St/Nicholson St (East Melbourne)",310
+"18094","75,48",144.979791,"1",-37.81575,"10-Jolimont Rd/Wellington Pde (East Melbourne)",432
+"17880","86,96,35",144.972949,"1",-37.809676,"10-Albert St/Nicholson St (Fitzroy)",301
+"18103","75,48",144.979325,"1",-37.815769,"10-Jolimont Rd/Wellington Pde (East Melbourne)",439
+"19278","70",144.989057,"1",-37.824677,"8-Richmond Station/Swan St (Richmond)",859
+"19466","70",144.988436,"1",-37.824532,"8-Richmond Station/Swan St (Cremorne)",1016
+"17915","11,12,109",144.974368,"1",-37.81217,"10-Parliament Railway Station/Macarthur St (East Melbourne)",325
+"17897","11,12,109",144.974488,"1",-37.812379,"10-Parliament Railway Station/Macarthur St (East Melbourne)",314
+"18155","70",144.986751,"1",-37.823827,"7D-Olympic Boulevard (Melbourne City)",445
+"20979","35",144.973246,"1",-37.811664,"0-Bourke St/Spring St (Melbourne City)",1308
+"18118","70",144.986857,"1",-37.824135,"7D-Olympic Boulevard (Melbourne City)",444
+"18093","75,48",144.977164,"1",-37.815453,"9-Lansdowne St/Wellington Pde (East Melbourne)",431
+"17882","96,86",144.972579,"1",-37.811544,"9-Spring St/Bourke St (Melbourne City)",302
+"17891","96,86",144.97241,"1",-37.811523,"9-Spring St/Bourke St (Melbourne City)",309
+"18104","75,48",144.976664,"1",-37.815471,"9-Lansdowne St/Wellington Pde (Melbourne City)",440
+"19115","3/3a,16",144.98876,"1",-37.868226,"36-St Kilda Town Hall/Carlisle St (St Kilda)",819
+"18620","3/3a,16",144.988685,"1",-37.86809,"36-St Kilda Town Hall/Carlisle St (St Kilda)",93
+"19118","3/3a,16",144.987673,"1",-37.868081,"35-Brighton Rd/Carlisle St (St Kilda)",821
+"18623","3/3a,67,16",144.986566,"1",-37.867828,"35-St Kilda Rd/Carlisle St (St Kilda)",96
+"19119","3/3a,16",144.983969,"1",-37.867594,"34-Mitchell St/Carlisle St (St Kilda)",822
+"18624","3/3a,16",144.984006,"1",-37.867478,"34-Greeves St/Carlisle St (St Kilda)",97
+"21963","67,3/3a",144.986636,"1",-37.867325,"35-Carlisle St/St Kilda Rd (St Kilda)",1391
+"19135","3/3a,16",144.981387,"1",-37.867253,"33-Barkly St/Carlisle St (St Kilda)",834
+"18625","3/3a,16",144.981085,"1",-37.867067,"33-Barkly St/Carlisle St (St Kilda)",98
+"19136","3/3a,16",144.978585,"1",-37.867042,"32-Havelock St/Carlisle St (St Kilda)",835
+"20519","3/3a,96,16",144.97721,"1",-37.867001,"138-Luna Park/The Esplanade (St Kilda)",1224
+"20518","3/3a,96,16",144.976835,"1",-37.866985,"138-Luna Park/The Esplanade (St Kilda)",1223
+"18618","78",144.990791,"1",-37.86544,"38-Inkerman St/Chapel St (St Kilda East)",91
+"20515","3/3a,96,16",144.973779,"1",-37.865293,"136-Alfred Square/The Esplanade (St Kilda)",1222
+"19113","78",144.991037,"1",-37.865201,"38-Inkerman St/Chapel St (St Kilda East)",818
+"20514","3/3a,96,16",144.973486,"1",-37.865197,"136-Alfred Square/The Esplanade (St Kilda)",1221
+"19697","67,3/3a",144.985901,"1",-37.865113,"34-Inkerman St/St Kilda Rd (St Kilda)",1114
+"19698","67,3/3a",144.985452,"1",-37.864069,"34-Inkerman St/St Kilda Rd (St Kilda)",1115
+"18617","78",144.991188,"1",-37.863392,"39-Argyle St/Chapel St (St Kilda East)",90
+"19112","78",144.991395,"1",-37.863324,"39-Argyle St/Chapel St (St Kilda East)",817
+"19700","67,3/3a",144.984893,"1",-37.862483,"33-Argyle St/St Kilda Rd (St Kilda)",1117
+"19701","67,3/3a",144.984892,"1",-37.862086,"33-Argyle St/St Kilda Rd (St Kilda)",1118
+"18616","78",144.99151,"1",-37.861577,"40-Alma Rd/Chapel St (St Kilda East)",89
+"19111","78",144.991732,"1",-37.861374,"40-Alma Rd/Chapel St (St Kilda East)",816
+"20510","3/3a,96,16",144.975258,"1",-37.861083,"134-Park St/Fitzroy St (St Kilda)",1217
+"19703","67,3/3a",144.984513,"1",-37.86098,"32-Alma Rd/St Kilda Rd (St Kilda)",1120
+"20511","3/3a,96,16",144.975273,"1",-37.860957,"134-Park St/Fitzroy St (St Kilda)",1218
+"20508","3/3a,96,16",144.976772,"1",-37.86018,"133-Canterbury Rd/Fitzroy St (St Kilda)",1215
+"19702","67,3/3a",144.984053,"1",-37.859945,"32-Alma Rd/St Kilda Rd (St Kilda)",1119
+"20509","3/3a,96,16",144.977017,"1",-37.859932,"133-Canterbury Rd/Fitzroy St (St Kilda)",1216
+"18615","78",144.991873,"1",-37.859529,"41-St Michaels Grammar School/Chapel St (St Kilda)",88
+"19110","78",144.992081,"1",-37.859379,"41-St Michaels Grammar School/Chapel St (St Kilda East)",815
+"20506","96",144.977637,"1",-37.859285,"132-St Kilda Station/Fitzroy St (St Kilda)",1213
+"20507","96",144.977257,"1",-37.859044,"132-St Kilda Station/Fitzroy St (St Kilda)",1214
+"19705","67,3/3a",144.983587,"1",-37.858261,"31-Barkly St/St Kilda Rd (St Kilda)",1122
+"22112","3/3a,16",144.980194,"1",-37.858049,"132-Princes St/Fitzroy St (St Kilda)",1398
+"19704","67,3/3a",144.983356,"1",-37.857968,"31-Barkly St/St Kilda Rd (St Kilda)",1121
+"22111","3/3a,16",144.980573,"1",-37.85793,"132-Princes St/Fitzroy St (St Kilda)",1397
+"18614","78",144.992155,"1",-37.857921,"42-Dandenong Rd/Chapel St (St Kilda East)",87
+"19034","64,5",144.991996,"1",-37.857494,"32-Chapel St/Dandenong Rd (Windsor)",748
+"18449","64,5",144.991691,"1",-37.857426,"32-Chapel St/Dandenong Rd (Windsor)",586
+"19109","78",144.992419,"1",-37.85742,"42-Dandenong Rd/Chapel St (Prahran)",814
+"22109","3/3a,16",144.982201,"1",-37.856966,"131-St Kilda Rd/Fitzroy St (St Kilda)",1395
+"22110","3/3a,16",144.982331,"1",-37.856797,"131-St Kilda Rd/Fitzroy St (St Kilda)",1396
+"19567","64,5",144.987495,"1",-37.856246,"31-Queens Way/Queens Way (St Kilda)",1051
+"18613","78",144.992451,"1",-37.85624,"43-Windsor Railway Station/Chapel St (Windsor)",86
+"19035","64,5",144.987406,"1",-37.856154,"31-Queens Way/Queens Way (Windsor)",749
+"19108","78",144.992647,"1",-37.856127,"43-Windsor Railway Station/Chapel St (Prahran)",813
+"19566","3/3a,5,64,67,16",144.982531,"1",-37.855296,"30-St Kilda Junction/St Kilda Rd (St Kilda)",1050
+"19568","3/3a,5,64,67,16",144.982345,"1",-37.855031,"30-St Kilda Junction/St Kilda Rd (St Kilda)",1052
+"18612","78",144.992827,"1",-37.854102,"44-Duke St/Chapel St (Windsor)",85
+"19107","78",144.993046,"1",-37.853989,"44-Duke St/Chapel St (Prahran)",812
+"19565","3/3a,5,64,67,16",144.981707,"1",-37.853002,"29-Union St/St Kilda Rd (St Kilda)",1049
+"16778","6",144.998607,"1",-37.852623,"33-The Avenue/High St (Prahran)",234
+"19569","3/3a,5,64,67,16",144.981437,"1",-37.852483,"29-Union St/St Kilda Rd (St Kilda)",1053
+"16610","6",144.998089,"1",-37.852434,"33-The Avenue/High St (Prahran)",171
+"17602","6",144.996534,"1",-37.852354,"32-Hornby St/High St (Prahran)",270
+"15699","6",144.996436,"1",-37.852199,"32-Hornby St/High St (Prahran)",169
+"18611","78",144.993283,"1",-37.851956,"45-High St/Chapel St (Prahran)",84
+"17603","6",144.993533,"1",-37.851951,"31-Chapel St/High St (Prahran)",271
+"14728","6",144.993209,"1",-37.851756,"31-Chapel St/High St (Prahran)",167
+"19106","78",144.993494,"1",-37.851725,"45-High St/Chapel St (Prahran)",811
+"17604","6",144.989298,"1",-37.851392,"30-Prahran Station/High St (Windsor)",272
+"14614","6",144.989731,"1",-37.851319,"30-Prahran Station/High St (Prahran)",166
+"17605","6",144.987927,"1",-37.851207,"29-Perth St/High St (Windsor)",273
+"14033","6",144.987727,"1",-37.85105,"29-Perth St/High St (Prahran)",165
+"17606","6",144.984371,"1",-37.850758,"28-Punt Rd/High St (Windsor)",274
+"13401","6",144.984047,"1",-37.850564,"28-Punt Rd/High St (Prahran)",163
+"18610","78",144.993678,"1",-37.849106,"46-Chatham St/Chapel St (Prahran)",83
+"19105","78",144.993921,"1",-37.848948,"46-Chatham St/Chapel St (Prahran)",810
+"19126","72",145.001155,"1",-37.847881,"33-Hobson St/Malvern Rd (South Yarra)",826
+"18936","72",145.000434,"1",-37.847653,"33-Francis St/Malvern Rd (South Yarra)",665
+"19127","72",144.998042,"1",-37.84745,"32-Bendigo St/Malvern Rd (Prahran)",827
+"18935","72",144.997807,"1",-37.847293,"32-Surrey Rd/Malvern Rd (South Yarra)",664
+"18609","78",144.994032,"1",-37.846976,"47-Commercial Rd/Chapel St (Prahran)",82
+"19128","72",144.994215,"1",-37.846934,"31-Chapel St/Malvern Rd (Prahran)",828
+"18934","72",144.994015,"1",-37.84676,"31-Chapel St/Commercial Rd (South Yarra)",663
+"19129","72",144.992425,"1",-37.846706,"30-Prahran Market/Commercial Rd (Prahran)",829
+"19104","78",144.994255,"1",-37.846701,"47-Malvern Rd/Chapel St (South Yarra)",809
+"18933","72",144.992271,"1",-37.846541,"30-Prahran Market/Commercial Rd (South Yarra)",662
+"19130","72",144.990714,"1",-37.846514,"29-Porter St/Commercial Rd (Prahran)",830
+"18931","72",144.990583,"1",-37.846314,"29-Porter St/Commercial Rd (South Yarra)",661
+"19131","72",144.987556,"1",-37.846073,"28-Braille Library/Commercial Rd (Prahran)",831
+"18923","72",144.987413,"1",-37.845899,"28-Braille Library/Commercial Rd (South Yarra)",660
+"19132","72",144.985155,"1",-37.84577,"27-Punt Rd/Commercial Rd (Prahran)",832
+"18918","72",144.984863,"1",-37.84563,"27-Punt Rd/Commercial Rd (South Yarra)",659
+"18608","78",144.994651,"1",-37.843833,"48-Cliff St/Chapel St (South Yarra)",81
+"19103","78",144.994895,"1",-37.843639,"48-Wilson St/Chapel St (South Yarra)",808
+"19102","78",144.994973,"1",-37.842027,"49-Arthur St/Chapel St (South Yarra)",807
+"18607","78",144.99528,"1",-37.841572,"49-Palermo St/Chapel St (South Yarra)",80
+"18606","78",144.995503,"1",-37.839648,"50-Toorak Rd/Chapel St (South Yarra)",79
+"18704","58",144.995823,"1",-37.839581,"128-Chapel St/Toorak Rd (South Yarra)",132
+"19326","58",144.995431,"1",-37.839376,"128-Chapel St/Toorak Rd (South Yarra)",890
+"19101","78",144.995784,"1",-37.839346,"50-Toorak Rd/Chapel St (South Yarra)",806
+"18703","58",144.992165,"1",-37.839131,"127-South Yarra Railway Station/Toorak Rd (South Yarra)",131
+"19325","58",144.992089,"1",-37.838986,"127-South Yarra Railway Station/Toorak Rd (South Yarra)",889
+"18702","58",144.989504,"1",-37.838788,"126-Myrtle St/Toorak Rd (South Yarra)",130
+"19324","58",144.989349,"1",-37.838624,"126-Myrtle St/Toorak Rd (South Yarra)",888
+"19742","48,109",145.023771,"1",-37.812964,"29-Barkers Rd/High St (Kew)",1153
+"19391","109",145.023179,"1",-37.813026,"29-High St/Barkers Rd (Kew)",947
+"18343","48",145.023252,"1",-37.813253,"26-Barkers Rd/Church St (Hawthorn)",505
+"19389","109",145.02062,"1",-37.812713,"27-Findon Cres/Barkers Rd (Kew)",946
+"19740","109",145.020775,"1",-37.812878,"27-Findon St/Barkers Rd (Hawthorn)",1152
+"18588","48",145.020982,"1",-37.815756,"25-Brook St/Church St (Hawthorn)",64
+"18342","48",145.020602,"1",-37.815921,"25-Brook St/Church St (Hawthorn)",504
+"20783","75",145.026282,"1",-37.821468,"27-Power St/Burwood Rd (Hawthorn)",1304
+"20782","75",145.026275,"1",-37.821747,"27-Burwood Rd/Power St (Hawthorn)",1303
+"20780","75",145.024817,"1",-37.821453,"26-Hawthorn Railway Station/Burwood Rd (Hawthorn)",1301
+"20781","75",145.024583,"1",-37.821287,"26-Hawthorn Railway Station/Burwood Rd (Hawthorn)",1302
+"19387","109",145.013239,"1",-37.811768,"25-River Bvd/Victoria St (Richmond)",945
+"19738","109",145.012908,"1",-37.811826,"25-River Bvd/Victoria St (Richmond)",1151
+"18589","48",145.018753,"1",-37.817971,"24-Hill St/Church St (Hawthorn)",65
+"18341","48",145.018607,"1",-37.817906,"24-Grattan St/Church St (Hawthorn)",503
+"20784","75",145.025865,"1",-37.824778,"28-Wattle Rd/Power St (Hawthorn)",1305
+"20785","75",145.025713,"1",-37.82491,"28-Wattle Rd/Power St (Hawthorn)",1306
+"20779","75",145.021115,"1",-37.820958,"25-St James Park/Burwood Rd (Hawthorn)",1300
+"20778","75",145.021027,"1",-37.820884,"25-St James Park/Burwood Rd (Hawthorn)",1299
+"19386","12,109",145.010385,"1",-37.811441,"24-Burnley St/Victoria St (Richmond)",944
+"19737","12,109",145.010122,"1",-37.811509,"24-Burnley St/Victoria St (Richmond)",1150
+"19454","75,70",145.025709,"1",-37.827623,"29-Power St/Riversdale Rd (Hawthorn)",1005
+"19736","12,109",145.007617,"1",-37.811313,"23-Leslie St/Victoria St (Richmond)",1149
+"19299","75,70",145.025443,"1",-37.827393,"29-Power St/Riversdale Rd (Hawthorn)",870
+"19385","12,109",145.006873,"1",-37.811111,"23-Flockhart St/Victoria St (Abbotsford)",943
+"22560","75,48",145.016371,"1",-37.81995,"23-Hawthorn Bridge/Bridge Rd (Hawthorn)",1405
+"22561","75,48",145.016221,"1",-37.820019,"23-Hawthorn Bridge/Bridge Rd (Hawthorn)",1406
+"19735","12,109",145.00423,"1",-37.810976,"22-McKay St/Victoria St (Richmond)",1148
+"19384","12,109",145.004041,"1",-37.810829,"22-McKay St/Victoria St (Richmond)",942
+"19713","75,48",145.01397,"1",-37.820099,"22-Yarra Bvd/Bridge Rd (Richmond)",1129
+"19456","70",145.020617,"1",-37.82642,"18-Yarra Bvd/Swan St (Burnley)",1006
+"19714","75,48",145.013401,"1",-37.820152,"22-Yarra Bvd/Bridge Rd (Richmond)",1130
+"19298","70",145.019554,"1",-37.826663,"18-Yarra Bvd/Swan St (Burnley)",869
+"19712","75,48",145.008873,"1",-37.819535,"21-Burnley St/Bridge Rd (Richmond)",1128
+"19457","70",145.016846,"1",-37.827248,"17-Madden Gr/Swan St (Burnley)",1007
+"19715","75,48",145.007772,"1",-37.81948,"21-Burnley St/Bridge Rd (Richmond)",1131
+"19297","70",145.016511,"1",-37.827468,"17-Madden Gr/Swan St (Burnley)",868
+"19716","75,48",145.003977,"1",-37.819083,"20-Coppin St/Bridge Rd (Richmond)",1132
+"19711","75,48",145.003571,"1",-37.818977,"20-Coppin St/Bridge Rd (Richmond)",1127
+"19089","78",144.999773,"1",-37.815749,"62-Highett St/Church St (Richmond)",1422
+"19458","70",145.01228,"1",-37.827198,"16-Park Gr/Swan St (Burnley)",1008
+"18594","78",144.999574,"1",-37.815962,"62-Highett St/Church St (Richmond)",69
+"19296","70",145.011778,"1",-37.827262,"16-Park Gr/Swan St (Burnley)",867
+"19710","75,48",145.001374,"1",-37.81875,"19-Richmond Town Hall/Bridge Rd (Richmond)",1126
+"19717","75,48",145.001372,"1",-37.818813,"19-Richmond Town Hall/Bridge Rd (Richmond)",1133
+"19295","70",145.009784,"1",-37.827048,"15-Stawell St/Swan St (Burnley)",866
+"19459","70",145.009607,"1",-37.826901,"15-Stawell St/Swan St (Richmond)",1009
+"19090","78",144.999292,"1",-37.818426,"61-Bridge Rd/Church St (Richmond)",1423
+"19718","75,48",144.999423,"1",-37.818618,"18-Church St/Bridge Rd (Richmond)",1134
+"18595","78",144.999079,"1",-37.818729,"61-Bridge Rd/Church St (Richmond)",70
+"19709","75,48",144.998791,"1",-37.818472,"18-Church St/Bridge Rd (Richmond)",1125
+"19294","70",145.00736,"1",-37.826791,"14-Burnley St/Swan St (Burnley)",865
+"19460","70",145.006877,"1",-37.826593,"14-Burnley St/Swan St (Richmond)",1010
+"19091","78",144.998957,"1",-37.820322,"60-Abinger St/Church St (Richmond)",1424
+"18596","78",144.99881,"1",-37.820302,"60-Abinger St/Church St (Richmond)",71
+"19461","70",145.00511,"1",-37.826392,"13-Edinburgh St/Swan St (Richmond)",1011
+"19283","70",145.004902,"1",-37.826506,"13-Edinburgh St/Swan St (Burnley)",864
+"19092","78",144.998714,"1",-37.821742,"59-St Ignatius Church/Church St (Richmond)",798
+"18597","78",144.998541,"1",-37.821838,"59-St Ignatius Church/Church St (Richmond)",72
+"19282","70",145.00258,"1",-37.826259,"12-Coppin St/Swan St (Richmond)",863
+"19462","70",145.002345,"1",-37.826102,"12-Coppin St/Swan St (Richmond)",1012
+"19093","78",144.998354,"1",-37.823727,"58-Gipps St/Church St (Richmond)",799
+"18598","78",144.998163,"1",-37.824058,"58-Gipps St/Church St (Richmond)",73
+"19333","58",145.017541,"1",-37.84204,"135-Woorigoleen Rd/Toorak Rd (Toorak)",897
+"18782","58",145.017583,"1",-37.842166,"135-Woorigoleen Rd/Toorak Rd (Toorak)",646
+"19094","78",144.998032,"1",-37.825551,"57-Swan St/Church St (Richmond)",800
+"19281","70",144.998094,"1",-37.82576,"11-Church St/Swan St (Richmond)",862
+"19463","70",144.99778,"1",-37.82561,"11-Church St/Swan St (Richmond)",1013
+"18599","78",144.997821,"1",-37.825782,"57-Swan St/Church St (Richmond)",74
+"19095","78",144.997843,"1",-37.826638,"56-East Richmond Railway Station/Church St (Richmond)",801
+"19464","70",144.9959,"1",-37.82538,"10-Swan Street Shopping Centre/Swan St (Richmond)",1014
+"19280","70",144.996055,"1",-37.825527,"10-Swan Street Shopping Centre/Swan St (Richmond)",861
+"18781","58",145.014048,"1",-37.841755,"134-Orrong Rd/Toorak Rd (Toorak)",645
+"19332","58",145.013734,"1",-37.841615,"134-Orrong Rd/Toorak Rd (Toorak)",896
+"19096","78",144.997456,"1",-37.828768,"55-Gibbons St/Church St (Richmond)",802
+"18601","78",144.997269,"1",-37.828972,"55-Adelaide St/Church St (Cremorne)",75
+"18709","58",145.010888,"1",-37.841387,"133-Canterbury Rd/Toorak Rd (Toorak)",137
+"19331","58",145.010585,"1",-37.841228,"133-Grange Rd/Toorak Rd (Toorak)",895
+"18602","78",144.997187,"1",-37.830331,"54-Cotter St/Church St (Cremorne)",76
+"19097","78",144.996967,"1",-37.830472,"54-Balmain St/Church St (Richmond)",803
+"19330","58",145.008342,"1",-37.840965,"132-Toorak Village/Toorak Rd (Toorak)",894
+"18708","58",145.008452,"1",-37.841093,"132-Toorak Village/Toorak Rd (Toorak)",136
+"18603","78",144.996794,"1",-37.832668,"53-Howard St/Church St (Richmond)",77
+"19068","72",145.015617,"1",-37.849793,"38-Clendon Rd/Malvern Rd (Toorak)",781
+"18941","72",145.01536,"1",-37.849618,"38-Clendon Rd/Malvern Rd (Toorak)",670
+"19098","78",144.996608,"1",-37.832827,"53-Howard St/Church St (Richmond)",804
+"18707","58",145.00536,"1",-37.840725,"131-Williams Rd/Toorak Rd (Toorak)",135
+"19329","58",145.004582,"1",-37.840514,"131-Williams Rd/Toorak Rd (South Yarra)",893
+"19069","72",145.012469,"1",-37.84938,"37-Orrong Rd/Malvern Rd (Toorak)",782
+"18706","58",145.002336,"1",-37.840368,"130-Hawksburn Rd/Toorak Rd (South Yarra)",134
+"18940","72",145.012076,"1",-37.849193,"37-Orrong Rd/Malvern Rd (Toorak)",669
+"19328","58",145.001988,"1",-37.840209,"130-Hawksburn Rd/Toorak Rd (South Yarra)",892
+"18605","78",144.996342,"1",-37.836364,"51-Malcolm St/Chapel St (South Yarra)",78
+"18939","72",145.009992,"1",-37.848923,"36-A'Beckett St/Malvern Rd (Toorak)",668
+"19100","78",144.996042,"1",-37.836944,"51-Malcolm St/Chapel St (South Yarra)",805
+"19123","72",145.009321,"1",-37.848948,"36-Canterbury Rd/Malvern Rd (Toorak)",823
+"18705","58",144.998666,"1",-37.839927,"129-Tivoli Rd/Toorak Rd (South Yarra)",133
+"19327","58",144.998488,"1",-37.839771,"129-Tivoli Rd/Toorak Rd (South Yarra)",891
+"18392","67",145.015086,"1",-37.886102,"49-Kooyong Rd/Glenhuntly Rd (Elsternwick)",535
+"18986","67",145.014874,"1",-37.885963,"49-Kooyong Rd/Glenhuntly Rd (Elsternwick)",715
+"18468","3/3a,16",145.021175,"1",-37.872299,"47-Caulfield Junior College/Balaclava Rd (Caulfield North)",604
+"18641","3/3a,16",145.021099,"1",-37.872145,"47-Elmhurst Rd/Balaclava Rd (Caulfield North)",108
+"18376","67",145.012241,"1",-37.885756,"48-Parkside St/Glenhuntly Rd (Elsternwick)",534
+"18985","67",145.012267,"1",-37.885649,"48-Parkside St/Glenhuntly Rd (Elsternwick)",714
+"21060","3/3a,16",145.017957,"1",-37.871894,"46-Kooyong Rd/Balaclava Rd (Caulfield North)",1315
+"18640","3/3a,16",145.017621,"1",-37.871726,"46-Kooyong Rd/Balaclava Rd (Caulfield North)",107
+"18375","67",145.009113,"1",-37.885388,"47-Shoobra Rd/Glenhuntly Rd (Elsternwick)",533
+"18984","67",145.009127,"1",-37.885271,"47-Shoobra Rd/Glenhuntly Rd (Elsternwick)",713
+"21059","3/3a,16",145.015101,"1",-37.871557,"45-Kent Gr/Balaclava Rd (Caulfield North)",1314
+"18639","3/3a,16",145.014732,"1",-37.871344,"45-Lumeah Rd/Balaclava Rd (Caulfield North)",106
+"18374","67",145.006211,"1",-37.885051,"46-Orrong Rd/Glenhuntly Rd (Elsternwick)",532
+"18983","67",145.005705,"1",-37.884862,"46-Orrong Rd/Glenhuntly Rd (Elsternwick)",712
+"21058","3/3a,16",145.012383,"1",-37.871178,"44-Otira Rd/Balaclava Rd (Caulfield North)",1313
+"18638","3/3a,16",145.012363,"1",-37.871069,"44-Ontario St/Balaclava Rd (Caulfield North)",105
+"18373","67",145.003945,"1",-37.884751,"45-Elsternwick Shopping Centre/Glenhuntly Rd (Elsternwick)",531
+"18982","67",145.003812,"1",-37.884613,"45-Elsternwick Shopping Centre/Glenhuntly Rd (Elsternwick)",711
+"21057","3/3a,16",145.008791,"1",-37.870748,"43-Orrong Rd/Balaclava Rd (Caulfield North)",1312
+"18637","3/3a,16",145.008466,"1",-37.870553,"43-Orrong Rd/Balaclava Rd (Caulfield North)",104
+"18372","67",145.000557,"1",-37.884306,"44-Elsternwick Railway Station/Glenhuntly Rd (Elsternwick)",530
+"18981","67",145.00038,"1",-37.88415,"44-Elsternwick Railway Station/Glenhuntly Rd (Elsternwick)",710
+"21042","3/3a,16",145.005585,"1",-37.870342,"42-Allan Rd/Balaclava Rd (Caulfield North)",1311
+"18636","3/3a,16",145.005317,"1",-37.870166,"42-Sidwell Ave/Balaclava Rd (Caulfield North)",103
+"18980","67",144.997842,"1",-37.8838,"43-Brighton Rd/Glenhuntly Rd (Elsternwick)",709
+"18371","67",144.997578,"1",-37.883904,"43-Brighton Rd/Glenhuntly Rd (Elsternwick)",529
+"18979","67",144.996501,"1",-37.882957,"42-Hotham St/Brighton Rd (Balaclava)",708
+"18370","67",144.996344,"1",-37.882864,"42-Hotham St/Brighton Rd (St Kilda East)",528
+"20648","3/3a,16",145.002582,"1",-37.869984,"41-Vadlure Ave/Balaclava Rd (St Kilda East)",1296
+"18635","3/3a,16",145.001577,"1",-37.869706,"41-Empress Rd/Balaclava Rd (St Kilda East)",102
+"18978","67",144.995161,"1",-37.880798,"41-Coleridge St/Brighton Rd (Balaclava)",707
+"18369","67",144.99508,"1",-37.880842,"41-Coleridge St/Brighton Rd (Elwood)",527
+"20647","3/3a,16",144.999625,"1",-37.86961,"40-Hotham St/Balaclava Rd (St Kilda East)",1295
+"18634","3/3a,16",144.999289,"1",-37.869433,"40-Hotham St/Carlisle St (Balaclava)",101
+"18977","67",144.993973,"1",-37.878886,"40-Scott St/Brighton Rd (Balaclava)",706
+"18368","67",144.993892,"1",-37.878947,"40-Scott St/Brighton Rd (Elwood)",526
+"20599","3/3a,16",144.996736,"1",-37.869245,"39-Carlisle Ave/Carlisle St (St Kilda)",1294
+"18976","67",144.992545,"1",-37.876636,"39-Glen Eira Rd/Brighton Rd (Balaclava)",705
+"18633","3/3a,16",144.996513,"1",-37.86907,"39-Orange Gr/Carlisle St (Balaclava)",100
+"18367","67",144.992018,"1",-37.87596,"39-Glen Eira Rd/Brighton Rd (Elwood)",525
+"20598","3/3a,16",144.993813,"1",-37.868862,"38-Balaclava Station/Carlisle St (Balaclava)",1293
+"18975","67",144.990125,"1",-37.8728,"38-Brunning St/Brighton Rd (Balaclava)",704
+"18365","67",144.990078,"1",-37.872881,"38-Wimbledon Ave/Brighton Rd (Elwood)",524
+"18974","67",144.989494,"1",-37.871771,"37-Chapel St/Brighton Rd (Balaclava)",703
+"18622","78",144.989774,"1",-37.871091,"36-Brighton Rd/Chapel St (St Kilda)",95
+"18973","67",144.988415,"1",-37.870059,"36-St Kilda Primary School/Brighton Rd (Balaclava)",702
+"18364","67",144.988345,"1",-37.87012,"36-St Kilda Primary School/Brighton Rd (Elwood)",523
+"20522","96",144.980071,"1",-37.868807,"139-Belford St/Acland St (St Kilda)",1226
+"20520","96",144.979944,"1",-37.868877,"139-Belford St/Acland St (St Kilda)",1225
+"19018","64,16",145.025754,"1",-37.86769,"49-Arthur St/Hawthorn Rd (Caulfield North)",735
+"18431","64,16",145.025519,"1",-37.867992,"49-Wanda Rd/Hawthorn Rd (Caulfield North)",573
+"18432","64,16",145.025904,"1",-37.865899,"48A-Dandenong Rd/Hawthorn Rd (Caulfield North)",574
+"19019","64",145.025769,"1",-37.865428,"48-Hawthorn Rd/Dandenong Rd (Caulfield North)",736
+"46517","64",145.025419,"1",-37.865359,"48-Hawthorn Rd/Dandenong Rd (Caulfield North)",1651
+"19023","64",145.023837,"1",-37.864558,"44-Bailey Ave/Dandenong Rd (Armadale)",737
+"18437","64",145.023677,"1",-37.864618,"44-Bailey Ave/Dandenong Rd (Armadale)",575
+"19024","64",145.02205,"1",-37.863789,"43-Egerton Rd/Dandenong Rd (Armadale)",738
+"18438","64",145.021913,"1",-37.863822,"43-Matlock Ct/Dandenong Rd (Armadale)",576
+"12599","5",145.019899,"1",-37.861346,"42-Kooyong Rd/Wattletree Rd (Armadale)",160
+"19025","64",145.019219,"1",-37.86257,"42-Kooyong Rd/Dandenong Rd (Armadale)",739
+"409","5",145.019619,"1",-37.861189,"42-Kooyong Rd/Wattletree Rd (Armadale)",1414
+"18439","64",145.018834,"1",-37.862509,"42-Kooyong Rd/Dandenong Rd (Armadale)",577
+"19026","64",145.017735,"1",-37.861923,"41-Cantala Ave/Dandenong Rd (Armadale)",740
+"18440","64",145.017643,"1",-37.861966,"41-Cantala Ave/Dandenong Rd (Armadale)",578
+"398","5",145.017796,"1",-37.860942,"41-Armadale St/Wattletree Rd (Armadale)",1411
+"19027","64,5",145.015173,"1",-37.860825,"40-Wattletree Rd/Dandenong Rd (Armadale)",741
+"18441","64,5",145.014696,"1",-37.860808,"40-Wattletree Rd/Dandenong Rd (Armadale)",579
+"19028","64,5",145.011119,"1",-37.86027,"38-Orrong Rd/Dandenong Rd (Prahran)",742
+"18443","64,5",145.010834,"1",-37.860301,"38-Orrong Rd/Dandenong Rd (Armadale)",580
+"16773","6",145.011709,"1",-37.854386,"38-Orrong Rd/High St (Armadale)",229
+"16741","6",145.011452,"1",-37.85422,"38-Orrong Rd/High St (Prahran)",199
+"19029","64,5",145.007528,"1",-37.859804,"37-Lansdowne Rd/Dandenong Rd (St Kilda East)",743
+"18444","64,5",145.007278,"1",-37.859827,"37-Lansdowne Rd/Dandenong Rd (Prahran)",581
+"16774","6",145.008685,"1",-37.853993,"37-Airlie Ave/High St (Prahran)",230
+"16740","6",145.008654,"1",-37.853866,"37-Airlie Ave/High St (Prahran)",198
+"19030","64,5",145.004641,"1",-37.859395,"36-Closeburn Ave/Dandenong Rd (St Kilda East)",744
+"18445","64,5",145.004299,"1",-37.859425,"36-Alexandra St/Dandenong Rd (Prahran)",582
+"16775","6",145.006873,"1",-37.853764,"36-Chatsworth Rd/High St (Prahran)",231
+"16739","6",145.006276,"1",-37.853556,"36-Chatsworth Rd/High St (Prahran)",197
+"19031","64,5",145.00207,"1",-37.859063,"35-Williams Rd/Dandenong Rd (Prahran)",745
+"18446","64,5",145.001649,"1",-37.859073,"35-Williams Rd/Dandenong Rd (Prahran)",583
+"18938","72",145.006685,"1",-37.84848,"35-Mathoura Rd/Malvern Rd (Toorak)",667
+"19124","72",145.006489,"1",-37.848594,"35-Lorne Rd/Malvern Rd (Toorak)",824
+"18632","3/3a,16",144.994235,"1",-37.868806,"38-Balaclava Station/Carlisle St (Balaclava)",99
+"16776","6",145.002615,"1",-37.853169,"35-Williams Rd/High St (Prahran)",232
+"16738","6",145.002324,"1",-37.853011,"35-Williams Rd/High St (Prahran)",196
+"19125","72",145.003409,"1",-37.84819,"34-Williams Rd/Malvern Rd (Toorak)",825
+"18447","64,5",144.997538,"1",-37.858508,"34-Westbury St/Dandenong Rd (St Kilda East)",584
+"18937","72",145.00305,"1",-37.848004,"34-Williams Rd/Malvern Rd (South Yarra)",666
+"19032","64,5",144.997234,"1",-37.858413,"34-The Avenue/Dandenong Rd (Windsor)",746
+"16777","6",145.000113,"1",-37.852829,"34-Lewisham Rd/High St (Prahran)",233
+"16718","6",144.999685,"1",-37.852651,"34-Lewisham Rd/High St (Prahran)",177
+"20597","3/3a,16",144.990494,"1",-37.868445,"37-Chapel St/Carlisle St (St Kilda)",1292
+"19116","78",144.990477,"1",-37.86821,"37-Carlisle St/Chapel St (St Kilda)",820
+"18621","78",144.990231,"1",-37.868477,"37-Carlisle St/Chapel St (St Kilda)",94
+"18448","64,5",144.995748,"1",-37.858279,"33-Hornby St/Dandenong Rd (Windsor)",585
+"19033","64,5",144.995694,"1",-37.858206,"33-Hornby St/Dandenong Rd (Windsor)",747
+"18619","3/3a,16",144.990135,"1",-37.86825,"37-Chapel St/Carlisle St (Balaclava)",92
+"19042","72",145.057815,"1",-37.825967,"64-Camberwell Station/Burke Rd (Camberwell)",756
+"18968","72",145.05806,"1",-37.823583,"65-Victoria Rd/Burke Rd (Hawthorn East)",697
+"19041","72",145.058313,"1",-37.823434,"65-Victoria Rd/Burke Rd (Camberwell)",755
+"20566","16",145.03527,"1",-37.822709,"73-Burwood Rd/Glenferrie Rd (Hawthorn)",1276
+"20567","16",145.035446,"1",-37.822496,"73-Burwood Rd/Glenferrie Rd (Hawthorn)",1277
+"18969","72",145.058467,"1",-37.821481,"66-Rathmines Rd/Burke Rd (Hawthorn East)",698
+"19040","72",145.058722,"1",-37.821287,"66-Canterbury Rd/Burke Rd (Camberwell)",754
+"20569","16",145.035668,"1",-37.820535,"74-Glenferrie Station/Glenferrie Rd (Hawthorn)",1279
+"20568","16",145.035668,"1",-37.820535,"74-Glenferrie Railway Station/Glenferrie Rd (Hawthorn)",1278
+"20570","16",145.035962,"1",-37.818881,"75-Chrystobel Cres/Glenferrie Rd (Hawthorn)",1280
+"20571","16",145.036219,"1",-37.818606,"75-Liddiard St/Glenferrie Rd (Hawthorn)",1281
+"18970","72",145.059054,"1",-37.818589,"67-Camberwell Girls Grammar/Burke Rd (Hawthorn East)",699
+"19039","72",145.059227,"1",-37.818492,"67-Camberwell Girls Grammar/Burke Rd (Canterbury)",753
+"20572","16",145.036311,"1",-37.816851,"76-Johnson St/Glenferrie Rd (Hawthorn)",1282
+"20573","16",145.036586,"1",-37.816774,"76-Johnson St/Glenferrie Rd (Hawthorn)",1283
+"20584","16",145.036717,"1",-37.814812,"77-Barkers Rd/Glenferrie Rd (Hawthorn)",1284
+"20589","16",145.036927,"1",-37.814617,"77-Barkers Rd/Glenferrie Rd (Hawthorn)",1285
+"20590","16",145.037209,"1",-37.812116,"78-Fitzwilliam St/Glenferrie Rd (Hawthorn)",1286
+"20591","16",145.037462,"1",-37.812021,"78-Fitzwilliam St/Glenferrie Rd (Hawthorn)",1287
+"19393","48,109",145.026161,"1",-37.810228,"31-Stevenson St/High St (Kew)",948
+"20592","16",145.037638,"1",-37.810087,"79-Wellington St/Glenferrie Rd (Hawthorn)",1288
+"19744","48,109",145.026506,"1",-37.810081,"31-Stevenson St/High St (Kew)",1154
+"20593","16",145.037824,"1",-37.809901,"79-Wellington St/Glenferrie Rd (Hawthorn)",1289
+"19751","109",145.049749,"1",-37.809116,"39-Thomas St/Cotham Rd (Kew)",1161
+"19401","109",145.049277,"1",-37.808937,"39-Florence Ave/Cotham Rd (Kew)",956
+"19750","109",145.046171,"1",-37.808706,"38-Marshall Ave/Cotham Rd (Kew)",1160
+"19400","109",145.045835,"1",-37.808529,"38-Marshall Ave/Cotham Rd (Kew)",955
+"19749","109",145.042773,"1",-37.808316,"37-Belmont Ave/Cotham Rd (Kew)",1159
+"19399","109",145.042313,"1",-37.808119,"37-Belmont Ave/Cotham Rd (Kew)",954
+"20594","16",145.038115,"1",-37.807923,"80-Cotham Rd/Glenferrie Rd (Kew)",1290
+"20595","16",145.038127,"1",-37.807896,"80-Cotham Rd/Glenferrie Rd (Kew)",1291
+"19748","109",145.038255,"1",-37.807799,"36-Glenferrie Rd/Cotham Rd (Kew)",1158
+"19398","109",145.037907,"1",-37.807622,"36-Glenferrie Rd/Cotham Rd (Kew)",953
+"19394","48,109",145.028583,"1",-37.807592,"32-Kew Junction/High St (Kew)",949
+"19747","109",145.035549,"1",-37.807475,"35-Charles St/Cotham Rd (Kew)",1157
+"19745","48,109",145.029144,"1",-37.807431,"32-Kew Junction/High St (Kew)",1155
+"19397","109",145.035303,"1",-37.807308,"35-Charles St/Cotham Rd (Kew)",952
+"19746","109",145.031302,"1",-37.806989,"34-High St/Cotham Rd (Kew)",1156
+"19396","109",145.031657,"1",-37.806887,"34-QPO/Cotham Rd (Kew)",951
+"19395","48,109",145.030512,"1",-37.806814,"33-Kew Shopping Centre/High St (Kew)",950
+"18584","48",145.031311,"1",-37.806674,"33-Kew Shopping Centre/High St (Kew)",63
+"18583","48",145.034166,"1",-37.80564,"34-Union St/High St (Kew)",62
+"18347","48",145.033837,"1",-37.805617,"34-Pakington St/High St (Kew)",506
+"18582","48",145.035977,"1",-37.805012,"35-Charles St/High St (Kew)",61
+"18348","48",145.035546,"1",-37.804987,"35-Cobden St/High St (Kew)",507
+"18581","48",145.040014,"1",-37.803539,"36-Gladstone St/High St (Kew)",60
+"18349","48",145.039755,"1",-37.803489,"36-Parkhill Rd/High St (Kew)",508
+"18580","48",145.042652,"1",-37.802582,"37-Kew Cemetery/High St (Kew)",59
+"18350","48",145.042564,"1",-37.802473,"37-Kew Cemetery/High St (Kew)",509
+"19064","72",145.026331,"1",-37.85119,"42-Lauriston Girls School/Malvern Rd (Armadale)",777
+"18945","72",145.026141,"1",-37.851052,"42-Lauriston Girls School/Malvern Rd (Toorak)",674
+"16766","6",145.032889,"1",-37.857157,"45-De La Salle College/High St (Malvern)",222
+"2232","5",145.040278,"1",-37.863985,"49-Tooronga Rd/Wattletree Rd (Malvern East)",1402
+"16748","6",145.032383,"1",-37.856942,"45-De La Salle College/High St (Malvern)",206
+"980","5",145.039987,"1",-37.863827,"49-Tooronga Rd/Wattletree Rd (Malvern East)",1499
+"18944","72",145.023956,"1",-37.850763,"41-Albany Rd/Malvern Rd (Toorak)",673
+"19065","72",145.023918,"1",-37.850879,"41-Murray St/Malvern Rd (Malvern)",778
+"20535","16",145.029429,"1",-37.856496,"57-High St/Glenferrie Rd (Malvern)",1239
+"16767","6",145.029503,"1",-37.856704,"44-Glenferrie Rd/High St (Malvern)",223
+"7354","5",145.037084,"1",-37.863572,"48-Dixon St/Wattletree Rd (Malvern)",1490
+"16747","6",145.029166,"1",-37.856536,"44-Glenferrie Rd/High St (Malvern)",205
+"968","5",145.036634,"1",-37.863393,"48-Dixon St/Wattletree Rd (Malvern)",1498
+"20534","16",145.029181,"1",-37.856825,"57-High St/Glenferrie Rd (Malvern)",1238
+"19066","72",145.021596,"1",-37.850588,"40-Kooyong Rd/Malvern Rd (Toorak)",779
+"18943","72",145.021306,"1",-37.850403,"40-Kooyong Rd/Malvern Rd (Toorak)",672
+"8345","5",145.033855,"1",-37.863148,"47-Cabrini Hospital/Wattletree Rd (Malvern)",1491
+"16768","6",145.026229,"1",-37.856289,"43-Mercer Rd/High St (Armadale)",224
+"20533","16",145.029048,"1",-37.858841,"56-Malvern Tram Depot/Glenferrie Rd (Malvern)",1237
+"16746","6",145.025938,"1",-37.856122,"43-Mercer Rd/High St (Armadale)",204
+"955","5",145.033394,"1",-37.86296,"47-Cabrini Hospital/Wattletree Rd (Malvern)",1497
+"20532","16",145.028828,"1",-37.859,"56-Malvern Tram Depot/Glenferrie Rd (Malvern)",1236
+"18942","72",145.018679,"1",-37.850052,"39-Irving Rd/Malvern Rd (Toorak)",671
+"19067","72",145.018426,"1",-37.850156,"39-Densham Rd/Malvern Rd (Toorak)",780
+"16745","6",145.023673,"1",-37.855832,"42-Huntingtower Rd/High St (Armadale)",203
+"16769","6",145.023827,"1",-37.855996,"42-Huntingtower Rd/High St (Armadale)",225
+"9156","5",145.031386,"1",-37.862828,"46-Soudan St/Wattletree Rd (Malvern)",1492
+"950","5",145.030958,"1",-37.862658,"46-Nicholls St/Wattletree Rd (Malvern)",1496
+"20531","16",145.028671,"1",-37.861034,"55-Edsall St/Glenferrie Rd (Malvern)",1235
+"20530","16",145.028464,"1",-37.861148,"55-Llaneast St/Glenferrie Rd (Malvern)",1234
+"20529","16",145.028505,"1",-37.862158,"54-Wattletree Rd/Glenferrie Rd (Malvern)",1233
+"10311","5",145.028508,"1",-37.862455,"45-Glenferrie Rd/Wattletree Rd (Malvern)",155
+"16770","6",145.020804,"1",-37.855585,"41-Kooyong Rd/High St (Armadale)",226
+"16744","6",145.020581,"1",-37.855419,"41-Kooyong Rd/High St (Armadale)",202
+"947","5",145.028127,"1",-37.862278,"45-Glenferrie Rd/Wattletree Rd (Malvern)",1495
+"20528","16",145.028258,"1",-37.862478,"54-Wattletree Rd/Glenferrie Rd (Malvern)",1232
+"16743","6",145.018247,"1",-37.855119,"40-Armadale Station/High St (Armadale)",201
+"16771","6",145.018402,"1",-37.855274,"40-Armadale Station/High St (Armadale)",227
+"20527","16",145.028156,"1",-37.86418,"53-Malvern Railway Station/Glenferrie Rd (Malvern)",1231
+"10371","5",145.025382,"1",-37.862069,"44-Duncraig Ave/Wattletree Rd (Armadale)",156
+"946","5",145.025091,"1",-37.861893,"44-Duncraig Ave/Wattletree Rd (Armadale)",1494
+"20526","16",145.027774,"1",-37.865264,"53-Malvern Railway Station/Glenferrie Rd (Malvern)",1230
+"20524","16",145.02781,"1",-37.866057,"48-Dandenong Rd/Glenferrie Rd (Malvern)",1228
+"20525","16",145.02781,"1",-37.866057,"52-Dandenong Rd/Glenferrie Rd (Malvern)",1229
+"16772","6",145.015356,"1",-37.854872,"39-Auburn Gr/High St (Armadale)",228
+"940","5",145.0227,"1",-37.861592,"43-Egerton Rd/Wattletree Rd (Armadale)",1493
+"16742","6",145.014974,"1",-37.854685,"39-Auburn Gr/High St (Armadale)",200
+"11285","5",145.022754,"1",-37.86171,"43-Egerton Rd/Wattletree Rd (Armadale)",158
+"20523","16",145.02644,"1",-37.865836,"48-Hawthorn Rd/Dandenong Rd (Malvern)",1227
+"20542","16",145.030731,"1",-37.847704,"61-Moorakyne Ave/Glenferrie Rd (Malvern)",1246
+"18957","72",145.053874,"1",-37.8458,"54-Toorak Rd/Burke Rd (Glen Iris)",686
+"20544","16",145.031102,"1",-37.845737,"62-Mayfield Ave/Glenferrie Rd (Malvern)",1248
+"19051","72",145.054084,"1",-37.845614,"54-Toorak Rd/Burke Rd (Camberwell)",765
+"20545","16",145.031328,"1",-37.845362,"62-Mayfield Ave/Glenferrie Rd (Malvern)",1249
+"20546","16",145.031434,"1",-37.84394,"63-Toorak Rd/Glenferrie Rd (Malvern)",1250
+"18958","72",145.054245,"1",-37.843796,"55-Middle Rd/Burke Rd (Hawthorn East)",687
+"19050","72",145.054454,"1",-37.843656,"55-Middle Rd/Burke Rd (Camberwell)",764
+"20547","16",145.031657,"1",-37.843646,"63-Toorak Rd/Glenferrie Rd (Kooyong)",1251
+"19338","58",145.029988,"1",-37.843618,"139-Glenferrie Rd/Toorak Rd (Toorak)",901
+"18786","58",145.029817,"1",-37.843615,"139-Glenbervie Rd/Toorak Rd (Toorak)",650
+"18785","58",145.026248,"1",-37.843231,"138-Moonga Rd/Toorak Rd (Toorak)",649
+"19336","58",145.026693,"1",-37.843167,"138-Moonga Rd/Toorak Rd (Toorak)",900
+"18784","58",145.023065,"1",-37.842844,"137-Kooyong Rd/Toorak Rd (Toorak)",648
+"19335","58",145.022819,"1",-37.842687,"137-Kooyong Rd/Toorak Rd (Toorak)",899
+"20548","16",145.031666,"1",-37.842475,"64-Mernda Rd/Glenferrie Rd (Kooyong)",1252
+"18783","58",145.020086,"1",-37.842461,"136-Irving Rd/Toorak Rd (Toorak)",647
+"19334","58",145.019954,"1",-37.842314,"136-Irving Rd/Toorak Rd (Toorak)",898
+"18959","72",145.054626,"1",-37.841856,"56-Anderson Rd/Burke Rd (Hawthorn East)",688
+"20549","16",145.031967,"1",-37.84184,"64-Power St/Glenferrie Rd (Kooyong)",468
+"19049","72",145.054849,"1",-37.841589,"56-Anderson Rd/Burke Rd (Camberwell)",763
+"20550","16",145.03214,"1",-37.840041,"65-Warra St/Glenferrie Rd (Toorak)",469
+"20551","16",145.032431,"1",-37.839333,"65-Kooyong Railway Station/Glenferrie Rd (Kooyong)",470
+"20552","16",145.032351,"1",-37.838494,"66-Kooyong Tennis Centre/Glenferrie Rd (Toorak)",471
+"20553","16",145.032617,"1",-37.838336,"66-Vision Australia/Glenferrie Rd (Kooyong)",472
+"20554","16",145.03294,"1",-37.835557,"67-Gardiner Rd/Glenferrie Rd (Hawthorn)",473
+"20555","16",145.033091,"1",-37.835451,"67-Gardiner Rd/Glenferrie Rd (Hawthorn)",474
+"20556","16",145.033304,"1",-37.833427,"68-Callantina Rd/Glenferrie Rd (Hawthorn)",475
+"20557","16",145.033502,"1",-37.833223,"68-Callantina Rd/Glenferrie Rd (Hawthorn)",1267
+"20558","16",145.033665,"1",-37.831388,"69-South St/Glenferrie Rd (Hawthorn)",1268
+"20559","16",145.033877,"1",-37.831112,"69-South St/Glenferrie Rd (Hawthorn)",1269
+"19755","75,70",145.041528,"1",-37.829662,"35-Robinson Rd/Riversdale Rd (Hawthorn)",1165
+"19447","75,70",145.041554,"1",-37.829537,"35-Robinson Rd/Riversdale Rd (Hawthorn)",999
+"19754","75,70",145.03864,"1",-37.829308,"34-Kooyongkoot Rd/Riversdale Rd (Hawthorn)",1164
+"19448","75,70",145.038473,"1",-37.829179,"34-Kooyongkoot Rd/Riversdale Rd (Hawthorn)",1000
+"19303","75,70",145.037258,"1",-37.829159,"33-Berkeley St/Riversdale Rd (Hawthorn)",874
+"19449","75,70",145.036797,"1",-37.828971,"33-Berkeley St/Riversdale Rd (Hawthorn)",1001
+"20560","16",145.034094,"1",-37.828899,"70-Riversdale Rd/Glenferrie Rd (Hawthorn)",1270
+"19302","75,70",145.034471,"1",-37.828842,"32-Glenferrie Rd/Riversdale Rd (Hawthorn)",873
+"19450","75,70",145.033954,"1",-37.828635,"32-Glenferrie Rd/Riversdale Rd (Hawthorn)",1002
+"20561","16",145.034329,"1",-37.828632,"70-Riversdale Rd/Glenferrie Rd (Hawthorn)",1271
+"19301","75,70",145.031628,"1",-37.828506,"31-Fordholm Rd/Riversdale Rd (Hawthorn)",872
+"19451","75,70",145.031507,"1",-37.828351,"31-Fordholm Rd/Riversdale Rd (Hawthorn)",1003
+"19300","75,70",145.029068,"1",-37.828211,"30-Through St/Riversdale Rd (Hawthorn)",871
+"19452","75,70",145.029083,"1",-37.828076,"30-Through St/Riversdale Rd (Hawthorn)",1004
+"20562","16",145.034613,"1",-37.826041,"71-Urquhart St/Glenferrie Rd (Hawthorn)",1272
+"20563","16",145.034842,"1",-37.825973,"71-Urquhart St/Glenferrie Rd (Hawthorn)",1273
+"20564","16",145.03497,"1",-37.824155,"72-Manningtree Rd/Glenferrie Rd (Hawthorn)",1274
+"20565","16",145.03519,"1",-37.824023,"72-Manningtree Rd/Glenferrie Rd (Hawthorn)",1275
+"18401","67",145.037808,"1",-37.888961,"58-Booran Rd/Glenhuntly Rd (Caulfield)",544
+"19077","67",145.03754,"1",-37.888794,"58-Booran Rd/Glenhuntly Rd (Caulfield East)",790
+"19014","64",145.02392,"1",-37.877212,"53-Northcote Ave/Hawthorn Rd (Caulfield North)",731
+"18427","64",145.023719,"1",-37.877488,"53-Crotonhurst Ave/Hawthorn Rd (Caulfield North)",569
+"18400","67",145.035485,"1",-37.88867,"57-Laura St/Glenhuntly Rd (Caulfield)",543
+"19076","67",145.035114,"1",-37.888502,"57-Clarke Ave/Glenhuntly Rd (Caulfield East)",789
+"18399","67",145.033433,"1",-37.888419,"56-Kean St/Glenhuntly Rd (Caulfield)",542
+"19075","67",145.033085,"1",-37.888251,"56-Kambrook Rd/Glenhuntly Rd (Caulfield)",788
+"19013","64",145.023404,"1",-37.879934,"54-Glen Eira Rd/Hawthorn Rd (Caulfield North)",730
+"18426","64",145.023205,"1",-37.880128,"54-Glen Eira Rd/Hawthorn Rd (Caulfield)",568
+"18398","67",145.030986,"1",-37.888108,"55-Fallon St/Glenhuntly Rd (Caulfield)",541
+"19074","67",145.030615,"1",-37.887931,"55-Fallon St/Glenhuntly Rd (Caulfield)",787
+"19012","64",145.022916,"1",-37.882449,"55-Sylverly Gr/Hawthorn Rd (Caulfield North)",729
+"18397","67",145.0289,"1",-37.887839,"54-Bambra Rd/Glenhuntly Rd (Caulfield)",540
+"19073","67",145.028689,"1",-37.887673,"54-Bambra Rd/Glenhuntly Rd (Caulfield)",786
+"18425","64",145.022719,"1",-37.88258,"55-Sylverly Gr/Hawthorn Rd (Caulfield)",567
+"18396","67",145.02711,"1",-37.887611,"53-Glenhuntly Tram Depot/Glenhuntly Rd (Caulfield)",539
+"19072","67",145.02675,"1",-37.887451,"53-Glenhuntly Tram Depot/Glenhuntly Rd (Caulfield)",785
+"18424","64",145.022347,"1",-37.884584,"56-Lockhart St/Hawthorn Rd (Caulfield)",566
+"19011","64",145.022443,"1",-37.884838,"56-Briggs St/Hawthorn Rd (Caulfield)",728
+"19071","67",145.024121,"1",-37.88711,"52-Jasmine St/Glenhuntly Rd (Caulfield)",784
+"18395","67",145.024141,"1",-37.887218,"52-Jasmine St/Glenhuntly Rd (Caulfield)",538
+"19010","64",145.022098,"1",-37.886661,"57-Glenhuntly Rd/Hawthorn Rd (Caulfield)",727
+"18394","67",145.022181,"1",-37.886978,"51-Hawthorn Rd/Glenhuntly Rd (Caulfield)",537
+"19070","67",145.021764,"1",-37.886809,"51-Hawthorn Rd/Glenhuntly Rd (Caulfield)",783
+"18423","64",145.021848,"1",-37.887081,"57-Glenhuntly Rd/Hawthorn Rd (Caulfield South)",565
+"18987","67",145.01833,"1",-37.886391,"50-Royal Pde/Glenhuntly Rd (Caulfield)",716
+"18393","67",145.018259,"1",-37.886498,"50-Royal Pde/Glenhuntly Rd (Caulfield)",536
+"19009","64",145.021553,"1",-37.889608,"58-Sycamore St/Hawthorn Rd (Caulfield South)",726
+"18422","64",145.021328,"1",-37.889938,"58-Sycamore St/Hawthorn Rd (Caulfield South)",564
+"19008","64",145.020904,"1",-37.89304,"59-Princes Park/Hawthorn Rd (Caulfield South)",725
+"18421","64",145.020685,"1",-37.893135,"59-Princes Park/Hawthorn Rd (Caulfield South)",563
+"19007","64",145.020548,"1",-37.894881,"60-Dover St/Hawthorn Rd (Caulfield South)",724
+"18420","64",145.020372,"1",-37.895058,"60-Dover St/Hawthorn Rd (Caulfield South)",562
+"19006","64",145.020253,"1",-37.896552,"61-Stone St/Hawthorn Rd (Caulfield South)",723
+"18419","64",145.020067,"1",-37.896702,"61-Raynes St/Hawthorn Rd (Caulfield South)",561
+"19005","64",145.019801,"1",-37.898969,"62-Gardenvale Rd/Hawthorn Rd (Caulfield South)",722
+"18418","64",145.019525,"1",-37.899496,"62-Gardenvale Rd/Hawthorn Rd (Caulfield South)",560
+"19004","64",145.019332,"1",-37.901196,"63-North Rd/Hawthorn Rd (Brighton East)",721
+"18417","64",145.019072,"1",-37.90157,"63-North Rd/Hawthorn Rd (Brighton East)",559
+"19003","64",145.018808,"1",-37.903782,"64-Taylor St/Hawthorn Rd (Brighton East)",720
+"18416","64",145.018595,"1",-37.904094,"64-Taylor St/Hawthorn Rd (Brighton East)",558
+"19002","64",145.018329,"1",-37.90637,"65-Davey Ave/Hawthorn Rd (Brighton East)",719
+"18415","64",145.018141,"1",-37.906574,"65-Davey Ave/Hawthorn Rd (Brighton East)",557
+"19001","64",145.017964,"1",-37.908517,"66-Union St/Hawthorn Rd (Brighton East)",718
+"18414","64",145.017765,"1",-37.90873,"66-Union St/Hawthorn Rd (Brighton East)",556
+"19000","64",145.017531,"1",-37.911078,"67-Rogers Ave/Hawthorn Rd (Brighton East)",717
+"18413","64",145.017395,"1",-37.911094,"67-Howell St/Hawthorn Rd (Brighton East)",555
+"18412","64",145.01689,"1",-37.914222,"68-East Brighton/Hawthorn Rd (Brighton East)",554
+"19052","72",145.053627,"1",-37.847878,"53-Howitt St/Burke Rd (Glen Iris)",766
+"18956","72",145.053392,"1",-37.848171,"53-Faircroft Ave/Burke Rd (Hawthorn East)",685
+"19053","72",145.053222,"1",-37.849881,"52-Bickleigh St/Burke Rd (Glen Iris)",767
+"18955","72",145.053042,"1",-37.849778,"52-Harris Ave/Burke Rd (Hawthorn East)",684
+"18954","72",145.052677,"1",-37.852854,"51-Gardiner Railway Station/Burke Rd (Hawthorn East)",683
+"19054","72",145.052663,"1",-37.852962,"51-Gardiner Station/Burke Rd (Glen Iris)",768
+"18953","72",145.051491,"1",-37.854322,"50-Burke Rd/Malvern Rd (Malvern)",682
+"19056","72",145.051295,"1",-37.854418,"50-Glenarm Rd/Malvern Rd (Glen Iris)",769
+"16757","6",145.056331,"1",-37.859998,"53-Malvern Rd/High St (Glen Iris)",214
+"18952","72",145.04832,"1",-37.8539,"49-Kenilworth Gr/Malvern Rd (Malvern)",681
+"19057","72",145.048418,"1",-37.854046,"49-Belmont Ave/Malvern Rd (Glen Iris)",770
+"16758","6",145.054189,"1",-37.859782,"52-Boyanda Rd/High St (Glen Iris)",215
+"16755","6",145.053795,"1",-37.859614,"52-Boyanda Rd/High St (Glen Iris)",213
+"19058","72",145.045835,"1",-37.853732,"48-Edgar St/Malvern Rd (Glen Iris)",771
+"18951","72",145.045555,"1",-37.853556,"48-Edgar St/Malvern Rd (Malvern)",680
+"16759","6",145.051503,"1",-37.859486,"51-Burke Rd/High St (Glen Iris)",216
+"16754","6",145.051212,"1",-37.85931,"51-Burke Rd/High St (Glen Iris)",212
+"19059","72",145.0423,"1",-37.853304,"47-Tooronga Rd/Malvern Rd (Glen Iris)",772
+"18950","72",145.041987,"1",-37.853128,"47-Tooronga Rd/Malvern Rd (Malvern)",679
+"16753","6",145.048255,"1",-37.858945,"50-Belmont Ave/High St (Glen Iris)",211
+"16760","6",145.048409,"1",-37.85911,"50-Belmont Ave/High St (Glen Iris)",217
+"18949","72",145.039234,"1",-37.852784,"46-Meredith St/Malvern Rd (Malvern)",678
+"19060","72",145.038823,"1",-37.852859,"46-Shaftesbury Ave/Malvern Rd (Malvern)",773
+"16761","6",145.044704,"1",-37.85867,"49-Harold Holt Swim Centre/High St (Glen Iris)",218
+"16752","6",145.044198,"1",-37.858454,"49-Harold Holt Swim Centre/High St (Glen Iris)",210
+"20543","16",145.030878,"1",-37.847734,"61-Moorakyne Ave/Glenferrie Rd (Malvern)",1247
+"1575","5",145.050071,"1",-37.865076,"52-Burke Rd/Wattletree Rd (Malvern East)",170
+"19061","72",145.035504,"1",-37.852434,"45-Elizabeth St/Malvern Rd (Malvern)",774
+"18948","72",145.035304,"1",-37.852259,"45-Elizabeth St/Malvern Rd (Malvern)",677
+"16762","6",145.041362,"1",-37.858272,"48-Tooronga Rd/High St (Glen Iris)",219
+"16751","6",145.041049,"1",-37.858078,"48-Tooronga Rd/High St (Glen Iris)",209
+"20541","16",145.030508,"1",-37.849674,"60-Stonnington Pl/Glenferrie Rd (Malvern)",1245
+"20540","16",145.030361,"1",-37.849662,"60-Stonnington Pl/Glenferrie Rd (Malvern)",1244
+"19062","72",145.032888,"1",-37.852084,"44-Plant St/Malvern Rd (Malvern)",775
+"1696","5",145.046998,"1",-37.864782,"51-Nott St/Wattletree Rd (Malvern East)",235
+"18947","72",145.032495,"1",-37.851897,"44-Plant St/Malvern Rd (Malvern)",676
+"1291","5",145.046571,"1",-37.864613,"51-Erica Ave/Wattletree Rd (Malvern East)",161
+"16750","6",145.038013,"1",-37.857694,"47-Dixon St/High St (Malvern)",208
+"16764","6",145.038009,"1",-37.85782,"47-Dixon St/High St (Malvern)",220
+"20539","16",145.030186,"1",-37.851525,"59-Malvern Rd/Glenferrie Rd (Malvern)",1243
+"19063","72",145.030204,"1",-37.851723,"43-Glenferrie Rd/Malvern Rd (Malvern)",776
+"18946","72",145.029867,"1",-37.851547,"43-Glenferrie Rd/Malvern Rd (Toorak)",675
+"20538","16",145.029939,"1",-37.851836,"59-Malvern Rd/Glenferrie Rd (Malvern)",1242
+"1789","5",145.043712,"1",-37.864385,"50-Anderson St/Wattletree Rd (Malvern East)",308
+"1185","5",145.043375,"1",-37.864226,"50-Vincent St/Wattletree Rd (Malvern East)",159
+"16749","6",145.035611,"1",-37.857383,"46-Fraser St/High St (Malvern)",207
+"16765","6",145.0358,"1",-37.857558,"46-Fraser St/High St (Malvern)",221
+"20537","16",145.029777,"1",-37.854095,"58-Sorrett Ave/Glenferrie Rd (Malvern)",1241
+"20536","16",145.029584,"1",-37.854074,"58-Bell St/Glenferrie Rd (Malvern)",1240
+"21073","75",145.067815,"1,2",-37.841154,"47-Orange Gr/Camberwell Rd (Camberwell)",1328
+"21072","75",145.067642,"1,2",-37.840809,"47-Maple Cres/Camberwell Rd (Camberwell)",1327
+"18960","72",145.054941,"1",-37.840257,"57-Pine Ave/Burke Rd (Hawthorn East)",689
+"19048","72",145.055139,"1",-37.840062,"57-Pine Ave/Burke Rd (Camberwell)",762
+"21071","75",145.066304,"1,2",-37.839814,"46-Acheron Ave/Camberwell Rd (Camberwell)",1326
+"21070","75",145.066076,"1,2",-37.839404,"46-Christowel St/Camberwell Rd (Camberwell)",1325
+"18961","72",145.055336,"1",-37.838164,"58-Leura Gr/Burke Rd (Hawthorn East)",690
+"19047","72",145.05552,"1",-37.838086,"58-Currajong Ave/Burke Rd (Camberwell)",761
+"21069","75",145.064195,"1,2",-37.837913,"45-Bowen St/Camberwell Rd (Camberwell)",1324
+"21068","75",145.0642,"1,2",-37.837706,"45-Bowen St/Camberwell Rd (Camberwell)",1323
+"21067","75",145.062518,"1,2",-37.836417,"44-Trafalgar Rd/Camberwell Rd (Camberwell)",1322
+"21066","75",145.062156,"1,2",-37.835924,"44-Trafalgar Rd/Camberwell Rd (Camberwell)",1321
+"18962","72",145.055829,"1",-37.835415,"59-Pleasant Rd/Burke Rd (Hawthorn East)",691
+"19046","72",145.056074,"1",-37.835193,"59-Seymour Gr/Burke Rd (Camberwell)",760
+"21065","75",145.060663,"1,2",-37.834809,"43-Camberwell Civic Centre/Camberwell Rd (Camberwell)",1320
+"21064","75",145.060635,"1,2",-37.834566,"43-Camberwell Civic Centre/Camberwell Rd (Camberwell)",1319
+"19045","72",145.056312,"1",-37.83389,"60-Reserve Rd/Burke Rd (Camberwell)",759
+"18963","72",145.056158,"1",-37.833717,"60-Campbell Rd/Burke Rd (Hawthorn East)",692
+"21063","75",145.058929,"1,2",-37.833339,"42-Camberwell Primary School/Camberwell Rd (Camberwell)",1318
+"19765","70",145.072668,"1",-37.833276,"47-Willow Gr/Riversdale Rd (Camberwell)",1175
+"19435","70",145.072399,"1",-37.83311,"47-Willow Gr/Riversdale Rd (Canterbury)",988
+"21062","75",145.058868,"1,2",-37.833049,"42-Camberwell Primary School/Camberwell Rd (Camberwell)",1317
+"19764","70",145.06987,"1",-37.832942,"46-Spencer Rd/Riversdale Rd (Camberwell)",1174
+"19436","70",145.069308,"1",-37.832698,"46-Spencer Rd/Riversdale Rd (Canterbury)",989
+"19763","70",145.066064,"1",-37.832483,"44-Derby St/Riversdale Rd (Camberwell)",1173
+"19438","70",145.065886,"1",-37.832336,"44-Derby St/Riversdale Rd (Camberwell)",990
+"19762","70",145.063855,"1",-37.832248,"43-Trafalgar Rd/Riversdale Rd (Camberwell)",1172
+"21061","75",145.057723,"1,2",-37.832084,"41-Burke Rd/Camberwell Rd (Camberwell)",1316
+"19439","70",145.063507,"1",-37.832062,"43-Trafalgar Rd/Riversdale Rd (Camberwell)",991
+"19761","70",145.060184,"1",-37.831828,"42-Fermanagh Rd/Riversdale Rd (Camberwell)",1171
+"19440","70",145.060199,"1",-37.831684,"42-Fermanagh Rd/Riversdale Rd (Camberwell)",992
+"21964","75",145.056929,"1,2",-37.831594,"40-Camberwell Junction/Camberwell Rd (Camberwell)",1392
+"18964","72",145.056566,"1",-37.83157,"61-Riversdale Rd/Burke Rd (Hawthorn East)",693
+"19760","70",145.057148,"1",-37.831489,"40-Camberwell Junction/Riversdale Rd (Camberwell)",1170
+"19441","70",145.057627,"1",-37.831407,"41-Camberwell Market/517 Riversdale Rd (Camberwell)",993
+"19442","75,70",145.056426,"1",-37.83127,"40-Camberwell Junction/Riversdale Rd (Hawthorn East)",994
+"19759","75,70",145.054792,"1",-37.831216,"39-Camberwell Tram Depot/Riversdale Rd (Hawthorn East)",1169
+"19044","72",145.05684,"1",-37.831088,"61-Camberwell Junction/Burke Rd (Camberwell)",758
+"19443","75,70",145.054308,"1",-37.831028,"39-Camberwell Tram Depot/Riversdale Rd (Hawthorn East)",995
+"19758","75,70",145.05162,"1",-37.830839,"38-Hastings Rd/Riversdale Rd (Hawthorn East)",1168
+"19444","75,70",145.05134,"1",-37.83069,"38-Hastings Rd/Riversdale Rd (Hawthorn East)",996
+"19757","75,70",145.047849,"1",-37.83038,"37-Tooronga Rd/Riversdale Rd (Hawthorn East)",1167
+"19445","75,70",145.047636,"1",-37.830259,"37-Tooronga Rd/Riversdale Rd (Hawthorn East)",997
+"18965","72",145.056818,"1",-37.830204,"62-Camberwell Shopping Centre/755 Burke Rd (Hawthorn East)",694
+"19756","75,70",145.043781,"1",-37.829943,"36-Auburn Rd/Riversdale Rd (Hawthorn East)",1166
+"19446","75,70",145.043502,"1",-37.829776,"36-Auburn Rd/Riversdale Rd (Hawthorn East)",998
+"18966","72",145.057222,"1",-37.828219,"63-Prospect Hill Rd/Burke Rd (Hawthorn East)",695
+"19043","72",145.057432,"1",-37.828024,"63-Prospect Hill Rd/Burke Rd (Camberwell)",757
+"18967","72",145.057631,"1",-37.826054,"64-Camberwell Station/Burke Rd (Hawthorn East)",696
+"18566","48",145.084631,"1",-37.794648,"51-Balwyn Rd/Doncaster Rd (Balwyn North)",46
+"18363","48",145.081189,"1",-37.794259,"50-Hill Rd/Doncaster Rd (Balwyn North)",522
+"18567","48",145.080936,"1",-37.794372,"50-Dight Ave/Doncaster Rd (Balwyn North)",47
+"18568","48",145.077722,"1",-37.793941,"49-Buchanan Ave/Doncaster Rd (Balwyn North)",48
+"18362","48",145.077466,"1",-37.793756,"49-Cityview Rd/Doncaster Rd (Balwyn North)",521
+"18569","48",145.074567,"1",-37.793412,"48-Osburn Ave/Doncaster Rd (Balwyn North)",49
+"18361","48",145.074266,"1",-37.793217,"48-Sunburst Ave/Doncaster Rd (Balwyn North)",520
+"18360","48",145.07144,"1",-37.792712,"47-North Balwyn Shopping Centre/Doncaster Rd (Balwyn North)",519
+"18570","48",145.070724,"1",-37.792727,"47-North Balwyn Shopping Centre/Doncaster Rd (Balwyn North)",50
+"18359","48",145.06745,"1",-37.792835,"46-Wattle Ave/Doncaster Rd (Balwyn North)",518
+"18571","48",145.067401,"1",-37.793006,"46-Wattle Ave/Doncaster Rd (Balwyn North)",51
+"18358","48",145.065216,"1",-37.793168,"45-Burke Rd/Doncaster Rd (Balwyn North)",517
+"20895","48",145.064265,"1",-37.793468,"44-Burke Rd/Doncaster Rd (Balwyn North)",1307
+"18357","48",145.063662,"1",-37.79353,"44-Burke Rd/High St (Kew)",516
+"18736","109",145.083788,"1,2",-37.813199,"48-Balwyn Shopping Centre/Whitehorse Rd (Balwyn)",642
+"19410","109",145.083622,"1,2",-37.813061,"48-Balwyn Shopping Centre/Whitehorse Rd (Balwyn)",965
+"18574","48",145.061349,"1",-37.7947,"43-Kew High School/High St (Kew East)",53
+"18735","109",145.081524,"1,2",-37.812919,"47-Balwyn Rd/Whitehorse Rd (Balwyn)",641
+"18356","48",145.061089,"1",-37.79465,"43-Kew High School/High St (Kew East)",515
+"19409","109",145.081187,"1,2",-37.812769,"47-Balwyn Rd/Whitehorse Rd (Balwyn)",964
+"18734","109",145.07593,"1",-37.812242,"46-Balwyn Cinema/Whitehorse Rd (Balwyn)",640
+"19408","109",145.075785,"1",-37.812113,"46-Balwyn Cinema/Whitehorse Rd (Balwyn)",963
+"18575","48",145.057672,"1",-37.796324,"42-Woodlands Ave/High St (Kew East)",54
+"18355","48",145.057159,"1",-37.796397,"42-Irymple Ave/High St (Kew East)",514
+"18733","109",145.071785,"1",-37.81175,"45-Hardwicke St/Whitehorse Rd (Balwyn)",639
+"19407","109",145.07138,"1",-37.811591,"45-Hardwicke St/Whitehorse Rd (Balwyn)",962
+"18354","48",145.054758,"1",-37.797439,"41-Clyde St/High St (Kew East)",513
+"18576","48",145.053927,"1",-37.797966,"41-Station St/High St (Kew East)",55
+"19406","109",145.068527,"1",-37.811237,"44-Deepdene Park/Whitehorse Rd (Balwyn)",961
+"18732","109",145.068671,"1",-37.811375,"44-Deepdene Park/Whitehorse Rd (Balwyn)",638
+"18577","48",145.052192,"1",-37.798721,"40-Harp Village/High St (Kew East)",56
+"18353","48",145.052024,"1",-37.798628,"40-Harp Village/High St (Kew East)",512
+"18710","109",145.064877,"1",-37.810925,"43-Deepdene Shopping Centre/Whitehorse Rd (Balwyn)",138
+"19405","109",145.064722,"1",-37.810787,"43-Deepdene Shopping Centre/Whitehorse Rd (Balwyn)",960
+"18352","48",145.050436,"1",-37.799413,"39-Harp Rd/High St (Kew)",511
+"18578","48",145.050273,"1",-37.799564,"39-Harp Rd/High St (Kew East)",57
+"19778","109",145.060857,"1",-37.810444,"42-Burke Rd/Whitehorse Rd (Balwyn)",1188
+"19404","109",145.060498,"1",-37.810276,"42-Burke Rd/Cotham Rd (Kew)",959
+"19036","72",145.060596,"1",-37.810873,"70-Cotham Rd/Burke Rd (Kew)",750
+"19753","109",145.057879,"1",-37.810098,"41-Kew Traffic School/Cotham Rd (Kew)",1163
+"19403","109",145.057668,"1",-37.809932,"41-Kew Traffic School/Cotham Rd (Kew)",958
+"18579","48",145.046172,"1",-37.801316,"38-Victoria Park/High St (Kew East)",58
+"18351","48",145.045981,"1",-37.801259,"38-Victoria Park/High St (Kew)",510
+"19037","72",145.060069,"1",-37.814108,"69-Peverill St/Burke Rd (Balwyn)",751
+"18972","72",145.059875,"1",-37.814132,"69-Sackville St/Burke Rd (Kew)",701
+"19402","109",145.052911,"1",-37.809376,"40-St George's Hospital/Cotham Rd (Kew)",957
+"19752","109",145.053055,"1",-37.809523,"40-St George's Hospital/Cotham Rd (Kew)",1162
+"19038","72",145.059765,"1",-37.815743,"68-Mont Albert Rd/Burke Rd (Camberwell)",752
+"18971","72",145.059542,"1",-37.815992,"68-Mont Albert Rd/Burke Rd (Kew)",700
+"18451","3/3a",145.058765,"1",-37.877269,"64-Darling Rd/Waverley Rd (Malvern East)",588
+"18452","3/3a",145.056905,"1",-37.877103,"63-Hughes St/Waverley Rd (Malvern East)",589
+"18657","3/3a",145.056546,"1",-37.876917,"63-Oak Gr/Waverley Rd (Malvern East)",121
+"18453","3/3a",145.055001,"1",-37.876873,"62-Macgregor St/Waverley Rd (Malvern East)",590
+"18656","3/3a",145.054687,"1",-37.876697,"62-The Avenue/Waverley Rd (Malvern East)",120
+"18454","3/3a",145.05108,"1",-37.876376,"61-Tennyson St/Waverley Rd (Malvern East)",591
+"18655","3/3a",145.050936,"1",-37.876247,"61-Tennyson St/Waverley Rd (Malvern East)",119
+"18455","3/3a",145.048326,"1",-37.876051,"60-Burke Rd/Waverley Rd (Malvern East)",592
+"18654","3/3a",145.048046,"1",-37.875893,"60-Burke Rd/Waverley Rd (Malvern East)",118
+"18456","3/3a",145.045069,"1",-37.875844,"59-Dandenong Rd/Waverley Rd (Caulfield East)",593
+"18653","3/3a",145.044946,"1",-37.87576,"59-Dandenong Rd/Waverley Rd (Malvern East)",117
+"18652","3/3a",145.041866,"1",-37.875709,"58-Dandenong Rd/Derby Rd (Caulfield North)",116
+"18457","3/3a",145.041939,"1",-37.876404,"57-Caulfield Railway Station/Derby Rd (Caulfield East)",594
+"18651","3/3a",145.041677,"1",-37.8764,"57-Caulfield Railway Station/Derby Rd (Caulfield East)",115
+"18650","3/3a",145.039396,"1",-37.875416,"56-Caulfield Racecourse/Normanby Rd (Caulfield North)",114
+"18459","3/3a",145.039102,"1",-37.875357,"56-Caulfield Racecourse/Normanby Rd (Caulfield East)",595
+"18460","3/3a",145.038135,"1",-37.874494,"55-Balaclava Rd/Normanby Rd (Caulfield East)",596
+"18649","3/3a",145.0377,"1",-37.874198,"55-Normanby Rd/Balaclava Rd (Caulfield North)",113
+"18461","3/3a",145.036132,"1",-37.874145,"54-Kambrook Rd/Balaclava Rd (Caulfield East)",597
+"18648","3/3a",145.035819,"1",-37.873959,"54-Kambrook Rd/Balaclava Rd (Caulfield North)",112
+"19085","67",145.054066,"1",-37.890781,"66-Truganini Rd/Glenhuntly Rd (Carnegie)",1418
+"18409","67",145.054048,"1",-37.891069,"66-Glenhuntly Rd/Truganini Rd (Carnegie)",551
+"19086","67",145.054495,"1",-37.892654,"67-Centre Rd/Truganini Rd (Carnegie)",1419
+"18411","67",145.055805,"1",-37.893865,"68-Carnegie/Truganini Rd (Carnegie)",553
+"18408","67",145.052192,"1",-37.890714,"65-Mimosa Rd/Glenhuntly Rd (Carnegie)",550
+"18410","67",145.054369,"1",-37.892697,"67-Centre Rd/Truganini Rd (Carnegie)",552
+"19084","67",145.051754,"1",-37.890517,"65-Mimosa Rd/Glenhuntly Rd (Carnegie)",1417
+"18462","3/3a",145.032041,"1",-37.873644,"53-Caulfield Park/Balaclava Rd (Caulfield North)",598
+"18647","3/3a",145.031252,"1",-37.873396,"53-Caulfield Park/Balaclava Rd (Caulfield North)",111
+"18407","67",145.049903,"1",-37.890406,"64-Mernda Ave/Glenhuntly Rd (Carnegie)",549
+"19083","67",145.049487,"1",-37.890237,"64-Mernda Ave/Glenhuntly Rd (Carnegie)",1416
+"19017","64,16",145.02541,"1",-37.869514,"50-Inkerman Rd/Hawthorn Rd (Caulfield North)",734
+"18430","64,16",145.025189,"1",-37.869699,"50-Inkerman Rd/Hawthorn Rd (Caulfield North)",572
+"18406","67",145.047658,"1",-37.890143,"63-Maroona Rd/Glenhuntly Rd (Carnegie)",548
+"18646","3/3a",145.028544,"1",-37.873081,"52-Caulfield Park Bowling Club/Balaclava Rd (Caulfield North)",110
+"19082","67",145.047255,"1",-37.889938,"63-Maroona Rd/Glenhuntly Rd (Carnegie)",1415
+"18463","3/3a",145.028144,"1",-37.873137,"52-Caulfield Park Bowling Club/Balaclava Rd (Caulfield North)",599
+"18405","67",145.04504,"1",-37.889838,"62-Grange Rd/Glenhuntly Rd (Glen Huntly)",547
+"19081","67",145.04459,"1",-37.889633,"62-Grange Rd/Glenhuntly Rd (Caulfield East)",793
+"19016","64,16",145.02482,"1",-37.872441,"51-Balaclava Rd/Hawthorn Rd (Caulfield North)",733
+"18464","3/3a",145.024947,"1",-37.872795,"51-Hawthorn Rd/Balaclava Rd (Caulfield North)",600
+"18645","3/3a,16",145.02443,"1",-37.87257,"51-Hawthorn Rd/Balaclava Rd (Caulfield North)",109
+"18429","64",145.024604,"1",-37.872888,"51-Balaclava Rd/Hawthorn Rd (Caulfield North)",571
+"18404","67",145.04275,"1",-37.889548,"61-Glenhuntly Railway Station/Glenhuntly Rd (Glen Huntly)",546
+"19079","67",145.041824,"1",-37.889307,"61-Glenhuntly Railway Station/Glenhuntly Rd (Caulfield South)",792
+"18403","67",145.040767,"1",-37.889308,"60-Glenhuntly Shops/Glenhuntly Rd (Glen Huntly)",545
+"19078","67",145.040476,"1",-37.889132,"60-Glenhuntly Shops/Glenhuntly Rd (Caulfield East)",791
+"19015","64",145.024356,"1",-37.874939,"52-Halstead St/Hawthorn Rd (Caulfield North)",732
+"18428","64",145.024154,"1",-37.875251,"52-Halstead St/Hawthorn Rd (Caulfield North)",570
+"19775","70",145.10002,"1",-37.836271,"57-Glendale St/Riversdale Rd (Surrey Hills)",1185
+"21091","75",145.092361,"1,2",-37.849981,"57-Fairview Ave/Toorak Rd (Camberwell)",1346
+"19784","109",145.109824,"1,2",-37.816341,"55-Hood St/Whitehorse Rd (Mont Albert)",1193
+"19417","109",145.109453,"1,2",-37.816164,"55-Hood St/Whitehorse Rd (Mont Albert)",971
+"19774","70",145.098389,"1",-37.836065,"56-Warrigal Rd/Riversdale Rd (Surrey Hills)",1184
+"19426","70",145.098053,"1",-37.835897,"56-Warrigal Rd/Riversdale Rd (Surrey Hills)",979
+"21090","75",145.090057,"1,2",-37.849853,"56-Alfred Rd/Toorak Rd (Camberwell)",1345
+"21089","75",145.089596,"1,2",-37.849656,"56-Barkly St/Toorak Rd (Camberwell)",1344
+"19773","70",145.095818,"1",-37.835762,"55-Union Rd/Riversdale Rd (Canterbury)",1183
+"19427","70",145.095402,"1",-37.835575,"55-Union Rd/Riversdale Rd (Surrey Hills)",980
+"21088","75",145.087258,"1,2",-37.849519,"55-Beryl St/Toorak Rd (Camberwell)",1343
+"21087","75",145.086718,"1,2",-37.849321,"55-Through Rd/Toorak Rd (Camberwell)",1342
+"19772","70",145.093801,"1",-37.835531,"54-Through Rd/Riversdale Rd (Camberwell)",1182
+"19428","70",145.093192,"1",-37.835341,"54-Through Rd/Riversdale Rd (Surrey Hills)",981
+"19416","109",145.103123,"1,2",-37.815405,"54-Inglisby Rd/Whitehorse Rd (Mont Albert)",970
+"21086","75",145.084596,"1,2",-37.849197,"54-Grandview Ave/Toorak Rd (Camberwell)",1341
+"19785","109",145.102757,"1,2",-37.81548,"54-Inglisby Rd/Whitehorse Rd (Mont Albert)",1194
+"21085","75",145.084304,"1,2",-37.849039,"54-Oberwyl Rd/Toorak Rd (Camberwell)",1340
+"19771","70",145.090968,"1",-37.835215,"53-Essex Rd/Riversdale Rd (Camberwell)",1181
+"19429","70",145.090949,"1",-37.835088,"53-Essex Rd/Riversdale Rd (Surrey Hills)",982
+"21084","75",145.082296,"1,2",-37.848916,"53-Lithgow St/Toorak Rd (Camberwell)",1339
+"21083","75",145.081812,"1,2",-37.848737,"53-Highfield Rd/Toorak Rd (Camberwell)",1338
+"19786","109",145.099518,"1,2",-37.815112,"53-Union Rd/Whitehorse Rd (Surrey Hills)",1195
+"19770","70",145.088533,"1",-37.834923,"52-Lockhart St/Riversdale Rd (Camberwell)",1180
+"19414","109",145.099249,"1,2",-37.814946,"53-Union Rd/Whitehorse Rd (Balwyn)",969
+"19430","70",145.08814,"1",-37.834754,"52-Lockhart St/Riversdale Rd (Camberwell)",983
+"19769","70",145.085145,"1",-37.834534,"51-Highfield Rd/Riversdale Rd (Camberwell)",1179
+"21082","75",145.077412,"1,2",-37.848359,"52-Summerhill Rd/Toorak Rd (Camberwell)",1337
+"19431","70",145.084854,"1",-37.834367,"51-Highfield Rd/Riversdale Rd (Canterbury)",984
+"21081","75",145.077075,"1,2",-37.8482,"52-Summerhill Rd/Toorak Rd (Camberwell)",1336
+"18738","109",145.09517,"1,2",-37.814564,"51-Narrak Rd/Whitehorse Rd (Mont Albert)",644
+"19413","109",145.094787,"1,2",-37.814405,"51-Narrak Rd/Whitehorse Rd (Balwyn)",968
+"21080","75",145.075618,"1,2",-37.847843,"51-Toorak Rd/Camberwell Rd (Camberwell)",1335
+"19768","70",145.081516,"1",-37.834295,"50-Wattle Valley Rd/Riversdale Rd (Canterbury)",1178
+"19432","70",145.081202,"1",-37.834119,"50-Wattle Valley Rd/Riversdale Rd (Canterbury)",985
+"19412","109",145.091685,"1,2",-37.81403,"50-Wharton St/Whitehorse Rd (Surrey Hills)",967
+"18479","109",145.091376,"1,2",-37.814106,"50-Wharton St/Whitehorse Rd (Surrey Hills)",606
+"21078","75",145.073407,"1,2",-37.845914,"50-Fordham Gardens/Camberwell Rd (Camberwell)",1333
+"19767","70",145.079646,"1",-37.834084,"49-Glyndon Rd/Riversdale Rd (Camberwell)",1177
+"21079","75",145.073203,"1,2",-37.845911,"50-Smith Rd/Camberwell Rd (Camberwell)",1334
+"19433","70",145.079333,"1",-37.83389,"49-Glyndon Rd/Riversdale Rd (Camberwell)",986
+"21077","75",145.071525,"1,2",-37.844432,"49-Wilson Gr/Camberwell Rd (Camberwell)",1332
+"19766","70",145.077245,"1",-37.833793,"48-Cooloongatta Rd/Riversdale Rd (Camberwell)",1176
+"18737","109",145.087956,"1,2",-37.81369,"49-Northcote Ave/Whitehorse Rd (Balwyn)",643
+"21076","75",145.07143,"1,2",-37.844142,"49-Tyrone St/Camberwell Rd (Camberwell)",1331
+"19434","70",145.077101,"1",-37.833655,"48-Cooloongatta Rd/Riversdale Rd (Camberwell)",987
+"19411","109",145.087755,"1,2",-37.813552,"49-Northcote Ave/Whitehorse Rd (Balwyn)",966
+"21075","75",145.069159,"1,2",-37.842339,"48-Glen Iris Rd/Camberwell Rd (Camberwell)",1330
+"21074","75",145.069119,"1,2",-37.842122,"48-Orrong Cres/Camberwell Rd (Camberwell)",1329
+"21127","75",145.18193,"1,2",-37.856445,"75-Vermont South Shopping Centre/Burwood Hwy (Vermont South)",1382
+"21125","75",145.174974,"1,2",-37.855544,"74-Stanley Rd/Burwood Hwy (Vermont South)",1380
+"21126","75",145.174598,"1,2",-37.855556,"74-Stanley Rd/Burwood Hwy (Vermont South)",1381
+"21124","75",145.170158,"1,2",-37.854938,"73-Springvale Rd/Burwood Hwy (Vermont South)",1379
+"21123","75",145.168196,"1,2",-37.854763,"73-Springvale Rd/Burwood Hwy (Burwood East)",1378
+"21122","75",145.166068,"1,2",-37.854414,"72-Lakeside Dr/Burwood Hwy (Burwood East)",1377
+"21121","75",145.164637,"1,2",-37.854365,"72-Lakeside Dr/Burwood Hwy (Burwood East)",1376
+"21120","75",145.158985,"1,2",-37.853592,"71-Sevenoaks Rd/Burwood Hwy (Burwood East)",1375
+"21119","75",145.158541,"1,2",-37.853621,"71-Sevenoaks Rd/Burwood Hwy (Burwood East)",1374
+"21118","75",145.152847,"1,2",-37.852694,"70-Blackburn Rd/Burwood Hwy (Burwood East)",1373
+"21117","75",145.151122,"1,2",-37.852576,"70-Blackburn Rd/Burwood Hwy (Burwood East)",1372
+"21116","75",145.146342,"1,2",-37.851942,"69-Highview Gr/Burwood Hwy (Burwood East)",1371
+"21115","75",145.146242,"1,2",-37.851851,"69-Keats St/Burwood Hwy (Burwood East)",1370
+"21114","75",145.142037,"1,2",-37.851379,"68-Benwerrin Reserve/Burwood Hwy (Burwood East)",1369
+"21113","75",145.14188,"1,2",-37.851286,"68-Benwerrin Reserve/Burwood Hwy (Burwood East)",1368
+"21112","75",145.138295,"1,2",-37.851482,"67-Old Burwood Rd/Burwood Hwy (Burwood East)",1367
+"21111","75",145.138136,"1,2",-37.851479,"67-Old Burwood Rd/Burwood Hwy (Burwood East)",1366
+"21110","75",145.133212,"1,2",-37.852023,"66-Middleborough Rd/Burwood Hwy (Burwood)",1365
+"21109","75",145.131837,"1,2",-37.85202,"66-Middleborough Rd/Burwood Hwy (Burwood)",1364
+"21108","75",145.126319,"1,2",-37.851364,"65-Starling St/Burwood Hwy (Burwood)",1363
+"21107","75",145.125981,"1,2",-37.85126,"65-Starling St/Burwood Hwy (Burwood)",1362
+"21106","75",145.120587,"1,2",-37.850606,"64-Station St/Burwood Hwy (Burwood)",1361
+"21105","75",145.119395,"1,2",-37.850551,"64-Station St/Burwood Hwy (Burwood)",1360
+"21104","75",145.115407,"1,2",-37.850081,"63-Deakin University/Burwood Hwy (Burwood)",1359
+"21103","75",145.115238,"1,2",-37.849989,"63-Deakin University/Burwood Hwy (Burwood)",1358
+"21101","75",145.108704,"1,2",-37.849505,"62-Elgar Rd/Burwood Hwy (Burwood)",1356
+"21102","75",145.108441,"1,2",-37.849591,"62-Elgar Rd/Burwood Hwy (Burwood)",1357
+"21100","75",145.105715,"1,2",-37.84998,"61-Presbyterian Ladies College/Burwood Hwy (Burwood)",1355
+"21099","75",145.105476,"1,2",-37.849967,"61-Presbyterian Ladies College/Burwood Hwy (Burwood)",1354
+"19781","109",145.122349,"1,2",-37.817876,"58-Box Hill Central/Whitehorse Rd (Box Hill)",1190
+"19421","70",145.110372,"1",-37.837609,"61-Elgar Rd/Riversdale Rd (Surrey Hills)",974
+"21098","75",145.102155,"1,2",-37.850508,"60-Millicent St/Burwood Hwy (Burwood)",1353
+"21097","75",145.102089,"1,2",-37.850444,"60-Roslyn St/Burwood Hwy (Burwood)",1352
+"19419","109",145.119861,"1,2",-37.817457,"57-Nelson Rd/Whitehorse Rd (Box Hill)",973
+"19782","109",145.118714,"1,2",-37.817421,"57-Nelson Rd/Whitehorse Rd (Box Hill)",1191
+"19779","70",145.106689,"1",-37.837208,"60-Ferndale St/Riversdale Rd (Surrey Hills)",1189
+"19422","70",145.106658,"1",-37.83709,"60-Ferndale St/Riversdale Rd (Surrey Hills)",975
+"21095","75",145.098979,"1,2",-37.8507,"59-Somers St/Burwood Hwy (Burwood)",1350
+"21096","75",145.09874,"1,2",-37.850742,"59-Gilmour St/Burwood Hwy (Burwood)",1351
+"19777","70",145.104808,"1",-37.836997,"59-Alandale St/Riversdale Rd (Surrey Hills)",1187
+"19418","109",145.115592,"1,2",-37.816911,"56-Elgar Rd/Whitehorse Rd (Box Hill)",972
+"19423","70",145.104641,"1",-37.836859,"59-Alandale St/Riversdale Rd (Surrey Hills)",976
+"19783","109",145.114434,"1,2",-37.816884,"56-Elgar Rd/Whitehorse Rd (Box Hill)",1192
+"21094","75",145.095838,"1,2",-37.850433,"58-Warrigal Rd/Burwood Hwy (Burwood)",1349
+"21093","75",145.095466,"1,2",-37.850328,"58-Warrigal Rd/Burwood Hwy (Camberwell)",1348
+"19776","70",145.10261,"1",-37.836755,"58-Wattle Park/1013 Riversdale Rd (Surrey Hills)",1186
+"19424","70",145.102184,"1",-37.836531,"58-Wattle Park/Riversdale Rd (Surrey Hills)",977
+"19425","70",145.100306,"1",-37.836204,"57-Glendale St/Riversdale Rd (Surrey Hills)",978
+"21092","75",145.092731,"1,2",-37.850158,"57-Queens Pde/Toorak Rd (Camberwell)",1347

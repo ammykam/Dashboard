@@ -1,0 +1,12 @@
+
+
+- name: Build docker image
+  become: yes
+  command: 'docker build -t mastodon_crime_crawler .'
+  args:  
+    chdir: /home/ubuntu/project/CCC--COMP90024-2023-/Mastadon 
+
+
+- name: Run docker image
+  become: yes
+  command: docker run -d  mastodon_crime_crawler

@@ -1,0 +1,62 @@
+- hosts: instances
+  gather_facts: true
+  vars:
+    - ansible_user: ubuntu
+    - ansible_ssh_private_key_file: ~/.ssh/NectarGroupKey
+    - ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+  roles:
+    - role: clone-git-repository
+
+- hosts: masternode
+  vars_files:
+      - host_vars/couchDB.yaml
+      - host_vars/config.yaml
+  gather_facts: true
+  vars:
+     - ansible_user: ubuntu
+     - ansible_ssh_private_key_file: ~/.ssh/NectarGroupKey
+     - ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+  roles:
+  #- role: clone-git-repository
+  - role: run-pull-latest-code
+  - role: run-mastodon-crawler_2
+
+- hosts: crawler
+  vars_files:
+      - host_vars/couchDB.yaml
+      - host_vars/config.yaml
+  gather_facts: true
+  vars:
+     - ansible_user: ubuntu
+     - ansible_ssh_private_key_file: ~/.ssh/NectarGroupKey
+     - ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+  roles:
+  - role: run-pull-latest-code
+  - role: run-mastodon-crawler
+
+- hosts: backend
+  vars_files:
+      - host_vars/couchDB.yaml
+      - host_vars/config.yaml
+  gather_facts: true
+  vars:
+     - ansible_user: ubuntu
+     - ansible_ssh_private_key_file: ~/.ssh/NectarGroupKey
+     - ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+  roles:
+    - role: run-pull-latest-code
+    - role: run-flask-server
+
+- hosts: frontend
+  vars_files:
+      - host_vars/couchDB.yaml
+      - host_vars/config.yaml
+  gather_facts: true
+  vars:
+     - ansible_user: ubuntu
+     - ansible_ssh_private_key_file: ~/.ssh/NectarGroupKey
+     - ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+  roles:
+    - role: run-pull-latest-code
+    - role: run-react-ui
+

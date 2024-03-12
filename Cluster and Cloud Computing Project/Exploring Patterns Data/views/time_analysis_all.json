@@ -1,0 +1,19 @@
+{
+  "_id": "_design/time",
+  "_rev": "11-0bae1a15f87d69695a6a916a5b65564f",
+  "views": {
+    "time": {
+      "reduce": "_sum",
+      "map": "function(doc) {\r\n  var d = new Date(doc.created_at);\r\n  var weekday = d.getDay(); // Sunday = 0, Monday = 1, ..., Saturday = 6\r\n\r\n  if (weekday >= 1 && weekday <= 5) { // Weekday (Monday to Friday)\r\n    emit(\"weekday\", 1);\r\n  } else { // Weekend (Saturday or Sunday)\r\n    emit(\"weekend\", 1);\r\n  }\r\n}"
+    },
+    "days_of_the_week": {
+      "reduce": "_sum",
+      "map": "function(doc) {\r\n  var d = new Date(doc.created_at);\r\n  var day = d.getDay(); // Sunday = 0, Monday = 1, ..., Saturday = 6\r\n\r\n  if (day === 0) {\r\n    emit(\"Sunday\", 1);\r\n  } else if (day === 1) {\r\n    emit(\"Monday\", 1);\r\n  } else if (day === 2) {\r\n    emit(\"Tuesday\", 1);\r\n  } else if (day === 3) {\r\n    emit(\"Wednesday\", 1);\r\n  } else if (day === 4) {\r\n    emit(\"Thursday\", 1);\r\n  } else if (day === 5) {\r\n    emit(\"Friday\", 1);\r\n  } else if (day === 6) {\r\n    emit(\"Saturday\", 1);\r\n  }\r\n}"
+    },
+    "hours": {
+      "reduce": "_sum",
+      "map": "function(doc) {\r\n  var d = new Date(doc.created_at);\r\n  var hour = d.getHours(); // Get the hour of the day (0-23)\r\n\r\n  emit(hour, 1);\r\n}"
+    }
+  },
+  "language": "javascript"
+}

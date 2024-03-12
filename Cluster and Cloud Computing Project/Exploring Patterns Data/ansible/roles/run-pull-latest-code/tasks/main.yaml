@@ -1,0 +1,5 @@
+- name: Pull latest code
+  become: yes
+  shell: git pull
+  args:
+    chdir: '/home/ubuntu/project/CCC--COMP90024-2023-'

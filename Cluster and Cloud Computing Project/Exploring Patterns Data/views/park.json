@@ -1,0 +1,10 @@
+{
+  "_id": "_design/park",
+  "_rev": "1-e6ee598174e9d0fa696b5a7e8738bc3e",
+  "views": {
+    "no_location": {
+      "map": "function (doc) {\n  emit(doc.properties, null);\n}"
+    }
+  },
+  "language": "javascript"
+}

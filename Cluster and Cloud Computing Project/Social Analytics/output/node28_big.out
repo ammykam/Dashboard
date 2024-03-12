@@ -1,0 +1,159 @@
+Rank: 1, file_name: [1136535, 2273070]
+=========
+Generate Time: 67.13740181922913
+=========
+=========
+Count Data Time: 0.17670273780822754
+=========
+Rank: 4, file_name: [4546140, 5682675]
+=========
+Generate Time: 149.84998989105225
+=========
+=========
+Count Data Time: 0.17182135581970215
+=========
+Rank: 3, file_name: [3409605, 4546140]
+=========
+Generate Time: 109.13308119773865
+=========
+=========
+Count Data Time: 0.15859222412109375
+=========
+Rank: 2, file_name: [2273070, 3409605]
+=========
+Generate Time: 88.52916097640991
+=========
+=========
+Count Data Time: 0.18559002876281738
+=========
+Rank: 6, file_name: [6819210, 7955745]
+=========
+Generate Time: 184.59838151931763
+=========
+=========
+Count Data Time: 0.18103671073913574
+=========
+Rank: 7, file_name: [7955745, 9092274]
+=========
+Generate Time: 211.53384280204773
+=========
+=========
+Count Data Time: 0.18670892715454102
+=========
+Rank: 5, file_name: [5682675, 6819210]
+=========
+Generate Time: 159.11441254615784
+=========
+=========
+Count Data Time: 0.18049979209899902
+=========
+=========
+checkNumberObjects Time: 122.43667149543762
+=========
+=========
+Split Time: 3.337860107421875e-05
+=========
+Rank: 0, file_name: [0, 1136535]
+=========
+Generate Time: 44.91187238693237
+=========
+=========
+Count Data Time: 0.17052340507507324
+=========
+=========
+Merge Time: 38.75598359107971
+=========
+=========
+Total Time: 374.7460744380951
+=========
+   Rank            Author Id  Number of Total Tweets Made
+0     1  1498063511204761601                        68477
+1     2  1089023364973219840                        28128
+2     3   826332877457481728                        27718
+3     4  1250331934242123776                        25350
+4     5  1423662808311287813                        21034
+5     6  1183144981252280322                        20765
+6     7  1270672820792508417                        20503
+7     8   820431428835885059                        20063
+8     9   778785859030003712                        19403
+9    10  1104295492433764353                        18781
+  Greater Capital City  Number of Total Tweets Made
+0                2gmel                      2286484
+1                1gsyd                      2117747
+2                3gbri                       858073
+3                5gper                       586232
+4                4gade                       460604
+5                8acte                       202493
+6                6ghob                        90639
+7                7gdar                        46387
+8                9oter                            3
+       Rank            Author Id  Number of Unique City Locations  \
+28154     1  1429984556451389440                                8   
+9435      2             17285408                                8   
+2610      3   702290904460169216                                8   
+7333      4             87188071                                8   
+8778      5   774694926135222272                                8   
+5328      6           1361519083                                8   
+5311      7            502381727                                8   
+5985      8   921197448885886977                                8   
+49461     9            601712763                                8   
+25099    10           2647302752                                8   
+
+       Number of Total Tweets Made  \
+28154                         1920   
+9435                          1209   
+2610                          1116   
+7333                           393   
+8778                           272   
+5328                           260   
+5311                           250   
+5985                           205   
+49461                          146   
+25099                           80   
+
+                                                         Count Tweets in Each City  
+28154          #1880gmel, #2gade, #13acte, #7gper, #10gsyd, #6gbri, #1ghob, #1gdar  
+9435         #1061gsyd, #40gbri, #23acte, #60gmel, #11ghob, #3gade, #4gdar, #7gper  
+2610   #252gmel, #111gade, #46acte, #218gbri, #40ghob, #20gdar, #288gsyd, #141gper  
+7333        #28gade, #65gbri, #50gper, #110gsyd, #86gmel, #34acte, #15ghob, #5gdar  
+8778        #37gbri, #28gade, #28gdar, #34acte, #37gsyd, #34gper, #38gmel, #36ghob  
+5328            #36gmel, #193gdar, #12gsyd, #9gade, #1gper, #6acte, #2ghob, #1gbri  
+5311             #214gmel, #8gbri, #8ghob, #3gper, #4gade, #2gsyd, #1gdar, #10acte  
+5985           #37gbri, #24gade, #28gper, #46gsyd, #58gmel, #7acte, #4ghob, #1gdar  
+49461         #44gsyd, #10acte, #39gmel, #1gdar, #14gper, #8ghob, #19gade, #11gbri  
+25099            #32gbri, #3gdar, #3gade, #4gper, #4acte, #13gsyd, #16gmel, #5ghob  
+
+
+
+Job ID           : 46152275
+Cluster          : spartan
+User/Project     : natakornk/comp90024
+Nodes            : 2
+Wall-clock time  : 00:06:21 / 00:10:00
+
+Displaying overall resources usage from 2023-04-06 23:15:08 to 2023-04-06 23:21:29:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm022 : 
+                CPU# 1    : 95.3   (  92.2 /   3.1 /   0.0 /   4.7 ) 
+                CPU# 2    : 88.1   (  86.9 /   1.1 /   0.0 /  11.9 ) 
+                CPU# 3    : 88.0   (  86.1 /   1.8 /   0.0 /  12.0 ) 
+                CPU# 4    : 88.1   (  86.4 /   1.7 /   0.0 /  11.9 ) 
+
+spartan-bm024 : 
+                CPU# 5    : 88.4   (  85.4 /   3.0 /   0.0 /  11.6 ) 
+                CPU# 6    : 89.8   (  86.2 /   3.6 /   0.0 /  10.2 ) 
+                CPU# 7    : 88.6   (  85.6 /   3.0 /   0.0 /  11.4 ) 
+                CPU# 8    : 88.5   (  84.6 /   3.9 /   0.0 /  11.5 ) 
+
+
+Allocated CPUs            : 8    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 8    
+
+Memory used (RAM)         : 0.0%  [5MB of 32000MB]
+
+--------------------------------------------
+

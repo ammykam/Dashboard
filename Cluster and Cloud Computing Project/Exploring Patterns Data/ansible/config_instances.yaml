@@ -1,0 +1,41 @@
+- hosts: localhost
+  gather_facts: true
+  roles:
+    - role: add-key
+
+- hosts: instances
+  vars_files:
+    - host_vars/deploy.yaml
+    - host_vars/instances.yaml
+    - host_vars/couchDB.yaml
+  gather_facts: true
+  vars:
+    - ansible_user: ubuntu
+    - ansible_ssh_private_key_file: ~/.ssh/NectarGroupKey
+    - ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+  roles:
+     - role: add-proxy
+     - role: install-dependencies
+     - role: install-docker
+     - role: mount-volumes
+     - role: install-couchDB
+
+- hosts: masternode
+  vars_files:
+   - host_vars/couchDB.yaml
+  gather_facts: false
+  vars: 
+   - ansible_user: ubuntu
+   - ansible_ssh_private_key_file: ~/.ssh/NectarGroupKey
+   - ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+   - couchdb_image: couchdb:latest
+   - couchdb_user: couchdb
+   - couchdb_pass: couchdb
+   - couchdb_VERSION: '3.0.0'
+   - couchdb_cookie: 'rAndomLongAssCookie'
+   - couchdb_container_name: 'couchdb'
+   - couchdb_port: 5984
+   - erlang_port: 9100
+   - cluster_com_port: 4369
+  roles:
+    - role: setup-cluster
