@@ -1,4 +1,4 @@
-## Data Analyst Portfolio
+## Natakorn Kam Portfolio
 
 Welcome to my Portfolio repository! This repository contains various projects that showcase my skills and experience in various fields.
 
